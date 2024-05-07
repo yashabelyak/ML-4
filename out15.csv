@@ -1,0 +1,1001 @@
+ID,year,loan_limit,Gender,approv_in_adv,loan_purpose,Credit_Worthiness,open_credit,business_or_commercial,loan_amount,rate_of_interest,Interest_rate_spread,Upfront_charges,term,Neg_ammortization,interest_only,lump_sum_payment,property_value,Secured_by,total_units,income,credit_type,Credit_Score,co-applicant_credit_type,age,LTV,Region,Security_Type,Status,dtir1
+25220,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,126500,4.125,0.2438,950.0,288,not_neg,not_int,not_lpsm,138000.0,home,1U,13560.0,CIB,744,EXP,65-74,44.04761905,North,direct,1,42.0
+25276,2019,ncf,Sex Not Available,,p1,l1,nopc,nob/c,406500,3.625,0.812,6792.09,276,not_neg,not_int,not_lpsm,298000.0,home,3U,13800.0,EXP,639,EXP,45-54,59.53159041,North,direct,0,45.0
+25708,2019,cf,Male,pre,p3,l1,nopc,nob/c,876500,3.875,-0.4937,1657.5,324,not_neg,not_int,lpsm,768000.0,home,1U,5760.0,EQUI,776,EXP,>74,68.12267658,south,direct,0,8.0
+25180,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,326500,3.56,-0.6287,2329.8,360,not_neg,not_int,not_lpsm,428000.0,home,2U,10080.0,CIB,515,CIB,,99.44029851,central,direct,1,11.0
+25458,2019,cf,Sex Not Available,nopre,p2,l1,opc,b/c,236500,4.5,0.5864,3041.75,228,not_neg,not_int,not_lpsm,378000.0,home,1U,8580.0,EXP,561,EXP,65-74,78.11004785,North-East,direct,1,24.0
+25586,2019,cf,Male,nopre,p3,l1,opc,nob/c,356500,3.125,1.5589,4595.02,120,not_neg,int_only,not_lpsm,1258000.0,home,1U,10080.0,CRIF,604,EXP,45-54,93.23899371,North,direct,0,61.0
+25720,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,186500,2.99,0.3267,1385.04,288,not_neg,not_int,not_lpsm,688000.0,home,1U,7860.0,EQUI,580,CIB,65-74,96.59763314,North,direct,0,54.0
+25381,2019,cf,Female,nopre,p3,l1,nopc,nob/c,26500,3.375,0.6654,4653.09,276,not_neg,not_int,not_lpsm,358000.0,home,3U,7980.0,EXP,740,EXP,35-44,75.65502183,south,direct,0,18.0
+25908,2019,ncf,Male,pre,p1,l1,nopc,nob/c,296500,2.99,1.3172,710.51,360,not_neg,int_only,not_lpsm,698000.0,home,4U,2640.0,CRIF,538,CIB,65-74,93.53932584,south,direct,0,33.0
+25435,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,226500,5.125,-0.4542,4394.53,192,not_neg,not_int,lpsm,418000.0,home,4U,7500.0,CRIF,708,EXP,45-54,42.44966443,North,direct,0,
+24956,2019,cf,Male,nopre,p3,l1,nopc,nob/c,386500,3.75,0.6403,2131.24,192,not_neg,not_int,not_lpsm,1708000.0,home,1U,49920.0,CIB,873,EXP,25-34,59.64506173,south,direct,1,9.0
+25641,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,86500,4.5,0.3399,4395.0,288,neg_amm,not_int,not_lpsm,408000.0,home,2U,8220.0,EXP,730,CIB,35-44,90.68047337,North,direct,0,42.0
+25747,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,596500,3.75,-0.0394,7305.0,348,not_neg,not_int,not_lpsm,268000.0,home,2U,25680.0,CRIF,581,EXP,65-74,37.21294363,central,direct,0,
+25561,2019,ncf,Female,nopre,p3,l1,nopc,b/c,486500,3.75,0.5859,14300.25,360,not_neg,not_int,not_lpsm,378000.0,home,1U,19800.0,CRIF,784,EXP,35-44,59.25090253,south,direct,0,8.0
+25006,2019,cf,Male,nopre,p3,l1,nopc,nob/c,626500,3.65,0.8591,1790.0,228,neg_amm,not_int,not_lpsm,288000.0,home,1U,1500.0,CRIF,640,EXP,65-74,81.9579288,south,direct,0,16.0
+25259,2019,ncf,Joint,nopre,p2,l1,nopc,nob/c,876500,4.0,0.2291,5675.0,360,neg_amm,not_int,not_lpsm,298000.0,home,1U,8340.0,CIB,705,CIB,>74,84.85576923,North,direct,0,22.0
+25362,2019,cf,Female,nopre,p3,l2,nopc,nob/c,686500,5.19,0.0514,4347.8,120,not_neg,not_int,not_lpsm,288000.0,home,3U,10740.0,CRIF,698,CIB,65-74,77.92553191,North,direct,0,41.0
+24915,2019,ncf,Male,pre,p3,l1,nopc,nob/c,156500,3.125,0.3338,1635.0,180,not_neg,not_int,not_lpsm,418000.0,home,1U,11100.0,CRIF,715,CIB,>74,94.64285714,North,direct,0,53.0
+25851,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,826500,5.19,1.5693,6260.0,180,not_neg,not_int,not_lpsm,198000.0,home,2U,12600.0,CRIF,515,EXP,,43.47527473,North-East,direct,0,37.0
+25508,2019,,Joint,nopre,p3,l1,nopc,nob/c,316500,3.775,0.3399,3825.11,192,not_neg,not_int,not_lpsm,1538000.0,home,4U,14160.0,CRIF,550,EXP,35-44,87.72189349,North,direct,0,57.0
+25513,2019,,Male,nopre,p3,l1,nopc,nob/c,176500,4.875,-0.0666,950.0,240,not_neg,not_int,lpsm,2608000.0,home,1U,4260.0,CRIF,770,CIB,35-44,77.51572327,central,direct,0,33.0
+25902,2019,cf,Sex Not Available,pre,p3,l1,nopc,b/c,106500,3.625,1.2158,2235.0,228,not_neg,not_int,lpsm,898000.0,home,4U,8520.0,CRIF,890,EXP,45-54,56.72043011,south,direct,0,47.0
+25597,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,76500,2.75,0.3766,3792.82,360,not_neg,not_int,not_lpsm,518000.0,home,3U,13500.0,CIB,811,CIB,65-74,69.92753623,south,direct,0,15.0
+25415,2019,ncf,Female,nopre,p4,l2,nopc,nob/c,556500,4.625,0.6648,2920.33,324,not_neg,not_int,not_lpsm,648000.0,home,2U,2220.0,EQUI,721,EXP,25-34,71.09872611,North,direct,0,22.0
+24966,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,166500,3.65,-0.2959,5650.0,120,not_neg,not_int,not_lpsm,948000.0,home,1U,5640.0,CRIF,810,CIB,45-54,89.60755814,North,direct,0,20.0
+25519,2019,cf,Joint,nopre,p1,l1,opc,nob/c,826500,3.99,-0.4373,1702.16,156,not_neg,not_int,not_lpsm,308000.0,home,2U,19620.0,EXP,837,EXP,35-44,71.28820961,North,direct,0,36.0
+25128,2019,cf,Male,nopre,p3,l1,nopc,b/c,186500,5.5,-0.2096,3777.88,276,not_neg,int_only,not_lpsm,,home,1U,13620.0,CIB,513,EXP,35-44,83.67579909,North,direct,1,26.0
+25291,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,476500,4.125,0.7018,1330.09,144,not_neg,not_int,not_lpsm,1048000.0,home,1U,2400.0,EXP,673,CIB,65-74,64.75694444,North-East,direct,1,
+25674,2019,cf,Male,nopre,p3,l1,nopc,nob/c,276500,4.0,-0.2132,1235.0,108,not_neg,not_int,not_lpsm,1008000.0,home,2U,71220.0,EQUI,622,EXP,25-34,96.49390244,North-East,direct,1,40.0
+25556,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,486500,3.75,-0.0191,6064.0,300,not_neg,not_int,not_lpsm,148000.0,home,1U,3300.0,CIB,603,EXP,45-54,58.67609254,south,direct,0,28.0
+25271,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,366500,3.65,0.0567,4115.0,360,not_neg,not_int,not_lpsm,118000.0,home,1U,12120.0,CRIF,803,CIB,45-54,94.45876289,North,direct,0,60.0
+25671,2019,cf,Male,pre,p4,l1,nopc,nob/c,316500,3.56,0.464,4156.25,324,not_neg,not_int,lpsm,658000.0,home,3U,4860.0,CIB,589,EXP,35-44,37.44019139,North,direct,1,6.0
+24971,2019,cf,Joint,nopre,p1,l1,opc,nob/c,796500,4.75,1.711,1605.37,240,not_neg,not_int,not_lpsm,388000.0,home,1U,8220.0,EXP,718,EXP,55-64,60.3046595,south,direct,0,36.0
+25141,2019,cf,Sex Not Available,,p3,l1,nopc,b/c,306500,3.49,0.1691,10625.0,180,not_neg,not_int,not_lpsm,108000.0,home,1U,10740.0,CRIF,738,EXP,65-74,99.64953271,south,direct,0,34.0
+25816,2019,,Joint,,p4,l1,nopc,b/c,696500,4.25,-0.2676,4476.97,300,not_neg,not_int,not_lpsm,938000.0,home,2U,3480.0,CRIF,858,EXP,45-54,54.42913386,south,direct,0,
+25844,2019,cf,Male,pre,p1,l1,nopc,nob/c,256500,3.125,-0.3485,5493.02,276,not_neg,int_only,not_lpsm,848000.0,home,4U,16740.0,CRIF,713,CIB,,83.80503145,North,direct,0,31.0
+25318,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,906500,3.125,-0.4337,5512.38,156,neg_amm,not_int,not_lpsm,818000.0,home,3U,9840.0,CRIF,826,EXP,25-34,63.39285714,south,direct,1,
+25255,2019,ncf,Male,,p2,l1,nopc,nob/c,636500,3.5,0.7084,6536.25,180,not_neg,not_int,not_lpsm,588000.0,home,1U,5880.0,EXP,611,EXP,<25,59.16988417,south,direct,1,49.0
+25404,2019,cf,Joint,pre,p2,l1,nopc,nob/c,266500,,-0.25,1481.59,240,not_neg,not_int,lpsm,88000.0,home,1U,1800.0,CIB,584,CIB,>74,48.50835322,south,direct,1,57.0
+25605,2019,cf,Joint,,p1,l1,opc,nob/c,476500,3.0,-0.2,3820.0,300,not_neg,not_int,not_lpsm,338000.0,home,1U,15360.0,CRIF,807,EXP,55-64,31.98689956,North,direct,0,59.0
+24975,2019,cf,Joint,,p4,l1,nopc,nob/c,346500,4.0,1.0684,12800.0,180,not_neg,not_int,not_lpsm,2008000.0,home,1U,4680.0,CIB,745,CIB,45-54,98.29545455,North,direct,0,36.0
+25636,2019,cf,Joint,nopre,p3,l2,nopc,nob/c,496500,2.99,0.0743,9618.75,192,not_neg,not_int,lpsm,688000.0,home,1U,5580.0,CRIF,791,CIB,25-34,92.94217687,North,direct,0,61.0
+25820,2019,ncf,Male,pre,p4,l1,nopc,nob/c,986500,5.0,-0.155,795.0,240,not_neg,not_int,not_lpsm,478000.0,home,2U,4980.0,CRIF,663,EXP,,60.69682152,south,direct,1,40.0
+25804,2019,cf,Joint,pre,p4,l1,nopc,nob/c,116500,5.375,0.4387,2378.01,336,neg_amm,not_int,not_lpsm,278000.0,home,4U,4500.0,CIB,793,CIB,55-64,79.76190476,south,direct,1,11.0
+25639,2019,cf,Male,nopre,p4,l1,nopc,nob/c,656500,5.375,0.5677,3410.0,276,not_neg,int_only,not_lpsm,2128000.0,home,1U,10260.0,CIB,672,CIB,55-64,79.76190476,North-East,direct,0,42.0
+25055,2019,cf,Female,nopre,p3,l1,nopc,nob/c,196500,3.75,1.0852,4542.18,360,not_neg,not_int,not_lpsm,258000.0,home,1U,10860.0,CRIF,647,CIB,25-34,69.73684211,North,direct,0,10.0
+25717,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,96500,4.0,-0.0713,625.63,228,neg_amm,not_int,not_lpsm,,home,1U,5520.0,CRIF,691,EXP,35-44,52.12585034,North,direct,0,8.0
+25842,2019,,Joint,,p4,l1,nopc,nob/c,96500,3.75,1.4168,1911.16,228,neg_amm,int_only,not_lpsm,1298000.0,home,1U,15180.0,CIB,728,EXP,65-74,49.45414847,south,direct,1,29.0
+25825,2019,cf,Sex Not Available,nopre,p4,l2,nopc,nob/c,156500,5.5,0.8896,1630.39,228,not_neg,not_int,lpsm,148000.0,home,1U,8460.0,EQUI,669,CIB,65-74,79.56081081,North,direct,0,12.0
+25615,2019,,Joint,nopre,p3,l1,nopc,nob/c,426500,2.75,0.6498,4497.05,156,not_neg,int_only,not_lpsm,988000.0,home,1U,5640.0,EQUI,795,EXP,65-74,80.88662791,central,direct,1,17.0
+24974,2019,cf,Male,pre,p4,l1,nopc,nob/c,706500,3.75,1.153,4557.15,360,not_neg,not_int,not_lpsm,878000.0,home,1U,8580.0,CRIF,824,EXP,45-54,80.96330275,North,direct,0,29.0
+25766,2019,,Joint,pre,p3,l1,nopc,nob/c,346500,2.75,0.2848,4663.95,156,not_neg,not_int,lpsm,1338000.0,home,1U,2100.0,CRIF,567,EXP,>74,73.70689655,south,direct,0,29.0
+25557,2019,cf,Male,nopre,p3,l2,opc,nob/c,196500,3.25,1.563,6260.0,192,not_neg,not_int,not_lpsm,2398000.0,home,2U,16680.0,CRIF,536,CIB,65-74,30.69105691,central,direct,1,16.0
+25621,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,26500,5.375,1.3638,3149.5,240,neg_amm,int_only,not_lpsm,628000.0,home,1U,2040.0,EXP,567,CIB,35-44,79.50507614,North,direct,0,41.0
+25609,2019,,Female,nopre,p3,l1,nopc,b/c,356500,3.75,0.0852,3560.0,240,not_neg,not_int,not_lpsm,518000.0,home,2U,12600.0,EXP,743,CIB,55-64,99.27884615,south,direct,0,52.0
+25344,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,466500,3.99,0.3492,5650.0,144,neg_amm,not_int,not_lpsm,888000.0,home,1U,12180.0,CIB,865,EXP,35-44,82.07964602,central,direct,0,36.0
+25774,2019,cf,Male,nopre,p3,l1,opc,nob/c,426500,2.99,0.9005,1644.21,300,not_neg,int_only,not_lpsm,668000.0,home,4U,6780.0,CIB,657,CIB,65-74,85.34836066,North,direct,0,10.0
+25590,2019,cf,Female,nopre,p4,l2,nopc,nob/c,196500,2.75,0.3731,2822.0,288,neg_amm,not_int,not_lpsm,,home,1U,6660.0,CIB,803,EXP,65-74,71.95945946,North,direct,1,28.0
+25489,2019,cf,Male,,p4,l1,nopc,nob/c,636500,3.69,0.3518,5073.75,312,not_neg,not_int,not_lpsm,1168000.0,home,3U,10800.0,CIB,761,CIB,45-54,33.93416928,south,direct,1,24.0
+25393,2019,,Female,nopre,p1,l1,nopc,nob/c,136500,5.25,0.5541,2073.52,312,not_neg,not_int,not_lpsm,578000.0,home,3U,6600.0,CRIF,581,EXP,>74,36.81133056,North,direct,0,
+25416,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,166500,4.56,0.0023,4701.56,228,not_neg,int_only,not_lpsm,578000.0,home,3U,39300.0,EXP,724,CIB,35-44,56.88325991,North,direct,0,24.0
+25452,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,216500,3.875,0.1222,250.0,240,not_neg,not_int,lpsm,248000.0,home,4U,10260.0,EXP,798,EXP,35-44,84.72222222,south,direct,0,60.0
+25222,2019,cf,Female,nopre,p3,l1,nopc,nob/c,196500,4.375,0.327,5376.25,240,not_neg,not_int,not_lpsm,818000.0,home,3U,15360.0,CRIF,543,CIB,45-54,27.14471404,North,direct,1,21.0
+25491,2019,,Sex Not Available,pre,p2,l1,nopc,nob/c,326500,4.375,0.2438,1911.16,360,not_neg,not_int,not_lpsm,1018000.0,home,1U,1920.0,CRIF,508,CIB,55-64,86.05769231,south,direct,0,53.0
+24939,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,366500,3.5,0.6536,10305.45,312,not_neg,not_int,lpsm,388000.0,home,3U,9600.0,CIB,843,EXP,45-54,42.1875,North-East,direct,1,27.0
+25018,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,396500,4.18,0.9368,4852.75,120,not_neg,not_int,not_lpsm,68000.0,home,1U,4080.0,EXP,598,EXP,35-44,75.08802817,central,direct,0,27.0
+25289,2019,,Female,nopre,p4,l1,nopc,nob/c,606500,3.0,0.0855,6656.0,360,not_neg,not_int,not_lpsm,768000.0,home,1U,10500.0,CRIF,774,EXP,35-44,73.24879227,North,direct,0,37.0
+25010,2019,cf,Male,nopre,p3,l1,opc,nob/c,206500,4.125,0.2054,5284.38,348,not_neg,not_int,lpsm,1298000.0,home,1U,0.0,EXP,756,CIB,55-64,57.75039746,North-East,direct,0,56.0
+25497,2019,ncf,Male,,p4,l1,nopc,nob/c,96500,,1.5589,4205.71,360,not_neg,not_int,not_lpsm,678000.0,home,1U,4500.0,CRIF,805,CIB,25-34,73.15989848,North-East,direct,1,57.0
+25906,2019,cf,Male,nopre,p3,l1,opc,nob/c,626500,4.875,0.9649,3455.75,360,not_neg,not_int,not_lpsm,1298000.0,home,1U,11880.0,CRIF,674,EXP,55-64,79.57589286,south,direct,0,21.0
+25462,2019,ncf,Male,,p4,l1,opc,b/c,346500,3.69,1.0898,2768.18,180,neg_amm,not_int,not_lpsm,868000.0,home,1U,16740.0,CRIF,593,EXP,35-44,66.93925234,North,direct,1,58.0
+25331,2019,ncf,Female,,p4,l1,opc,b/c,716500,2.875,0.0514,3709.03,360,not_neg,not_int,not_lpsm,1308000.0,home,1U,2940.0,EXP,662,CIB,65-74,78.31196581,North,direct,0,30.0
+25409,2019,cf,Male,nopre,p3,l1,nopc,nob/c,456500,3.69,0.338,2280.0,156,not_neg,not_int,not_lpsm,318000.0,home,1U,14100.0,CRIF,648,EXP,65-74,64.63210702,North-East,direct,0,60.0
+25042,2019,cf,Female,,p3,l1,nopc,nob/c,376500,5.375,-0.3326,4285.11,180,not_neg,not_int,not_lpsm,248000.0,home,1U,6960.0,EQUI,555,CIB,25-34,88.61464968,North,direct,0,13.0
+25629,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,b/c,386500,3.625,0.0923,4653.09,96,not_neg,not_int,not_lpsm,598000.0,home,1U,4020.0,EQUI,537,EXP,35-44,46.80656934,central,direct,0,49.0
+25080,2019,cf,Sex Not Available,pre,p3,l1,nopc,b/c,66500,5.75,0.3836,5344.5,180,not_neg,not_int,not_lpsm,498000.0,home,1U,14100.0,EXP,553,CIB,65-74,62.01431493,central,direct,0,33.0
+25156,2019,cf,Male,,p4,l1,nopc,b/c,526500,,-0.0633,4720.0,360,not_neg,not_int,not_lpsm,448000.0,home,1U,13140.0,EXP,779,EXP,65-74,76.78571429,south,direct,0,41.0
+25006,2019,ncf,Female,nopre,p3,l1,nopc,b/c,636500,3.49,0.768,425.0,360,neg_amm,int_only,not_lpsm,658000.0,home,2U,10980.0,CRIF,780,CIB,65-74,35.25280899,North,direct,0,30.0
+25538,2019,cf,Female,nopre,p4,l1,opc,nob/c,46500,2.75,0.202,209.91,180,not_neg,not_int,not_lpsm,538000.0,home,4U,8700.0,EXP,671,EXP,<25,96.95767196,south,direct,0,61.0
+25021,2019,ncf,Male,nopre,p4,l1,nopc,b/c,26500,5.25,0.4736,11957.75,120,neg_amm,not_int,lpsm,108000.0,home,4U,7860.0,CRIF,804,CIB,25-34,48.76644737,south,direct,0,59.0
+25062,2019,cf,Sex Not Available,pre,p3,l2,opc,nob/c,676500,4.25,-0.1541,346.68,180,not_neg,not_int,lpsm,778000.0,home,1U,16020.0,EXP,724,CIB,35-44,63.39285714,south,direct,0,12.0
+25610,2019,cf,Male,,p3,l1,nopc,nob/c,826500,3.875,0.3188,590.73,240,neg_amm,int_only,not_lpsm,358000.0,home,1U,3600.0,EXP,703,CIB,,73.30508475,North-East,direct,0,
+25861,2019,cf,Male,pre,p2,l1,nopc,nob/c,1376500,5.0,1.3538,5825.0,180,neg_amm,not_int,not_lpsm,528000.0,home,3U,12840.0,CRIF,803,CIB,55-64,64.63210702,North,direct,0,8.0
+25703,2019,cf,Male,nopre,p3,l1,nopc,nob/c,516500,4.5,1.1269,2658.42,228,not_neg,not_int,not_lpsm,568000.0,home,2U,7440.0,CRIF,762,CIB,45-54,65.39665971,North,direct,0,31.0
+25797,2019,cf,Joint,,p3,l1,nopc,nob/c,196500,5.75,-0.1789,5358.88,192,not_neg,not_int,lpsm,778000.0,home,1U,3300.0,CIB,884,EXP,55-64,63.48920863,south,direct,1,15.0
+25617,2019,cf,Joint,nopre,p3,l2,nopc,nob/c,336500,4.375,0.1579,13964.19,360,not_neg,not_int,lpsm,388000.0,home,3U,13440.0,EXP,646,EXP,<25,77.23463687,south,direct,0,40.0
+25713,2019,,Male,nopre,p4,l1,nopc,nob/c,116500,4.625,-0.1973,3075.0,96,not_neg,not_int,not_lpsm,1208000.0,home,4U,12420.0,EQUI,653,CIB,35-44,66.15168539,North,direct,0,35.0
+25466,2019,,Sex Not Available,nopre,p3,l1,opc,b/c,166500,4.56,0.1029,2733.44,336,not_neg,not_int,lpsm,958000.0,home,2U,13860.0,CRIF,539,EXP,45-54,73.47161572,North,direct,0,25.0
+25000,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,1416500,3.775,0.2805,4341.0,324,not_neg,not_int,not_lpsm,748000.0,home,3U,54300.0,EXP,778,CIB,,69.41287879,North,direct,0,9.0
+25763,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,1506500,4.375,1.5693,4653.09,96,neg_amm,not_int,not_lpsm,1108000.0,home,2U,19020.0,CRIF,717,CIB,55-64,87.92134831,North,direct,0,46.0
+25814,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,176500,4.875,-0.2105,4062.58,336,not_neg,not_int,not_lpsm,428000.0,home,1U,10380.0,CRIF,794,CIB,45-54,96.1409396,North,direct,1,48.0
+25848,2019,cf,Female,nopre,p4,l1,nopc,b/c,476500,5.625,0.3056,4790.0,360,not_neg,not_int,not_lpsm,798000.0,home,1U,6360.0,EXP,794,EXP,55-64,89.66346154,south,direct,0,23.0
+25143,2019,cf,Male,nopre,p3,l1,opc,nob/c,256500,3.7,0.7528,4701.56,180,not_neg,not_int,not_lpsm,918000.0,home,1U,12180.0,EXP,783,CIB,65-74,69.62560386,south,direct,0,42.0
+25192,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,526500,3.56,0.8896,8112.5,360,neg_amm,not_int,lpsm,888000.0,home,1U,8700.0,CRIF,543,CIB,45-54,62.68564356,North,direct,0,22.0
+25703,2019,cf,Female,nopre,p4,l1,opc,nob/c,696500,,-0.168,209.0,192,not_neg,not_int,not_lpsm,518000.0,home,1U,21660.0,EXP,644,EXP,>74,99.52830189,south,direct,0,33.0
+25781,2019,cf,Male,,p1,l1,opc,b/c,486500,5.25,1.1345,2722.95,312,not_neg,not_int,not_lpsm,318000.0,home,1U,1260.0,EQUI,893,CIB,25-34,99.41860465,south,direct,0,24.0
+25535,2019,,Joint,nopre,p3,l1,nopc,nob/c,146500,4.56,0.2961,6875.07,156,not_neg,not_int,lpsm,138000.0,home,4U,2520.0,CRIF,561,CIB,55-64,72.43589744,North,direct,1,17.0
+25236,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,346500,4.18,1.2019,5675.0,240,neg_amm,int_only,not_lpsm,2008000.0,home,1U,7980.0,CRIF,540,EXP,>74,73.14814815,south,direct,0,43.0
+25741,2019,,Female,,p3,l1,nopc,nob/c,256500,2.99,-0.0042,4147.88,336,not_neg,not_int,not_lpsm,298000.0,home,3U,16560.0,CRIF,691,CIB,<25,75.71770335,North,direct,0,34.0
+25074,2019,ncf,Sex Not Available,nopre,p1,l1,nopc,nob/c,306500,4.18,0.2584,906.97,360,not_neg,not_int,not_lpsm,208000.0,home,1U,1920.0,EXP,673,EXP,<25,59.25090253,North,direct,0,31.0
+25199,2019,cf,Joint,nopre,p3,l1,nopc,b/c,216500,4.125,0.4254,485.55,240,not_neg,int_only,not_lpsm,1138000.0,home,3U,10980.0,EQUI,563,EXP,35-44,91.015625,south,direct,1,13.0
+25566,2019,cf,Male,nopre,p2,l1,nopc,nob/c,796500,5.25,0.5905,6332.73,348,not_neg,not_int,lpsm,268000.0,home,2U,18480.0,EXP,503,EXP,65-74,70.83333333,south,direct,0,37.0
+25142,2019,cf,Male,pre,p3,l2,nopc,nob/c,536500,4.625,0.3095,1456.17,288,not_neg,not_int,not_lpsm,1308000.0,home,1U,6300.0,EQUI,873,CIB,25-34,11.69656203,south,direct,0,59.0
+25642,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,166500,3.625,0.1681,2722.95,180,not_neg,not_int,not_lpsm,458000.0,home,2U,12420.0,EXP,837,CIB,55-64,88.26530612,North,direct,1,49.0
+25554,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,216500,4.375,0.147,1560.45,276,not_neg,not_int,not_lpsm,228000.0,home,1U,12060.0,CIB,705,CIB,45-54,36.77884615,south,direct,0,29.0
+25280,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,46500,3.69,-0.1955,512.6,312,not_neg,not_int,not_lpsm,118000.0,home,1U,4080.0,CIB,624,CIB,25-34,77.82846715,south,direct,0,52.0
+25122,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,686500,4.25,0.9243,2752.55,360,not_neg,not_int,not_lpsm,978000.0,home,1U,4620.0,CIB,724,CIB,55-64,83.80503145,south,direct,0,61.0
+25631,2019,ncf,Sex Not Available,nopre,p4,l1,opc,nob/c,1506500,4.375,0.5365,3910.0,192,neg_amm,not_int,not_lpsm,738000.0,home,2U,5280.0,CIB,713,CIB,35-44,76.62037037,south,direct,0,58.0
+25135,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,176500,3.99,-0.2676,5937.5,276,not_neg,not_int,not_lpsm,978000.0,home,1U,2760.0,EXP,595,CIB,35-44,59.16988417,south,direct,0,39.0
+25887,2019,cf,Male,,p3,l1,nopc,nob/c,106500,3.875,-0.0666,3375.48,348,not_neg,not_int,not_lpsm,818000.0,home,1U,2040.0,EXP,815,EXP,55-64,58.13609467,central,direct,0,18.0
+25383,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,376500,3.99,1.3328,614.44,180,not_neg,not_int,not_lpsm,628000.0,home,1U,21660.0,CRIF,792,EXP,55-64,77.23463687,North-East,direct,0,32.0
+25659,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,196500,3.25,-0.1564,3831.19,180,not_neg,not_int,not_lpsm,198000.0,home,1U,12060.0,EQUI,597,EXP,35-44,55.17751479,south,direct,1,36.0
+25816,2019,cf,Female,nopre,p3,l2,opc,nob/c,1416500,4.75,0.7491,346.68,300,not_neg,not_int,lpsm,1228000.0,home,1U,4680.0,EXP,887,CIB,55-64,36.77884615,south,direct,1,27.0
+25631,2019,cf,Joint,nopre,p3,l1,nopc,b/c,496500,3.5,0.754,2624.6,180,not_neg,int_only,not_lpsm,528000.0,home,1U,12180.0,EQUI,715,EXP,<25,72.82934132,North,direct,0,39.0
+25482,2019,cf,Sex Not Available,pre,p3,l2,opc,nob/c,186500,4.625,0.2433,2471.85,324,not_neg,not_int,not_lpsm,168000.0,home,1U,6780.0,CRIF,525,CIB,65-74,99.4966443,North,direct,1,20.0
+25194,2019,ncf,Sex Not Available,nopre,p3,l2,nopc,nob/c,556500,3.99,0.1574,6786.81,144,not_neg,not_int,not_lpsm,728000.0,home,2U,15840.0,CRIF,827,CIB,,19.61009174,south,direct,0,57.0
+25798,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,666500,5.19,0.2872,3831.25,180,not_neg,not_int,not_lpsm,698000.0,home,4U,9300.0,CIB,796,EXP,55-64,70.43269231,south,direct,0,27.0
+25884,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,586500,3.25,-0.058,250.0,300,not_neg,not_int,not_lpsm,1008000.0,home,4U,5160.0,EXP,793,EXP,55-64,58.67609254,North,direct,0,11.0
+24990,2019,cf,Female,nopre,p4,l1,nopc,nob/c,646500,4.125,0.7168,13611.13,180,not_neg,not_int,not_lpsm,2008000.0,home,2U,19620.0,CRIF,791,EXP,45-54,50.81168831,south,direct,1,61.0
+25390,2019,cf,Female,nopre,p1,l1,nopc,b/c,256500,3.5,0.5491,1254.66,240,not_neg,not_int,not_lpsm,138000.0,home,4U,1920.0,EQUI,699,EXP,35-44,36.77884615,North,direct,0,9.0
+25576,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,706500,,0.6945,2019.67,300,not_neg,not_int,not_lpsm,338000.0,home,1U,4260.0,CIB,860,EXP,55-64,87.74154589,North,direct,0,53.0
+25884,2019,ncf,Female,nopre,p1,l1,nopc,nob/c,196500,5.125,0.4629,5493.02,360,not_neg,not_int,not_lpsm,838000.0,home,1U,12840.0,CIB,530,CIB,>74,99.61340206,south,direct,0,28.0
+25236,2019,,Male,,p3,l1,nopc,b/c,776500,,0.3673,4771.25,300,not_neg,not_int,not_lpsm,408000.0,home,1U,2820.0,CIB,753,CIB,35-44,80.09259259,south,direct,0,47.0
+25417,2019,cf,Male,pre,p3,l1,opc,nob/c,706500,3.99,0.3338,2949.88,300,neg_amm,not_int,not_lpsm,,home,1U,12600.0,CRIF,534,CIB,35-44,73.69888476,south,direct,1,19.0
+25225,2019,cf,Male,nopre,p3,l1,nopc,nob/c,106500,3.0,0.0318,5510.58,240,not_neg,not_int,not_lpsm,108000.0,home,1U,2640.0,EXP,884,EXP,65-74,79.06050955,south,direct,0,59.0
+25393,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,376500,2.75,0.2666,3454.55,108,not_neg,int_only,not_lpsm,618000.0,home,1U,6120.0,CRIF,680,EXP,<25,55.79896907,central,direct,0,40.0
+24920,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,156500,,0.232,4736.0,192,not_neg,not_int,not_lpsm,88000.0,home,4U,5460.0,CRIF,810,CIB,35-44,80.56318681,south,direct,0,42.0
+25110,2019,ncf,Female,nopre,p3,l1,nopc,nob/c,186500,4.5,1.4687,7095.46,360,not_neg,not_int,not_lpsm,2608000.0,home,1U,3000.0,CRIF,680,CIB,45-54,34.10560345,central,direct,1,49.0
+25339,2019,cf,Joint,pre,p3,l1,opc,nob/c,546500,4.875,1.2158,3437.5,144,neg_amm,not_int,not_lpsm,98000.0,home,1U,2520.0,CRIF,523,EXP,55-64,46.06918239,North,direct,0,42.0
+25139,2019,cf,Male,nopre,p3,l1,nopc,nob/c,616500,3.375,-0.2048,5245.09,360,not_neg,not_int,not_lpsm,998000.0,home,2U,9120.0,EXP,618,EXP,25-34,90.65349544,central,direct,0,31.0
+25527,2019,cf,Sex Not Available,nopre,p1,l2,nopc,nob/c,506500,3.7,0.546,5937.5,180,not_neg,not_int,not_lpsm,348000.0,home,1U,11340.0,EXP,695,EXP,55-64,75.390625,North,direct,0,41.0
+25192,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,46500,3.99,0.4629,5245.09,300,not_neg,not_int,not_lpsm,788000.0,home,1U,3540.0,EQUI,887,EXP,45-54,73.32746479,North,direct,1,19.0
+25231,2019,,Male,nopre,p4,l1,opc,nob/c,646500,4.49,0.1681,710.51,96,not_neg,not_int,not_lpsm,,home,1U,4980.0,CRIF,803,CIB,35-44,31.97115385,North,direct,0,46.0
+25603,2019,,Joint,nopre,p2,l1,opc,b/c,776500,3.7,1.4909,795.0,360,not_neg,int_only,not_lpsm,688000.0,home,1U,4500.0,CRIF,718,CIB,<25,85.041841,North,direct,0,49.0
+25516,2019,ncf,Joint,nopre,p4,l1,opc,nob/c,776500,4.56,0.0027,6869.63,240,not_neg,not_int,not_lpsm,718000.0,home,1U,8640.0,CRIF,712,EXP,>74,34.375,North,direct,1,46.0
+25270,2019,cf,Joint,,p3,l1,nopc,nob/c,526500,3.7,0.7517,2882.81,312,not_neg,not_int,not_lpsm,938000.0,home,2U,25680.0,CRIF,645,CIB,45-54,69.83532934,south,direct,1,7.0
+25597,2019,,Female,nopre,p3,l1,nopc,nob/c,186500,4.5,0.3184,2572.4,288,not_neg,not_int,not_lpsm,358000.0,home,1U,2580.0,EXP,755,CIB,45-54,65.68100358,North,direct,0,11.0
+24946,2019,ncf,Female,pre,p4,l1,nopc,nob/c,126500,3.99,0.2828,5560.63,180,not_neg,not_int,not_lpsm,708000.0,home,3U,11340.0,CIB,694,EXP,25-34,54.62962963,south,direct,0,47.0
+25229,2019,cf,Joint,pre,p3,l1,nopc,nob/c,346500,,-0.0155,2462.74,192,not_neg,not_int,not_lpsm,178000.0,home,1U,11220.0,CIB,829,CIB,35-44,89.24802111,North-East,direct,1,8.0
+25336,2019,cf,Female,pre,p3,l1,nopc,b/c,506500,4.375,0.5933,662.44,300,not_neg,int_only,not_lpsm,358000.0,home,4U,16020.0,EQUI,659,EXP,45-54,62.96133568,south,direct,1,39.0
+25845,2019,ncf,Female,nopre,p3,l1,opc,nob/c,726500,4.0,0.38,4335.0,144,not_neg,not_int,not_lpsm,738000.0,home,3U,13620.0,EXP,900,EXP,45-54,92.26618705,central,direct,0,7.0
+25633,2019,cf,Female,,p3,l1,nopc,nob/c,606500,4.5,0.5343,2822.0,228,not_neg,not_int,not_lpsm,278000.0,home,3U,2100.0,CRIF,829,EXP,25-34,68.54066986,North,direct,0,57.0
+25709,2019,cf,Male,nopre,p3,l1,nopc,nob/c,86500,4.56,-0.1801,3905.9,288,neg_amm,not_int,not_lpsm,1128000.0,home,1U,1140.0,CIB,708,CIB,65-74,33.21517932,North,direct,0,10.0
+25159,2019,,Male,pre,p3,l1,nopc,nob/c,866500,,0.3873,6425.0,360,neg_amm,not_int,not_lpsm,398000.0,home,1U,16200.0,EQUI,646,CIB,65-74,57.75039746,North,direct,0,16.0
+25310,2019,cf,Joint,nopre,p3,l1,opc,nob/c,126500,3.25,0.1516,1790.25,144,not_neg,int_only,not_lpsm,388000.0,home,1U,3300.0,CRIF,599,CIB,35-44,34.87903226,south,direct,0,51.0
+25006,2019,ncf,Joint,,p4,l1,opc,b/c,986500,4.18,-0.428,0.0,276,not_neg,not_int,not_lpsm,288000.0,home,1U,2580.0,CRIF,522,CIB,65-74,80.57065217,central,direct,0,37.0
+25571,2019,cf,Male,nopre,p2,l2,nopc,nob/c,386500,3.0,0.4232,2280.0,336,neg_amm,int_only,not_lpsm,718000.0,home,3U,7080.0,CIB,674,CIB,35-44,77.87769784,south,direct,1,36.0
+25183,2019,ncf,Joint,,p4,l1,nopc,nob/c,556500,4.75,0.7409,5510.58,324,not_neg,not_int,not_lpsm,,home,1U,9720.0,EXP,808,EXP,<25,74.44134078,North,direct,0,40.0
+25698,2019,ncf,Female,nopre,p3,l2,nopc,nob/c,666500,,0.0027,1635.0,108,not_neg,not_int,not_lpsm,828000.0,home,4U,14100.0,EXP,516,EXP,35-44,65.4109589,south,direct,0,26.0
+25776,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,676500,4.99,-0.1482,6661.88,108,not_neg,not_int,not_lpsm,78000.0,home,1U,9000.0,CRIF,777,EXP,65-74,11.69656203,south,direct,1,37.0
+25044,2019,cf,Male,nopre,p3,l1,nopc,nob/c,266500,3.75,-0.0124,3000.0,276,not_neg,not_int,not_lpsm,298000.0,home,1U,,CRIF,720,CIB,>74,73.05327869,south,direct,0,44.0
+25508,2019,cf,Male,nopre,p4,l1,nopc,b/c,226500,4.5,1.2197,5344.0,276,not_neg,not_int,not_lpsm,998000.0,home,4U,7440.0,EXP,581,CIB,45-54,50.55803571,North-East,direct,0,13.0
+24981,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,1226500,4.25,0.0368,4771.25,360,not_neg,not_int,not_lpsm,458000.0,home,1U,8400.0,CRIF,660,EXP,35-44,68.41085271,North,direct,0,
+25086,2019,,Female,nopre,p3,l1,nopc,nob/c,626500,4.125,0.3451,209.91,348,not_neg,not_int,not_lpsm,278000.0,home,1U,9000.0,EXP,871,EXP,35-44,73.47161572,North,direct,0,29.0
+25504,2019,ncf,Sex Not Available,pre,p3,l1,opc,nob/c,526500,4.25,0.245,9323.75,96,not_neg,not_int,not_lpsm,678000.0,home,1U,49920.0,EXP,873,EXP,25-34,80.03246753,North-East,direct,0,41.0
+25850,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,1486500,4.125,-0.6949,10255.23,360,not_neg,not_int,not_lpsm,1468000.0,home,1U,2940.0,CRIF,868,CIB,55-64,84.26640927,North,direct,0,38.0
+25812,2019,cf,Sex Not Available,pre,p1,l1,nopc,nob/c,526500,3.125,0.6476,9323.75,108,neg_amm,not_int,not_lpsm,268000.0,home,2U,5100.0,EXP,856,EXP,45-54,87.72189349,North,direct,0,45.0
+25467,2019,,Male,nopre,p4,l1,nopc,nob/c,616500,5.625,0.925,,348,not_neg,not_int,not_lpsm,418000.0,home,1U,1440.0,CRIF,665,CIB,65-74,64.05325444,North,direct,0,59.0
+25296,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,206500,5.75,0.2086,1657.5,180,not_neg,not_int,not_lpsm,648000.0,home,3U,4140.0,EXP,626,EXP,<25,99.10714286,North,direct,0,44.0
+25131,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,136500,4.5,0.4341,4335.0,336,not_neg,not_int,not_lpsm,408000.0,home,1U,23760.0,EXP,824,CIB,25-34,69.57831325,North,direct,0,22.0
+25130,2019,cf,Male,nopre,p3,l1,nopc,nob/c,116500,5.5,-0.2048,6869.63,288,not_neg,not_int,lpsm,1298000.0,home,1U,5220.0,CRIF,778,CIB,65-74,42.1875,North,direct,0,32.0
+24947,2019,cf,Sex Not Available,pre,p2,l1,opc,nob/c,156500,3.5,0.3858,1.0,180,neg_amm,not_int,not_lpsm,868000.0,home,1U,,CRIF,547,EXP,35-44,64.96138996,North,direct,0,12.0
+24989,2019,ncf,Male,nopre,p4,l1,opc,nob/c,116500,3.49,0.38,5166.3,192,not_neg,not_int,not_lpsm,1088000.0,home,1U,15780.0,EXP,673,CIB,35-44,57.75547445,North,direct,1,31.0
+25737,2019,cf,Female,nopre,p3,l1,nopc,nob/c,336500,3.125,0.5148,6370.0,360,not_neg,not_int,not_lpsm,1008000.0,home,1U,18000.0,CRIF,518,CIB,35-44,96.3836478,North,direct,0,22.0
+24969,2019,cf,Sex Not Available,,p4,l1,nopc,b/c,776500,4.25,0.9708,1087.45,348,not_neg,not_int,not_lpsm,718000.0,home,1U,10980.0,EQUI,724,CIB,<25,97.79411765,south,direct,0,31.0
+25422,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,146500,3.125,0.1946,3218.75,120,not_neg,not_int,lpsm,158000.0,home,3U,9180.0,CRIF,547,EXP,35-44,78.6939314,North,direct,0,44.0
+25883,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,216500,4.125,0.2859,512.6,288,not_neg,not_int,not_lpsm,168000.0,home,2U,4500.0,CIB,816,EXP,35-44,69.50636943,south,direct,0,57.0
+25309,2019,,Sex Not Available,nopre,p3,l1,nopc,b/c,366500,3.375,1.1688,4950.0,228,not_neg,not_int,not_lpsm,458000.0,home,1U,16380.0,EXP,702,EXP,>74,19.1091954,central,direct,1,59.0
+25678,2019,cf,Joint,pre,p3,l1,nopc,nob/c,266500,4.99,0.2805,7265.8,192,not_neg,not_int,not_lpsm,668000.0,home,1U,6240.0,EXP,667,EXP,65-74,99.52830189,south,direct,0,
+25068,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,696500,3.625,0.0707,1086.46,240,not_neg,not_int,not_lpsm,368000.0,home,1U,8340.0,EXP,555,EXP,25-34,44.61722488,North,direct,0,31.0
+25819,2019,cf,Male,nopre,p3,l1,nopc,nob/c,416500,3.625,0.6868,2716.74,192,not_neg,int_only,not_lpsm,1138000.0,home,2U,8280.0,CRIF,584,EXP,65-74,94.95614035,central,direct,1,52.0
+25514,2019,cf,Male,nopre,p1,l2,opc,nob/c,86500,4.125,1.1445,5279.54,312,not_neg,not_int,not_lpsm,628000.0,home,1U,5580.0,CRIF,590,EXP,35-44,48.74749499,central,direct,0,18.0
+25438,2019,ncf,Male,,p3,l1,opc,nob/c,56500,4.18,0.8083,1087.45,324,not_neg,int_only,not_lpsm,828000.0,home,1U,19620.0,CRIF,764,CIB,<25,74.28057554,North,direct,0,53.0
+25771,2019,,Male,nopre,p4,l1,nopc,nob/c,226500,3.75,1.1248,1630.39,228,not_neg,not_int,not_lpsm,498000.0,home,1U,3240.0,CIB,529,CIB,35-44,53.06372549,central,direct,1,53.0
+25839,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,96500,5.0,0.0855,4341.0,156,not_neg,not_int,not_lpsm,988000.0,home,1U,2220.0,CIB,651,EXP,45-54,75.29761905,North,direct,0,20.0
+25381,2019,cf,Joint,pre,p4,l1,nopc,nob/c,176500,3.625,0.1691,1645.03,360,not_neg,int_only,lpsm,368000.0,home,1U,9360.0,EXP,694,CIB,55-64,73.32869081,North-East,direct,1,33.0
+25555,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,96500,5.0,0.3422,2961.25,96,not_neg,not_int,not_lpsm,558000.0,home,3U,12060.0,CIB,574,CIB,35-44,96.95767196,central,direct,0,60.0
+25270,2019,cf,Male,nopre,p3,l1,opc,nob/c,176500,4.25,0.5148,3437.5,360,not_neg,not_int,lpsm,688000.0,home,1U,3960.0,CIB,628,CIB,55-64,89.52442159,North,direct,0,40.0
+25083,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,96500,2.875,1.4613,6332.73,276,not_neg,not_int,not_lpsm,648000.0,home,2U,6060.0,CIB,694,CIB,45-54,99.63235294,North,direct,0,8.0
+25744,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,86500,3.5,1.0431,2235.0,192,neg_amm,not_int,not_lpsm,158000.0,home,1U,9660.0,CIB,573,CIB,55-64,59.53159041,south,direct,0,20.0
+25853,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,b/c,536500,4.25,1.034,2572.4,360,not_neg,not_int,not_lpsm,108000.0,home,2U,9660.0,CRIF,517,EXP,35-44,58.97277228,North,direct,0,10.0
+25795,2019,cf,Joint,pre,p1,l1,nopc,nob/c,506500,5.75,0.6424,1977.81,180,not_neg,not_int,not_lpsm,298000.0,home,4U,2280.0,CIB,870,EXP,>74,61.79245283,North,direct,0,27.0
+25765,2019,cf,Female,nopre,p3,l1,nopc,nob/c,286500,,0.1085,3012.5,240,not_neg,not_int,not_lpsm,838000.0,home,1U,14160.0,CIB,767,EXP,55-64,36.77884615,North,direct,0,26.0
+25814,2019,cf,Male,nopre,p2,l1,nopc,nob/c,656500,3.25,-0.3455,9133.25,96,not_neg,int_only,not_lpsm,558000.0,home,1U,12840.0,EXP,879,EXP,45-54,99.31192661,North-East,direct,1,10.0
+24978,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,536500,3.25,-0.5052,7118.48,348,not_neg,not_int,not_lpsm,148000.0,home,1U,78120.0,CIB,792,EXP,55-64,95.28443114,North,direct,0,46.0
+25680,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,456500,4.25,1.1129,3705.5,300,not_neg,not_int,not_lpsm,3408000.0,home,1U,13200.0,CIB,582,CIB,35-44,80.36971831,central,direct,0,32.0
+25158,2019,cf,Male,nopre,p3,l1,opc,nob/c,246500,3.49,0.6092,13611.13,180,neg_amm,not_int,lpsm,448000.0,home,1U,24060.0,CRIF,834,EXP,>74,77.87769784,central,direct,0,55.0
+25108,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,46500,3.7,1.2083,6370.0,348,not_neg,not_int,not_lpsm,208000.0,home,1U,3360.0,CIB,580,CIB,35-44,59.80801336,North,direct,0,43.0
+25865,2019,cf,Male,nopre,p1,l2,nopc,nob/c,66500,3.125,-0.0311,3437.5,336,not_neg,not_int,not_lpsm,1208000.0,home,4U,13620.0,EXP,709,CIB,45-54,69.62560386,North,direct,0,52.0
+25519,2019,cf,Male,nopre,p3,l1,nopc,nob/c,676500,3.99,-0.1484,1134.02,360,not_neg,not_int,not_lpsm,218000.0,home,1U,12180.0,CRIF,809,CIB,55-64,90.42750929,North,direct,0,8.0
+25636,2019,,Joint,,p3,l1,nopc,nob/c,866500,4.75,-0.0989,2337.4,360,not_neg,int_only,lpsm,768000.0,home,4U,8580.0,CRIF,506,EXP,,64.05325444,North,direct,0,45.0
+25818,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,b/c,556500,4.5,0.4061,1583.1,180,not_neg,not_int,not_lpsm,138000.0,home,4U,0.0,CIB,879,CIB,55-64,73.99713467,south,direct,0,54.0
+25431,2019,,Joint,nopre,p3,l1,nopc,nob/c,156500,3.75,1.111,4250.0,156,neg_amm,not_int,not_lpsm,828000.0,home,1U,8220.0,CRIF,868,EXP,55-64,94.45187166,south,direct,0,16.0
+25129,2019,cf,Male,nopre,p3,l2,nopc,nob/c,306500,5.625,0.6339,2101.63,312,not_neg,not_int,not_lpsm,378000.0,home,1U,1560.0,EXP,630,EXP,45-54,99.39516129,central,direct,0,53.0
+25635,2019,cf,Male,,p3,l2,nopc,nob/c,266500,,0.0059,4441.0,228,not_neg,not_int,lpsm,2608000.0,home,4U,7260.0,CRIF,574,CIB,,89.02116402,south,direct,0,19.0
+25871,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,526500,3.65,0.756,6931.25,324,not_neg,not_int,not_lpsm,378000.0,home,1U,2160.0,EXP,879,CIB,45-54,56.61559889,south,direct,0,31.0
+25007,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,96500,3.75,0.2047,961.32,120,not_neg,not_int,not_lpsm,1298000.0,home,2U,16560.0,CIB,570,EXP,>74,46.91901408,North,direct,0,37.0
+25335,2019,ncf,Male,nopre,p3,l2,nopc,nob/c,446500,4.875,1.4331,6259.65,324,not_neg,not_int,not_lpsm,378000.0,home,1U,3780.0,EXP,706,CIB,35-44,85.07194245,North,direct,0,57.0
+25247,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,556500,3.69,-0.0958,6720.0,324,not_neg,not_int,not_lpsm,78000.0,home,1U,4500.0,CIB,869,EXP,55-64,92.72151899,south,direct,0,13.0
+25797,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,866500,4.125,-0.7057,7567.68,228,not_neg,not_int,not_lpsm,778000.0,home,1U,10140.0,CRIF,609,CIB,,99.4966443,North,direct,0,10.0
+25887,2019,cf,Joint,nopre,p4,l2,opc,nob/c,576500,4.99,0.1673,209.91,180,not_neg,not_int,not_lpsm,508000.0,home,4U,4080.0,EXP,745,EXP,25-34,46.91901408,south,direct,0,39.0
+25360,2019,cf,Female,nopre,p2,l1,nopc,nob/c,576500,4.56,0.6654,10372.34,180,not_neg,int_only,not_lpsm,848000.0,home,3U,1980.0,CIB,653,CIB,35-44,54.62962963,south,direct,0,29.0
+25191,2019,ncf,Female,nopre,p2,l1,nopc,nob/c,276500,2.99,0.423,6252.81,360,not_neg,not_int,not_lpsm,598000.0,home,3U,10920.0,CRIF,785,CIB,55-64,72.48953975,North-East,direct,0,40.0
+25799,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,296500,4.25,0.6074,6314.88,108,not_neg,not_int,not_lpsm,438000.0,home,1U,4860.0,CRIF,628,EXP,25-34,50.6127451,North,direct,1,12.0
+25182,2019,cf,Male,nopre,p1,l1,nopc,nob/c,126500,3.5,0.7174,4750.0,144,not_neg,not_int,not_lpsm,78000.0,home,1U,78120.0,CRIF,557,CIB,25-34,74.23469388,North,direct,0,56.0
+25295,2019,ncf,Joint,pre,p1,l1,nopc,nob/c,346500,3.875,0.0361,1385.04,324,not_neg,not_int,lpsm,448000.0,home,4U,3360.0,EQUI,751,CIB,35-44,102.1907216,south,direct,0,49.0
+25061,2019,cf,Male,nopre,p3,l1,nopc,nob/c,616500,3.25,0.0897,209.91,192,not_neg,not_int,not_lpsm,548000.0,home,1U,26100.0,EXP,818,CIB,45-54,73.73417722,central,direct,0,14.0
+25706,2019,cf,Sex Not Available,pre,p1,l1,opc,nob/c,706500,3.75,1.4914,1790.0,360,not_neg,int_only,not_lpsm,978000.0,home,1U,3000.0,EXP,652,CIB,>74,92.27941176,south,direct,0,33.0
+25877,2019,cf,Female,nopre,p1,l1,nopc,b/c,276500,4.25,0.4068,3987.13,324,not_neg,int_only,not_lpsm,3848000.0,home,1U,24060.0,CIB,700,EXP,35-44,86.52597403,North,direct,0,40.0
+24941,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,476500,4.75,0.6948,762.4,96,not_neg,not_int,not_lpsm,2308000.0,home,1U,14820.0,EQUI,686,EXP,45-54,90.42750929,south,direct,0,37.0
+25666,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,706500,3.25,0.0361,6500.0,96,not_neg,not_int,not_lpsm,308000.0,home,4U,10740.0,CRIF,864,CIB,45-54,82.03517588,south,direct,1,45.0
+25779,2019,cf,Male,nopre,p4,l2,nopc,nob/c,496500,,0.4791,3078.13,156,neg_amm,not_int,not_lpsm,1948000.0,home,1U,3660.0,EQUI,588,CIB,35-44,20.15570934,central,direct,1,29.0
+25205,2019,cf,Female,nopre,p4,l1,nopc,nob/c,316500,3.25,-0.1789,12800.0,180,not_neg,not_int,not_lpsm,748000.0,home,1U,6660.0,EQUI,877,EXP,55-64,103.2945736,North,direct,0,30.0
+25487,2019,cf,Sex Not Available,nopre,p4,l2,nopc,nob/c,666500,4.875,1.014,370.63,192,not_neg,not_int,not_lpsm,888000.0,home,1U,3060.0,EXP,867,CIB,65-74,57.96568627,south,direct,0,38.0
+25015,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,876500,3.56,-0.113,2171.25,360,not_neg,not_int,not_lpsm,408000.0,home,1U,6300.0,CRIF,663,CIB,65-74,64.75694444,North,direct,0,12.0
+25608,2019,cf,Female,nopre,p3,l2,nopc,nob/c,426500,,0.4629,4250.0,360,not_neg,not_int,not_lpsm,608000.0,home,2U,4200.0,CRIF,558,CIB,45-54,30.69105691,south,direct,0,40.0
+25891,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,796500,3.56,0.3766,10489.0,192,not_neg,not_int,not_lpsm,738000.0,home,2U,8520.0,EXP,721,EXP,35-44,65.625,North,direct,0,47.0
+25516,2019,cf,Female,nopre,p3,l1,nopc,b/c,826500,,-0.1642,3432.4,180,not_neg,not_int,lpsm,338000.0,home,2U,12480.0,EXP,793,EXP,,58.75603865,central,direct,0,16.0
+25409,2019,cf,Joint,pre,p3,l1,nopc,b/c,166500,3.25,-0.2774,6425.0,360,not_neg,not_int,not_lpsm,188000.0,home,1U,1440.0,CIB,795,CIB,25-34,99.64114833,south,direct,0,42.0
+25598,2019,cf,Female,nopre,p3,l1,nopc,b/c,576500,4.625,0.0236,3747.8,276,not_neg,int_only,not_lpsm,598000.0,home,1U,8940.0,CIB,597,CIB,55-64,48.50835322,south,direct,0,48.0
+25627,2019,ncf,Sex Not Available,nopre,p3,l2,nopc,b/c,106500,3.75,0.037,2932.5,300,not_neg,not_int,lpsm,708000.0,home,1U,15840.0,EQUI,581,EXP,45-54,2.81374502,central,direct,0,18.0
+25107,2019,cf,Female,nopre,p3,l1,nopc,nob/c,66500,3.99,-0.6949,8059.0,324,not_neg,not_int,not_lpsm,458000.0,home,1U,15360.0,CIB,804,CIB,55-64,92.14015152,south,direct,0,30.0
+24918,2019,cf,Sex Not Available,,p3,l1,opc,b/c,526500,4.0,0.293,8500.0,324,neg_amm,not_int,not_lpsm,598000.0,home,1U,1740.0,CIB,686,EXP,65-74,69.98432602,North,direct,0,61.0
+25881,2019,cf,Sex Not Available,nopre,p3,l1,opc,b/c,466500,3.5,0.2438,4706.73,288,not_neg,not_int,not_lpsm,98000.0,home,1U,9060.0,CRIF,793,EXP,>74,86.45833333,North,direct,0,59.0
+25070,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,126500,5.75,1.3051,4341.98,240,not_neg,not_int,not_lpsm,608000.0,home,1U,5520.0,CRIF,762,CIB,45-54,58.97277228,North,direct,0,39.0
+25299,2019,ncf,Joint,pre,p3,l1,nopc,nob/c,246500,4.125,-0.0713,3230.05,96,not_neg,not_int,not_lpsm,3408000.0,home,1U,15540.0,CRIF,743,CIB,55-64,45.40190736,central,direct,1,48.0
+25080,2019,cf,Male,,p3,l1,nopc,nob/c,716500,5.625,0.2299,13611.13,288,neg_amm,not_int,not_lpsm,948000.0,home,2U,3600.0,EQUI,633,EXP,35-44,89.14141414,central,direct,0,40.0
+25902,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,276500,3.5,0.2054,6052.0,336,not_neg,int_only,not_lpsm,128000.0,home,4U,14640.0,CIB,513,CIB,>74,60.65891473,central,direct,0,
+25808,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,196500,2.75,1.4909,5073.75,336,not_neg,not_int,not_lpsm,1168000.0,home,4U,13560.0,CIB,793,EXP,35-44,42.44966443,North,direct,0,54.0
+25342,2019,cf,Female,pre,p1,l1,nopc,b/c,536500,3.49,0.4568,6022.5,228,neg_amm,not_int,lpsm,1538000.0,home,1U,3780.0,CIB,836,CIB,25-34,72.10365854,south,direct,0,31.0
+25207,2019,cf,Joint,nopre,p3,l1,opc,nob/c,116500,5.5,0.9662,4870.86,360,not_neg,not_int,not_lpsm,1338000.0,home,4U,3000.0,EQUI,815,EXP,55-64,50.6127451,south,direct,0,39.0
+25737,2019,cf,Male,nopre,p4,l1,nopc,b/c,536500,3.7,0.245,169.53,276,not_neg,not_int,not_lpsm,518000.0,home,2U,3780.0,CRIF,615,EXP,25-34,23.77232143,south,direct,0,12.0
+25709,2019,ncf,Male,pre,p3,l1,nopc,nob/c,486500,5.375,-0.3286,3022.0,348,not_neg,not_int,not_lpsm,648000.0,home,1U,11160.0,EXP,705,EXP,45-54,68.54066986,North,direct,0,6.0
+25215,2019,,Sex Not Available,nopre,p4,l2,nopc,nob/c,616500,3.25,-0.5844,776.37,312,neg_amm,not_int,not_lpsm,358000.0,home,1U,28440.0,EXP,519,CIB,35-44,44.04761905,south,direct,0,6.0
+25516,2019,ncf,Male,nopre,p3,l1,nopc,b/c,96500,4.875,-0.0311,4720.0,156,not_neg,not_int,not_lpsm,858000.0,home,1U,8400.0,EXP,525,CIB,,70.32871972,North,direct,0,41.0
+25812,2019,cf,Male,nopre,p3,l1,opc,nob/c,496500,3.625,0.2789,4214.38,348,not_neg,not_int,not_lpsm,558000.0,home,1U,9660.0,CRIF,769,EXP,<25,55.79896907,south,direct,1,49.0
+25596,2019,ncf,Joint,,p3,l1,nopc,nob/c,116500,,-0.1108,2291.25,348,not_neg,int_only,lpsm,218000.0,home,1U,2640.0,CRIF,709,EXP,45-54,96.59763314,south,direct,0,52.0
+25516,2019,cf,Male,nopre,p2,l1,nopc,nob/c,556500,4.75,0.0028,3188.01,96,neg_amm,not_int,not_lpsm,958000.0,home,2U,16680.0,CRIF,579,EXP,>74,52.69784173,North,direct,0,60.0
+25057,2019,cf,Joint,nopre,p4,l1,nopc,b/c,266500,4.5,1.2351,2627.2,336,neg_amm,not_int,not_lpsm,1088000.0,home,3U,7200.0,CIB,744,EXP,35-44,78.6939314,North,direct,0,16.0
+25887,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,256500,3.69,0.245,2768.18,324,not_neg,not_int,not_lpsm,68000.0,home,1U,3120.0,CRIF,532,EXP,35-44,36.77884615,North,direct,0,41.0
+25887,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,516500,4.875,1.0898,2800.0,360,neg_amm,not_int,not_lpsm,1048000.0,home,1U,3180.0,CRIF,502,EXP,55-64,89.22594142,south,direct,0,45.0
+25723,2019,cf,Female,pre,p3,l2,nopc,nob/c,706500,2.75,-0.1555,3520.2,120,not_neg,not_int,not_lpsm,338000.0,home,4U,9840.0,CIB,700,CIB,35-44,70.83333333,south,direct,0,25.0
+25340,2019,ncf,Male,,p1,l1,nopc,b/c,206500,3.875,1.2777,2187.35,300,not_neg,not_int,not_lpsm,398000.0,home,3U,2220.0,EXP,768,EXP,45-54,86.5720524,south,direct,1,8.0
+25496,2019,cf,Male,nopre,p3,l1,opc,nob/c,456500,3.49,0.9229,1635.0,360,not_neg,not_int,not_lpsm,918000.0,home,2U,9600.0,EQUI,595,CIB,35-44,90.07177033,south,direct,0,6.0
+25762,2019,cf,Female,,p4,l1,opc,nob/c,536500,3.875,0.616,4790.0,324,not_neg,not_int,not_lpsm,608000.0,home,1U,18480.0,CIB,514,EXP,65-74,65.85820896,North,direct,0,25.0
+25565,2019,cf,Female,nopre,p1,l1,nopc,nob/c,156500,4.0,0.609,5166.3,180,not_neg,int_only,not_lpsm,698000.0,home,4U,15360.0,CIB,590,CIB,45-54,79.45402299,North,direct,0,56.0
+25171,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,1376500,2.99,-0.4881,2719.34,108,not_neg,not_int,not_lpsm,528000.0,home,1U,5340.0,CIB,854,EXP,65-74,22.10506135,south,direct,0,29.0
+25581,2019,cf,Female,,p4,l1,opc,nob/c,326500,4.875,0.5422,1929.74,324,not_neg,not_int,not_lpsm,508000.0,home,1U,13560.0,EQUI,879,CIB,45-54,58.67609254,North-East,direct,0,44.0
+25325,2019,cf,Joint,pre,p4,l1,opc,nob/c,86500,4.99,0.8279,4596.88,108,neg_amm,not_int,not_lpsm,398000.0,home,1U,10440.0,EXP,509,EXP,35-44,58.63486842,North,direct,0,25.0
+25329,2019,cf,Sex Not Available,,p3,l1,nopc,b/c,106500,3.0,0.372,2187.35,192,not_neg,not_int,not_lpsm,1228000.0,home,1U,39300.0,CIB,700,EXP,55-64,39.68160377,North,direct,0,
+25057,2019,cf,Joint,pre,p3,l1,nopc,nob/c,316500,5.375,0.6945,3075.0,192,not_neg,not_int,not_lpsm,298000.0,home,1U,1140.0,EXP,545,CIB,25-34,34.10560345,North-East,direct,0,29.0
+25722,2019,cf,Female,nopre,p3,l1,nopc,b/c,516500,3.625,0.2047,13964.19,360,not_neg,int_only,not_lpsm,298000.0,home,1U,10080.0,CRIF,872,CIB,25-34,99.4966443,North,direct,0,24.0
+25339,2019,ncf,Joint,nopre,p1,l1,nopc,nob/c,266500,4.5,0.2659,2980.63,120,not_neg,not_int,not_lpsm,858000.0,home,4U,1740.0,CIB,893,EXP,35-44,72.43589744,south,direct,0,47.0
+24997,2019,cf,Female,nopre,p2,l1,opc,nob/c,816500,4.5,0.7995,1678.75,228,not_neg,not_int,not_lpsm,1268000.0,home,3U,12420.0,CIB,795,EXP,45-54,97.24880383,North-East,direct,0,8.0
+25728,2019,cf,Female,pre,p2,l2,opc,nob/c,56500,3.75,-0.4929,516.96,312,not_neg,not_int,not_lpsm,228000.0,home,1U,2640.0,CIB,596,EXP,35-44,63.55421687,south,direct,0,33.0
+25058,2019,cf,Male,nopre,p2,l1,nopc,nob/c,646500,3.75,0.609,1845.0,360,not_neg,not_int,not_lpsm,748000.0,home,1U,10800.0,EQUI,657,CIB,65-74,66.81472081,North,direct,1,60.0
+25455,2019,cf,Female,nopre,p3,l2,nopc,nob/c,186500,3.56,-0.1564,5358.88,348,not_neg,not_int,not_lpsm,1208000.0,home,1U,7860.0,EQUI,593,EXP,35-44,102.1907216,south,direct,1,52.0
+24930,2019,cf,Female,nopre,p3,l1,nopc,nob/c,716500,4.18,0.2448,6052.0,276,neg_amm,not_int,not_lpsm,68000.0,home,1U,10740.0,EXP,541,CIB,55-64,82.20524017,south,direct,0,48.0
+25496,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,346500,4.125,0.4882,1936.8,180,not_neg,not_int,not_lpsm,2608000.0,home,1U,8100.0,CIB,587,CIB,35-44,65.18138801,North-East,direct,0,37.0
+25130,2019,cf,Joint,,p3,l1,nopc,nob/c,286500,4.375,-0.0666,3752.4,240,not_neg,not_int,lpsm,1258000.0,home,4U,9180.0,CIB,713,EXP,35-44,65.93959732,south,direct,0,54.0
+25389,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,136500,4.375,1.2598,3709.03,360,not_neg,not_int,not_lpsm,728000.0,home,1U,5580.0,CIB,829,EXP,>74,99.64953271,central,direct,0,41.0
+25294,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,286500,3.99,1.42,3817.34,192,not_neg,not_int,not_lpsm,2008000.0,home,1U,3600.0,EQUI,777,EXP,25-34,73.15989848,North,direct,0,16.0
+24947,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,256500,4.875,-0.155,4156.25,324,neg_amm,not_int,not_lpsm,768000.0,home,4U,5040.0,EQUI,832,CIB,>74,85.95890411,North,direct,1,49.0
+24917,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,486500,3.875,-0.1519,10489.0,312,not_neg,not_int,not_lpsm,2398000.0,home,1U,3300.0,EXP,530,CIB,45-54,37.21294363,North,direct,0,19.0
+24963,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,66500,4.625,0.8943,2838.9,288,not_neg,int_only,not_lpsm,248000.0,home,1U,2700.0,CIB,803,EXP,<25,99.51298701,North,direct,0,36.0
+24944,2019,ncf,Joint,pre,p1,l1,nopc,nob/c,66500,2.75,0.5887,2658.42,276,not_neg,not_int,not_lpsm,1708000.0,home,1U,5400.0,CIB,869,EXP,55-64,79.06050955,south,direct,0,42.0
+25759,2019,cf,Male,nopre,p3,l1,nopc,b/c,266500,3.99,1.0065,4394.53,180,not_neg,not_int,not_lpsm,118000.0,home,3U,11100.0,EXP,695,EXP,45-54,64.73799127,south,direct,0,34.0
+25877,2019,cf,Joint,,p4,l1,nopc,nob/c,256500,4.625,0.5193,2920.33,228,not_neg,not_int,not_lpsm,918000.0,home,1U,6000.0,CIB,899,CIB,>74,73.78892734,south,direct,0,34.0
+25417,2019,,Male,nopre,p1,l1,nopc,nob/c,216500,4.5,-0.367,2838.9,300,not_neg,not_int,lpsm,128000.0,home,1U,17640.0,CIB,758,EXP,>74,70.43269231,North-East,direct,0,53.0
+25471,2019,cf,Male,nopre,p3,l1,opc,nob/c,346500,4.99,-0.028,2955.0,348,neg_amm,not_int,not_lpsm,1198000.0,home,1U,8100.0,CIB,679,EXP,35-44,57.75547445,central,direct,0,29.0
+25281,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,216500,3.75,1.0618,3518.7,360,not_neg,int_only,not_lpsm,248000.0,home,1U,8820.0,CRIF,664,EXP,45-54,75.06510417,south,direct,0,52.0
+25105,2019,cf,Male,nopre,p3,l1,nopc,nob/c,516500,4.25,0.5179,9640.0,360,neg_amm,not_int,not_lpsm,,home,1U,10380.0,EXP,759,CIB,45-54,67.62820513,south,direct,1,49.0
+25695,2019,cf,Male,nopre,p4,l1,opc,nob/c,86500,2.99,0.2589,3854.0,180,not_neg,int_only,not_lpsm,218000.0,home,1U,15780.0,EXP,657,EXP,35-44,71.78899083,North,direct,0,31.0
+25803,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,46500,3.75,0.7409,4304.46,360,not_neg,not_int,not_lpsm,1068000.0,home,1U,4680.0,CIB,579,EXP,45-54,74.64157706,North,direct,0,49.0
+24922,2019,,Female,nopre,p4,l1,nopc,nob/c,546500,4.75,0.9385,6172.13,324,not_neg,not_int,not_lpsm,838000.0,home,1U,3960.0,CRIF,893,CIB,45-54,47.84482759,central,direct,0,28.0
+25692,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,146500,5.19,1.1269,1254.66,360,not_neg,not_int,not_lpsm,378000.0,home,1U,3780.0,CIB,796,CIB,55-64,70.89665653,south,direct,0,33.0
+25466,2019,ncf,Sex Not Available,pre,p3,l1,nopc,b/c,986500,,1.3778,1929.74,360,not_neg,not_int,not_lpsm,438000.0,home,4U,18420.0,EXP,511,CIB,35-44,99.7611465,North,direct,1,58.0
+25296,2019,cf,Female,nopre,p4,l1,opc,nob/c,286500,4.125,0.2713,1728.49,360,not_neg,int_only,not_lpsm,1008000.0,home,2U,2160.0,EXP,653,EXP,65-74,63.53092784,North,direct,0,55.0
+25473,2019,cf,Female,nopre,p1,l1,nopc,b/c,306500,4.56,0.0708,3777.88,324,not_neg,not_int,not_lpsm,958000.0,home,4U,4560.0,EXP,537,EXP,65-74,96.7325228,North-East,direct,1,48.0
+25198,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,86500,2.75,0.0361,4543.05,300,not_neg,not_int,not_lpsm,598000.0,home,2U,2940.0,CIB,500,CIB,35-44,62.95731707,North,direct,0,22.0
+24947,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,866500,4.0,0.925,3808.56,240,neg_amm,not_int,lpsm,858000.0,home,1U,6120.0,CIB,822,EXP,,82.99256506,North-East,direct,0,49.0
+25100,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,126500,4.625,0.147,6265.95,276,not_neg,not_int,not_lpsm,758000.0,home,1U,2100.0,CIB,726,CIB,65-74,65.75630252,North,direct,0,48.0
+25754,2019,cf,Female,nopre,p1,l1,nopc,b/c,196500,3.625,0.012,662.44,228,not_neg,not_int,not_lpsm,928000.0,home,3U,24060.0,EQUI,726,CIB,>74,57.75547445,south,direct,1,32.0
+25273,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,206500,4.375,0.0534,6792.09,108,not_neg,not_int,not_lpsm,158000.0,home,4U,14640.0,CRIF,545,EXP,35-44,9.124472574,central,direct,0,57.0
+25299,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,886500,5.125,1.4935,1385.04,324,neg_amm,not_int,not_lpsm,238000.0,home,1U,2160.0,EXP,511,EXP,45-54,58.13609467,North,direct,0,44.0
+25084,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,b/c,336500,2.99,0.0898,3520.2,180,not_neg,not_int,not_lpsm,1468000.0,home,1U,9360.0,CIB,589,EXP,35-44,68.08176101,North-East,direct,0,23.0
+24947,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,436500,3.69,1.5589,7225.0,300,not_neg,not_int,not_lpsm,1028000.0,home,1U,3300.0,CIB,581,EXP,55-64,44.17562724,North,direct,0,45.0
+25638,2019,ncf,Female,nopre,p4,l1,opc,b/c,486500,4.99,0.2828,11020.75,108,not_neg,not_int,not_lpsm,1208000.0,home,1U,12540.0,CRIF,591,CIB,45-54,75.17361111,central,direct,0,18.0
+25431,2019,,Sex Not Available,pre,p4,l2,nopc,nob/c,516500,3.775,0.1583,8500.0,180,not_neg,not_int,not_lpsm,328000.0,home,1U,26100.0,CIB,664,EXP,45-54,63.53092784,south,direct,0,59.0
+25121,2019,,Sex Not Available,pre,p1,l1,nopc,nob/c,576500,3.125,0.5587,1235.0,180,not_neg,not_int,not_lpsm,488000.0,home,4U,8220.0,CIB,870,CIB,65-74,66.93925234,south,direct,0,17.0
+24945,2019,cf,Female,nopre,p4,l2,opc,nob/c,406500,3.99,-0.0249,5818.5,144,not_neg,not_int,not_lpsm,228000.0,home,1U,1860.0,CIB,594,EXP,55-64,95.36290323,south,direct,0,44.0
+25745,2019,,Female,nopre,p3,l1,nopc,nob/c,386500,5.375,1.0522,1728.49,192,not_neg,not_int,not_lpsm,818000.0,home,4U,12600.0,EQUI,739,CIB,<25,68.8547486,North,direct,0,36.0
+25708,2019,,Male,nopre,p4,l1,nopc,nob/c,466500,3.99,0.5102,5220.49,240,not_neg,not_int,lpsm,288000.0,home,1U,2820.0,CRIF,893,EXP,45-54,34.17030568,North,direct,0,38.0
+25172,2019,cf,Male,nopre,p3,l1,nopc,nob/c,476500,3.25,0.3987,710.51,288,not_neg,not_int,not_lpsm,1138000.0,home,1U,8220.0,EXP,545,EXP,35-44,74.28057554,North,direct,0,32.0
+24979,2019,cf,Joint,nopre,p4,l1,nopc,b/c,596500,5.0,0.3239,1134.02,180,not_neg,not_int,not_lpsm,1708000.0,home,3U,4080.0,CRIF,708,EXP,35-44,73.32869081,south,direct,1,42.0
+25782,2019,cf,Male,nopre,p3,l1,opc,nob/c,1486500,4.125,0.4882,8112.5,336,not_neg,not_int,not_lpsm,858000.0,home,3U,12060.0,CRIF,514,CIB,45-54,9.124472574,south,direct,0,42.0
+25298,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,696500,3.7,0.0002,5675.0,180,not_neg,not_int,not_lpsm,748000.0,home,3U,17340.0,CRIF,833,CIB,45-54,64.75694444,south,direct,0,57.0
+25566,2019,cf,Male,nopre,p3,l1,nopc,nob/c,546500,3.25,0.1387,4478.4,348,not_neg,not_int,not_lpsm,518000.0,home,1U,3840.0,EXP,519,EXP,55-64,89.66346154,central,direct,0,30.0
+25572,2019,cf,Female,nopre,p2,l1,nopc,nob/c,86500,4.375,-0.1519,1818.9,240,not_neg,not_int,not_lpsm,688000.0,home,1U,15840.0,CIB,602,CIB,65-74,95.36290323,North-East,direct,0,8.0
+25888,2019,cf,Female,nopre,p3,l1,nopc,nob/c,706500,3.99,1.4331,358.78,192,not_neg,not_int,not_lpsm,698000.0,home,1U,10860.0,EQUI,818,EXP,25-34,81.35451505,North,direct,0,26.0
+25325,2019,ncf,Sex Not Available,nopre,p3,l1,opc,b/c,146500,5.19,0.7117,1830.0,348,not_neg,not_int,not_lpsm,888000.0,home,4U,13440.0,CRIF,736,CIB,35-44,67.62820513,south,direct,1,7.0
+25445,2019,cf,Female,nopre,p4,l1,nopc,b/c,216500,3.49,-0.113,7567.68,348,neg_amm,not_int,not_lpsm,538000.0,home,3U,17640.0,CIB,530,CIB,25-34,61.92434211,North,direct,1,53.0
+25434,2019,cf,Female,,p4,l1,nopc,nob/c,296500,3.99,0.4281,5166.3,360,not_neg,int_only,not_lpsm,668000.0,home,1U,6660.0,EQUI,733,EXP,55-64,103.2945736,North,direct,0,16.0
+25902,2019,,Joint,nopre,p4,l1,nopc,nob/c,156500,5.375,0.1946,2462.74,324,not_neg,not_int,not_lpsm,1468000.0,home,3U,7080.0,EXP,867,EXP,45-54,80.02793296,North,direct,0,17.0
+25386,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,86500,3.7,0.494,415.0,192,not_neg,not_int,not_lpsm,788000.0,home,1U,5880.0,CRIF,851,EXP,35-44,72.82934132,south,direct,1,38.0
+25621,2019,,Joint,pre,p3,l1,nopc,nob/c,466500,3.56,0.4597,1890.0,108,not_neg,not_int,not_lpsm,248000.0,home,3U,9600.0,EXP,585,EXP,25-34,79.65328467,south,direct,0,47.0
+25824,2019,cf,Male,pre,p3,l1,opc,b/c,536500,4.125,0.4702,906.97,276,not_neg,not_int,not_lpsm,888000.0,home,1U,14580.0,CRIF,848,CIB,<25,52.6465798,central,direct,0,26.0
+25221,2019,cf,Male,pre,p4,l2,nopc,nob/c,406500,3.875,-0.1564,2812.5,156,neg_amm,not_int,not_lpsm,908000.0,home,1U,13140.0,CRIF,758,EXP,45-54,19.61009174,North,direct,0,14.0
+25026,2019,cf,Joint,pre,p3,l1,opc,nob/c,616500,4.99,0.2531,6064.0,360,not_neg,not_int,not_lpsm,618000.0,home,1U,7440.0,CIB,619,EXP,55-64,89.77272727,south,direct,0,39.0
+25068,2019,ncf,Male,nopre,p2,l1,opc,nob/c,96500,3.7,0.6403,5675.0,312,not_neg,int_only,not_lpsm,1208000.0,home,1U,11520.0,CRIF,776,EXP,,83.26612903,central,direct,0,22.0
+25742,2019,cf,Female,nopre,p3,l1,nopc,nob/c,306500,3.75,0.0318,2719.34,180,not_neg,not_int,not_lpsm,598000.0,home,1U,11880.0,CIB,807,EXP,55-64,69.57417582,south,direct,0,17.0
+25053,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,986500,3.25,0.2594,2462.96,312,not_neg,int_only,not_lpsm,678000.0,home,1U,2640.0,EXP,810,CIB,35-44,89.14141414,south,direct,0,40.0
+25560,2019,cf,Male,nopre,p3,l1,nopc,nob/c,546500,3.75,0.0403,433.6,360,not_neg,not_int,not_lpsm,148000.0,home,1U,8340.0,EXP,579,EXP,35-44,59.64506173,south,direct,0,26.0
+24954,2019,cf,Female,nopre,p3,l2,nopc,nob/c,256500,,0.2291,6656.0,300,not_neg,not_int,lpsm,668000.0,home,1U,8340.0,CIB,673,CIB,35-44,90.42750929,south,direct,0,18.0
+25366,2019,cf,Sex Not Available,,p4,l1,nopc,nob/c,516500,3.875,0.4852,1700.0,240,not_neg,not_int,not_lpsm,728000.0,home,3U,19020.0,CRIF,605,CIB,>74,33.58585859,North,direct,1,44.0
+25783,2019,cf,Female,nopre,p4,l2,opc,nob/c,136500,5.5,1.0226,3066.96,192,not_neg,not_int,not_lpsm,1088000.0,home,4U,5820.0,CRIF,574,CIB,35-44,109.8404255,south,direct,0,28.0
+25896,2019,,Sex Not Available,,p3,l1,nopc,nob/c,86500,,0.2771,14690.09,348,not_neg,not_int,lpsm,1018000.0,home,1U,5280.0,CRIF,679,CIB,35-44,96.95767196,North-East,direct,1,36.0
+25866,2019,cf,Joint,,p3,l1,nopc,nob/c,286500,4.5,0.6468,4736.0,192,neg_amm,not_int,not_lpsm,1708000.0,home,3U,6780.0,EQUI,833,EXP,55-64,57.68792711,North,direct,0,38.0
+25829,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,566500,4.49,-0.088,5000.0,144,neg_amm,not_int,not_lpsm,2398000.0,home,1U,11220.0,EXP,565,CIB,35-44,45.4735376,south,direct,0,45.0
+25636,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,436500,3.625,0.8946,4943.75,324,not_neg,not_int,not_lpsm,168000.0,home,1U,12840.0,EXP,649,EXP,,106.2080537,North,direct,0,53.0
+24986,2019,,Male,nopre,p4,l1,nopc,nob/c,296500,,0.2606,1845.0,156,neg_amm,not_int,not_lpsm,728000.0,home,1U,10560.0,EXP,716,EXP,25-34,90.07177033,North,direct,0,20.0
+25691,2019,ncf,Female,nopre,p3,l2,nopc,nob/c,366500,3.56,0.2848,1890.0,336,not_neg,not_int,not_lpsm,328000.0,home,1U,9600.0,CIB,665,EXP,>74,78.01003344,North,direct,0,34.0
+25730,2019,,Joint,nopre,p4,l1,nopc,nob/c,1506500,3.625,0.5148,425.0,240,not_neg,int_only,not_lpsm,3408000.0,home,1U,6660.0,EXP,777,EXP,45-54,84.85130112,south,direct,0,21.0
+25303,2019,cf,Joint,,p3,l1,nopc,nob/c,616500,3.125,0.5716,1582.5,300,not_neg,int_only,lpsm,1758000.0,home,1U,9060.0,EXP,774,EXP,>74,51.3185654,North,direct,0,37.0
+25236,2019,ncf,Joint,nopre,p1,l1,nopc,nob/c,236500,5.75,-0.5317,267.35,312,not_neg,not_int,not_lpsm,1258000.0,home,1U,5340.0,CRIF,580,EXP,25-34,58.75603865,south,direct,0,17.0
+25862,2019,,Sex Not Available,nopre,p3,l1,opc,b/c,646500,4.5,0.2859,2292.46,348,not_neg,not_int,not_lpsm,358000.0,home,1U,2700.0,CRIF,796,EXP,55-64,87.07627119,North,direct,0,52.0
+25094,2019,cf,Joint,nopre,p4,l1,opc,b/c,506500,3.7,1.3375,9133.25,180,not_neg,not_int,lpsm,858000.0,home,1U,2880.0,CRIF,699,CIB,25-34,87.22570533,south,direct,0,35.0
+25049,2019,cf,Sex Not Available,,p4,l1,nopc,nob/c,816500,4.56,0.1691,1787.19,360,not_neg,not_int,not_lpsm,418000.0,home,2U,1980.0,EXP,728,CIB,45-54,34.10560345,south,direct,0,48.0
+25094,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,96500,4.18,0.0742,6245.0,324,not_neg,not_int,not_lpsm,168000.0,home,1U,0.0,EQUI,582,EXP,25-34,99.74489796,North-East,direct,0,39.0
+25646,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,346500,3.125,0.8943,1926.0,180,neg_amm,int_only,not_lpsm,258000.0,home,2U,2040.0,CIB,732,CIB,55-64,79.50507614,south,direct,0,60.0
+25029,2019,,Joint,nopre,p3,l1,nopc,nob/c,76500,3.5,0.1427,4150.0,300,not_neg,not_int,not_lpsm,1538000.0,home,1U,6060.0,EXP,784,CIB,<25,69.80633803,North,direct,0,22.0
+25792,2019,cf,Female,nopre,p4,l1,nopc,nob/c,906500,2.75,-0.6588,13964.19,360,not_neg,not_int,not_lpsm,268000.0,home,1U,5220.0,EXP,580,CIB,65-74,33.93416928,North,direct,0,34.0
+25557,2019,ncf,Joint,nopre,p1,l1,opc,b/c,96500,3.75,0.0995,3752.4,156,not_neg,int_only,not_lpsm,1018000.0,home,1U,5760.0,EXP,720,CIB,<25,2.81374502,south,direct,0,22.0
+25000,2019,,Joint,nopre,p1,l1,nopc,b/c,116500,3.99,0.4232,5975.0,360,not_neg,not_int,lpsm,988000.0,home,1U,5400.0,EXP,599,EXP,35-44,74.44134078,North,direct,0,25.0
+25129,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,106500,3.375,1.3778,0.0,180,neg_amm,not_int,not_lpsm,358000.0,home,1U,3240.0,EQUI,772,EXP,45-54,56.7016317,south,direct,1,33.0
+25023,2019,ncf,Joint,nopre,p1,l2,nopc,nob/c,1226500,3.125,1.3778,12435.2,120,not_neg,not_int,not_lpsm,1108000.0,home,1U,49920.0,EXP,591,EXP,45-54,86.45833333,south,direct,0,21.0
+25737,2019,cf,Female,nopre,p4,l1,nopc,nob/c,136500,,0.3188,2750.0,360,not_neg,not_int,lpsm,798000.0,home,1U,9360.0,CRIF,860,EXP,35-44,98.01038062,North,direct,0,23.0
+25167,2019,,Sex Not Available,pre,p4,l1,nopc,nob/c,796500,4.18,-0.2497,12435.2,96,not_neg,not_int,not_lpsm,458000.0,home,3U,16560.0,EQUI,829,CIB,65-74,90.20700637,central,direct,0,48.0
+25766,2019,ncf,Male,nopre,p3,l1,opc,nob/c,46500,3.625,0.6832,3206.06,180,neg_amm,not_int,not_lpsm,158000.0,home,1U,1860.0,EQUI,505,EXP,45-54,59.80801336,North,direct,1,29.0
+25609,2019,cf,Male,,p3,l1,nopc,nob/c,126500,,0.4649,6265.95,324,neg_amm,not_int,not_lpsm,778000.0,home,3U,5280.0,EXP,569,CIB,25-34,62.95986622,North,direct,0,47.0
+25208,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,106500,4.18,0.3339,2940.31,96,neg_amm,not_int,not_lpsm,138000.0,home,4U,11640.0,CRIF,742,CIB,>74,73.47161572,North,direct,0,58.0
+25326,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,116500,5.375,0.4637,1830.0,120,not_neg,not_int,not_lpsm,578000.0,home,4U,1740.0,CRIF,881,CIB,55-64,52.51677852,south,direct,0,49.0
+25789,2019,cf,Sex Not Available,pre,p4,l1,nopc,b/c,526500,4.99,0.3056,3495.0,360,not_neg,not_int,not_lpsm,358000.0,home,1U,1560.0,EXP,892,EXP,45-54,71.28820961,North-East,direct,0,59.0
+25242,2019,cf,Male,nopre,p4,l1,nopc,nob/c,256500,5.0,0.4068,1778.62,192,not_neg,not_int,not_lpsm,478000.0,home,2U,7920.0,CRIF,599,EXP,65-74,99.5923913,North,direct,0,56.0
+25157,2019,cf,Female,nopre,p1,l2,nopc,nob/c,646500,3.99,0.3345,1228.54,360,not_neg,int_only,not_lpsm,258000.0,home,1U,2280.0,EXP,833,EXP,55-64,65.31862745,North,direct,0,41.0
+25664,2019,ncf,Female,pre,p2,l1,opc,nob/c,126500,4.25,-0.1666,1958.35,300,not_neg,not_int,not_lpsm,278000.0,home,1U,2640.0,CRIF,700,EXP,<25,46.06918239,south,direct,0,35.0
+25817,2019,cf,Sex Not Available,nopre,p4,l2,nopc,nob/c,256500,3.5,0.5677,6935.77,324,not_neg,not_int,not_lpsm,438000.0,home,1U,15780.0,EXP,846,EXP,55-64,45.4735376,south,direct,1,55.0
+25779,2019,cf,Male,pre,p3,l1,nopc,b/c,886500,4.375,1.4935,1080.37,288,not_neg,not_int,not_lpsm,778000.0,home,1U,54300.0,CIB,781,CIB,55-64,65.31862745,North,direct,0,8.0
+25344,2019,cf,Joint,,p1,l2,nopc,nob/c,266500,3.5,-0.448,1685.78,180,not_neg,not_int,not_lpsm,998000.0,home,1U,16560.0,EXP,889,EXP,45-54,41.58653846,south,direct,0,12.0
+25490,2019,,Joint,nopre,p4,l1,nopc,nob/c,256500,,0.7018,2522.5,360,not_neg,not_int,not_lpsm,318000.0,home,1U,7080.0,EXP,776,CIB,65-74,80.66037736,south,direct,0,50.0
+25726,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,496500,3.5,0.3613,6259.65,180,not_neg,not_int,not_lpsm,88000.0,home,3U,9900.0,CRIF,522,EXP,55-64,102.1907216,North,direct,0,31.0
+25315,2019,ncf,Female,nopre,p1,l1,nopc,nob/c,226500,5.5,0.0677,5493.02,360,not_neg,not_int,not_lpsm,1298000.0,home,1U,8220.0,CIB,818,CIB,65-74,97.18137255,North,direct,0,41.0
+25811,2019,cf,Female,pre,p4,l1,nopc,nob/c,226500,3.25,0.0059,786.33,300,not_neg,not_int,not_lpsm,2008000.0,home,1U,10920.0,CRIF,801,EXP,35-44,102.1907216,south,direct,0,47.0
+25853,2019,cf,Female,nopre,p3,l1,nopc,nob/c,826500,2.99,0.3613,6720.0,156,not_neg,not_int,not_lpsm,798000.0,home,4U,8100.0,EQUI,525,EXP,45-54,94.59798995,North,direct,0,59.0
+25533,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,516500,3.69,0.8943,3831.19,360,neg_amm,not_int,not_lpsm,658000.0,home,4U,3300.0,CIB,501,CIB,35-44,58.82633588,North,direct,0,27.0
+25756,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,516500,4.125,0.754,1936.8,360,not_neg,not_int,lpsm,178000.0,home,1U,12360.0,EQUI,624,EXP,35-44,35.75949367,south,direct,0,58.0
+25700,2019,cf,Male,,p4,l1,nopc,nob/c,706500,3.5,0.2047,4150.0,360,not_neg,int_only,not_lpsm,418000.0,home,1U,2700.0,CIB,670,CIB,55-64,69.05487805,south,direct,0,9.0
+25866,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,336500,3.99,0.8243,4241.88,360,not_neg,not_int,not_lpsm,258000.0,home,1U,15240.0,CIB,715,CIB,>74,22.49034749,central,direct,0,52.0
+25300,2019,ncf,Joint,,p4,l1,nopc,nob/c,1376500,4.49,-0.8685,10510.76,180,not_neg,not_int,not_lpsm,898000.0,home,3U,5700.0,EXP,857,CIB,35-44,37.44019139,North,direct,0,44.0
+25499,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,156500,4.5,0.6498,757.9,360,not_neg,not_int,not_lpsm,958000.0,home,1U,9300.0,CRIF,633,EXP,55-64,52.11864407,central,direct,1,31.0
+25515,2019,cf,Female,nopre,p3,l1,nopc,nob/c,866500,3.375,0.5971,1431.25,324,not_neg,not_int,not_lpsm,948000.0,home,1U,5880.0,CIB,699,EXP,65-74,83.67579909,North,direct,1,11.0
+25644,2019,cf,Male,nopre,p2,l1,nopc,b/c,366500,3.5,-0.3261,4205.71,288,neg_amm,not_int,not_lpsm,498000.0,home,1U,6000.0,EXP,837,CIB,<25,59.83146067,North,direct,0,15.0
+25508,2019,cf,Female,,p3,l1,nopc,nob/c,196500,4.875,0.9545,7866.73,180,not_neg,not_int,not_lpsm,1128000.0,home,1U,15780.0,EXP,773,CIB,45-54,63.55421687,North,direct,0,35.0
+25587,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,1486500,2.875,0.4061,10255.23,120,not_neg,not_int,not_lpsm,78000.0,home,1U,8520.0,CRIF,634,CIB,<25,78.31196581,North-East,direct,0,14.0
+25624,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,646500,,1.1306,4597.5,180,neg_amm,not_int,not_lpsm,808000.0,home,1U,8520.0,EXP,516,CIB,,59.83146067,south,direct,0,58.0
+25774,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,886500,4.625,0.2848,4214.38,228,not_neg,int_only,not_lpsm,608000.0,home,1U,2880.0,CRIF,612,EXP,25-34,75.12254902,central,direct,0,16.0
+25130,2019,ncf,Sex Not Available,,p4,l1,nopc,nob/c,276500,4.99,0.9312,7095.46,348,neg_amm,not_int,not_lpsm,1088000.0,home,1U,6840.0,CRIF,550,EXP,45-54,47.74549098,North,direct,0,25.0
+24987,2019,,Female,nopre,p3,l1,nopc,nob/c,406500,4.875,0.037,3561.22,180,not_neg,not_int,not_lpsm,1948000.0,home,1U,13080.0,EQUI,611,EXP,65-74,80.56318681,south,direct,0,44.0
+25558,2019,cf,Male,nopre,p4,l1,nopc,nob/c,126500,4.5,0.2291,2428.15,300,not_neg,int_only,not_lpsm,1008000.0,home,2U,1140.0,EXP,584,EXP,55-64,52.12585034,North,direct,0,12.0
+25724,2019,cf,Sex Not Available,nopre,p1,l2,nopc,nob/c,506500,2.75,-0.1583,1685.78,324,not_neg,not_int,not_lpsm,1758000.0,home,1U,19800.0,CRIF,729,CIB,45-54,70.14802632,North,direct,0,15.0
+25162,2019,cf,Male,pre,p4,l1,opc,nob/c,876500,4.99,-0.0661,4542.18,360,not_neg,int_only,not_lpsm,578000.0,home,1U,6840.0,CIB,567,CIB,25-34,57.4602122,North-East,direct,0,58.0
+25008,2019,cf,Male,pre,p3,l1,nopc,nob/c,416500,5.125,0.0567,9200.0,312,not_neg,not_int,not_lpsm,568000.0,home,1U,10380.0,EXP,557,EXP,45-54,38.01369863,North,direct,0,48.0
+24933,2019,cf,Female,nopre,p2,l1,nopc,b/c,386500,5.375,0.6514,425.0,300,not_neg,not_int,not_lpsm,148000.0,home,3U,5820.0,CIB,714,CIB,45-54,74.32634731,south,direct,0,14.0
+25118,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,506500,2.875,0.4736,1605.37,360,not_neg,not_int,not_lpsm,288000.0,home,1U,3240.0,CIB,702,EXP,<25,78.67483296,central,direct,1,43.0
+25251,2019,cf,Joint,nopre,p3,l1,opc,nob/c,96500,3.375,0.6818,2910.0,312,not_neg,not_int,not_lpsm,828000.0,home,1U,10080.0,CRIF,717,EXP,<25,19.1091954,south,direct,0,58.0
+25574,2019,,Male,pre,p4,l2,nopc,b/c,266500,3.99,-0.1555,1958.35,360,not_neg,int_only,not_lpsm,958000.0,home,1U,10620.0,CRIF,743,EXP,55-64,49.0942029,North-East,direct,0,31.0
+25046,2019,cf,Male,nopre,p1,l1,opc,nob/c,376500,5.19,-0.6588,4557.15,180,not_neg,not_int,not_lpsm,198000.0,home,3U,9960.0,CIB,787,CIB,45-54,48.74749499,North,direct,0,21.0
+24954,2019,,Male,nopre,p4,l1,nopc,nob/c,256500,3.99,0.6835,2915.0,324,neg_amm,not_int,not_lpsm,158000.0,home,1U,10260.0,EXP,503,EXP,55-64,86.09422492,North-East,direct,0,44.0
+25097,2019,cf,Joint,nopre,p1,l1,nopc,b/c,346500,4.375,0.3218,961.32,360,not_neg,not_int,not_lpsm,508000.0,home,3U,4560.0,EQUI,757,EXP,>74,50.6127451,North,direct,0,23.0
+25251,2019,ncf,Female,nopre,p4,l2,opc,b/c,686500,2.99,0.4597,6661.88,360,neg_amm,not_int,not_lpsm,258000.0,home,1U,7560.0,EXP,682,EXP,55-64,94.73244147,south,direct,0,25.0
+25077,2019,cf,Female,pre,p4,l1,nopc,nob/c,576500,4.25,1.42,2839.0,228,not_neg,not_int,not_lpsm,1298000.0,home,1U,3240.0,CRIF,770,CIB,45-54,76.78571429,south,direct,1,25.0
+25170,2019,,Male,nopre,p3,l1,opc,nob/c,536500,3.5,-0.0141,14690.09,120,not_neg,int_only,not_lpsm,1108000.0,home,1U,18420.0,EQUI,584,CIB,>74,69.80633803,North,direct,0,50.0
+25716,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,516500,5.375,0.3202,1250.0,192,not_neg,not_int,not_lpsm,708000.0,home,2U,3480.0,EQUI,593,EXP,55-64,59.83146067,North,direct,0,41.0
+25354,2019,cf,Sex Not Available,pre,p3,l1,opc,nob/c,596500,3.7,-0.128,2036.5,156,not_neg,int_only,not_lpsm,288000.0,home,3U,0.0,EXP,776,EXP,>74,73.94859813,North,direct,1,30.0
+25419,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,126500,2.75,-0.2676,1061.59,120,not_neg,not_int,not_lpsm,1298000.0,home,1U,3960.0,CRIF,602,EXP,,74.45652174,south,direct,1,15.0
+25291,2019,cf,Male,nopre,p4,l1,opc,nob/c,716500,5.625,1.0714,590.73,144,not_neg,not_int,not_lpsm,1298000.0,home,1U,28440.0,CIB,505,EXP,65-74,79.23387097,south,direct,0,37.0
+25714,2019,cf,Female,nopre,p3,l1,opc,nob/c,616500,4.625,0.609,2019.67,300,neg_amm,not_int,not_lpsm,788000.0,home,1U,13560.0,CIB,534,EXP,25-34,77.51572327,North,direct,0,10.0
+25080,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,646500,3.625,0.5851,6259.65,312,not_neg,not_int,not_lpsm,558000.0,home,1U,6180.0,CIB,563,EXP,<25,92.72151899,North,direct,0,
+24954,2019,cf,Female,pre,p3,l1,nopc,nob/c,356500,3.69,-0.0547,4229.08,144,not_neg,not_int,lpsm,318000.0,home,2U,12060.0,CIB,737,EXP,55-64,96.1409396,south,direct,0,42.0
+25269,2019,cf,Joint,pre,p4,l1,opc,b/c,226500,3.69,1.2083,2839.0,300,not_neg,int_only,not_lpsm,148000.0,home,4U,14220.0,EXP,863,CIB,35-44,87.18637993,North,direct,0,53.0
+24983,2019,cf,Male,,p4,l1,nopc,nob/c,166500,3.375,1.1269,9200.0,336,not_neg,int_only,not_lpsm,418000.0,home,1U,13380.0,EQUI,686,CIB,,89.60755814,North,direct,0,57.0
+25660,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,496500,3.5,0.3584,7347.81,300,not_neg,not_int,not_lpsm,738000.0,home,4U,9360.0,CRIF,621,EXP,35-44,48.76644737,south,direct,0,18.0
+25563,2019,cf,Female,nopre,p4,l2,nopc,nob/c,576500,5.375,0.5378,10489.0,276,not_neg,not_int,not_lpsm,308000.0,home,2U,8100.0,CIB,844,CIB,45-54,39.49353448,North,direct,0,23.0
+25645,2019,ncf,Joint,nopre,p1,l1,nopc,nob/c,86500,3.7,0.4192,3612.0,180,not_neg,not_int,not_lpsm,458000.0,home,1U,11460.0,EXP,544,CIB,>74,79.45402299,North,direct,0,25.0
+25327,2019,cf,Joint,nopre,p1,l2,nopc,nob/c,906500,3.99,0.4465,953.07,228,not_neg,not_int,not_lpsm,388000.0,home,1U,5340.0,CIB,714,EXP,45-54,70.89665653,North-East,direct,1,24.0
+25141,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,1506500,4.0,1.4048,2614.0,240,not_neg,not_int,lpsm,628000.0,home,1U,3960.0,EXP,710,CIB,55-64,68.54066986,North,direct,0,55.0
+25198,2019,ncf,Joint,nopre,p3,l1,opc,nob/c,226500,3.125,0.1085,503.24,180,not_neg,not_int,not_lpsm,2608000.0,home,1U,11820.0,CRIF,900,EXP,55-64,49.10071942,North,direct,0,22.0
+25434,2019,cf,Male,,p4,l1,opc,nob/c,656500,3.875,0.6186,2624.6,240,not_neg,not_int,not_lpsm,588000.0,home,1U,6840.0,CIB,743,EXP,45-54,53.57929515,south,direct,0,30.0
+25910,2019,ncf,Male,nopre,p3,l1,nopc,nob/c,486500,4.375,0.1674,3831.19,192,not_neg,int_only,lpsm,178000.0,home,2U,5520.0,EQUI,826,CIB,65-74,62.95986622,central,direct,1,51.0
+25032,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,356500,4.75,0.4192,3155.0,108,not_neg,not_int,not_lpsm,548000.0,home,1U,4860.0,CIB,656,EXP,>74,94.85645933,North,direct,0,61.0
+25677,2019,cf,Joint,,p3,l1,nopc,nob/c,226500,4.875,1.7615,995.67,300,not_neg,not_int,not_lpsm,508000.0,home,1U,11460.0,CRIF,729,CIB,35-44,81.47482014,central,direct,0,42.0
+25127,2019,,Joint,nopre,p3,l1,nopc,nob/c,176500,3.25,-0.1789,6022.5,348,not_neg,not_int,not_lpsm,438000.0,home,1U,14820.0,EXP,609,CIB,25-34,99.6031746,south,direct,0,30.0
+25661,2019,ncf,Female,,p3,l1,opc,nob/c,206500,4.625,0.6339,9323.75,300,not_neg,not_int,not_lpsm,338000.0,home,2U,12540.0,EXP,557,CIB,35-44,79.45402299,south,direct,0,36.0
+25628,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,156500,4.125,0.245,1936.8,156,not_neg,not_int,not_lpsm,468000.0,home,1U,10920.0,EXP,722,CIB,45-54,94.95614035,central,direct,0,31.0
+25226,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,426500,5.625,0.3694,5168.85,180,neg_amm,not_int,not_lpsm,138000.0,home,1U,12240.0,CRIF,571,CIB,25-34,22.49034749,south,direct,1,43.0
+25235,2019,cf,Sex Not Available,nopre,p1,l1,opc,nob/c,826500,2.99,0.3056,1266.47,96,not_neg,not_int,not_lpsm,208000.0,home,1U,7920.0,EXP,810,CIB,25-34,52.12585034,south,direct,0,34.0
+25236,2019,,Male,nopre,p2,l1,nopc,b/c,1416500,3.75,0.2429,797.77,324,not_neg,not_int,not_lpsm,,home,1U,8160.0,EXP,561,CIB,55-64,86.27232143,south,direct,0,17.0
+25284,2019,cf,Sex Not Available,nopre,p4,l1,opc,nob/c,696500,4.125,-0.151,4147.88,300,not_neg,not_int,not_lpsm,2128000.0,home,2U,2940.0,CRIF,779,CIB,55-64,80.44871795,south,direct,1,17.0
+25029,2019,cf,Joint,nopre,p3,l1,nopc,b/c,226500,4.625,-0.5876,3608.63,300,not_neg,not_int,lpsm,1538000.0,home,1U,3960.0,EXP,774,CIB,>74,22.10506135,North,direct,0,49.0
+25788,2019,ncf,Joint,nopre,p4,l1,nopc,b/c,626500,5.19,0.5971,6259.65,324,not_neg,not_int,not_lpsm,1088000.0,home,1U,7260.0,CRIF,708,CIB,<25,58.83152174,North,direct,0,39.0
+25268,2019,cf,Joint,nopre,p2,l2,nopc,nob/c,276500,3.0,0.8943,7567.68,336,not_neg,not_int,not_lpsm,478000.0,home,1U,1260.0,EXP,527,EXP,35-44,95.54263566,North,direct,0,51.0
+24940,2019,cf,Male,nopre,p1,l1,nopc,nob/c,166500,5.19,0.0995,4173.65,180,neg_amm,not_int,not_lpsm,68000.0,home,2U,8520.0,EXP,710,EXP,45-54,96.1409396,south,direct,0,45.0
+24936,2019,cf,Male,nopre,p4,l1,nopc,nob/c,626500,4.625,0.0505,5760.0,240,not_neg,not_int,lpsm,3848000.0,home,1U,17640.0,CRIF,552,CIB,45-54,58.82687927,North,direct,0,58.0
+25729,2019,ncf,Sex Not Available,nopre,p1,l1,nopc,nob/c,696500,3.49,-0.2979,5376.25,108,neg_amm,not_int,not_lpsm,248000.0,home,1U,5760.0,EXP,706,CIB,55-64,72.65100671,south,direct,0,47.0
+25744,2019,cf,Female,nopre,p4,l1,opc,nob/c,656500,4.25,0.2666,5030.25,276,not_neg,not_int,not_lpsm,1158000.0,home,1U,39300.0,EQUI,776,CIB,45-54,90.68047337,south,direct,0,56.0
+25569,2019,cf,Male,nopre,p3,l1,nopc,nob/c,726500,4.25,-0.1822,3720.0,96,not_neg,not_int,not_lpsm,658000.0,home,1U,6300.0,EXP,847,EXP,35-44,34.17030568,North,direct,1,48.0
+24994,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,266500,4.875,0.7168,4550.0,360,not_neg,not_int,not_lpsm,1138000.0,home,1U,15180.0,CRIF,863,EXP,55-64,72.0734127,south,direct,0,25.0
+25563,2019,cf,Sex Not Available,nopre,p4,l2,nopc,nob/c,356500,4.49,-0.032,7918.75,336,not_neg,not_int,lpsm,1758000.0,home,4U,12540.0,CRIF,517,EXP,35-44,63.55421687,south,direct,1,12.0
+25011,2019,cf,Joint,,p2,l1,nopc,nob/c,586500,3.5,0.1673,950.0,180,neg_amm,not_int,not_lpsm,368000.0,home,4U,8040.0,EXP,850,CIB,<25,90.57017544,south,direct,0,34.0
+25420,2019,cf,Joint,nopre,p4,l2,nopc,b/c,146500,5.625,0.4068,4979.25,240,not_neg,not_int,not_lpsm,298000.0,home,4U,840.0,EXP,609,CIB,65-74,85.041841,North,direct,0,46.0
+25278,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,256500,4.375,0.2794,5818.5,180,not_neg,not_int,not_lpsm,98000.0,home,1U,10440.0,CIB,797,EXP,45-54,69.83532934,south,direct,0,45.0
+25277,2019,ncf,Sex Not Available,nopre,p4,l2,nopc,nob/c,236500,3.75,1.1306,3259.44,180,not_neg,not_int,not_lpsm,1298000.0,home,1U,8580.0,CIB,670,CIB,45-54,36.81133056,North,direct,0,10.0
+24956,2019,,Sex Not Available,nopre,p3,l1,nopc,nob/c,326500,3.625,0.8672,2462.74,192,not_neg,int_only,not_lpsm,768000.0,home,1U,6240.0,CRIF,702,EXP,65-74,52.11864407,North,direct,0,43.0
+25802,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,516500,4.56,0.1464,6090.0,300,not_neg,not_int,not_lpsm,,home,1U,7320.0,EXP,710,CIB,65-74,64.73799127,south,direct,0,49.0
+25130,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,476500,5.125,-0.088,4701.56,276,not_neg,not_int,not_lpsm,838000.0,home,1U,10860.0,EXP,503,EXP,55-64,77.23463687,North,direct,0,35.0
+25502,2019,,Sex Not Available,nopre,p3,l1,nopc,nob/c,626500,5.75,0.1673,460.87,192,not_neg,int_only,not_lpsm,278000.0,home,1U,11160.0,EQUI,667,EXP,45-54,65.39665971,North,direct,0,35.0
+25284,2019,cf,Joint,pre,p3,l1,opc,nob/c,126500,5.375,1.1254,7265.8,360,neg_amm,not_int,not_lpsm,198000.0,home,1U,12300.0,EXP,853,CIB,<25,82.20524017,North,direct,0,42.0
+25426,2019,cf,Male,,p4,l1,nopc,nob/c,316500,3.875,0.6648,953.07,312,not_neg,not_int,not_lpsm,798000.0,home,3U,11160.0,EXP,679,EXP,35-44,99.31192661,North,direct,0,61.0
+25242,2019,,Sex Not Available,nopre,p1,l1,nopc,nob/c,496500,4.375,0.5887,6095.0,192,not_neg,not_int,not_lpsm,138000.0,home,4U,2040.0,CRIF,578,CIB,35-44,75.88757396,North,direct,0,50.0
+25691,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,226500,4.0,0.4562,179.04,360,not_neg,not_int,not_lpsm,1758000.0,home,4U,22260.0,EXP,551,CIB,55-64,89.82843137,south,direct,0,10.0
+25864,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,486500,5.19,0.0072,384.17,156,neg_amm,not_int,not_lpsm,2308000.0,home,4U,4680.0,CRIF,735,CIB,45-54,74.70501475,North-East,direct,0,34.0
+25240,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,56500,,1.0618,4597.5,180,not_neg,not_int,not_lpsm,578000.0,home,4U,16380.0,EQUI,658,CIB,65-74,75.93537415,North,direct,0,57.0
+25318,2019,cf,Female,nopre,p4,l1,nopc,nob/c,986500,3.25,0.4387,3294.2,120,not_neg,not_int,not_lpsm,718000.0,home,2U,6240.0,CRIF,686,EXP,35-44,73.47161572,south,direct,0,35.0
+25574,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,106500,3.775,0.4068,1772.02,180,not_neg,not_int,not_lpsm,318000.0,home,4U,12540.0,CRIF,788,CIB,35-44,72.53401361,south,direct,0,27.0
+25637,2019,cf,Female,,p4,l1,nopc,b/c,466500,4.25,1.3473,10512.5,240,not_neg,not_int,not_lpsm,1168000.0,home,1U,7440.0,EXP,515,CIB,<25,75.48543689,North,direct,0,58.0
+25297,2019,cf,Male,nopre,p1,l1,nopc,nob/c,676500,2.99,1.3913,2572.4,228,not_neg,not_int,not_lpsm,138000.0,home,1U,8940.0,EXP,649,CIB,>74,87.74154589,south,direct,0,49.0
+25861,2019,cf,Joint,,p2,l1,nopc,nob/c,266500,4.49,-0.5986,4625.0,300,not_neg,not_int,not_lpsm,538000.0,home,1U,1860.0,CIB,694,CIB,35-44,76.00671141,central,direct,1,47.0
+25569,2019,cf,Sex Not Available,,p3,l1,opc,b/c,546500,3.49,1.0522,4550.0,228,not_neg,not_int,not_lpsm,998000.0,home,1U,15540.0,EQUI,816,EXP,25-34,89.60755814,south,direct,1,41.0
+25138,2019,ncf,Joint,pre,p4,l1,nopc,nob/c,206500,3.99,0.1492,5220.49,180,neg_amm,not_int,not_lpsm,338000.0,home,3U,5040.0,EXP,900,EXP,45-54,69.05487805,south,direct,1,15.0
+25344,2019,cf,Female,pre,p3,l1,nopc,nob/c,816500,5.19,-0.189,4325.85,156,not_neg,not_int,not_lpsm,208000.0,home,1U,7320.0,CRIF,588,EXP,>74,87.39754098,North-East,direct,0,20.0
+25602,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,1226500,5.5,1.4687,6549.46,324,not_neg,not_int,not_lpsm,958000.0,home,1U,7500.0,CIB,757,CIB,45-54,96.3836478,south,direct,0,38.0
+24918,2019,cf,Female,nopre,p3,l1,nopc,nob/c,656500,4.0,-0.7191,3041.75,156,not_neg,not_int,not_lpsm,518000.0,home,4U,2580.0,CIB,722,EXP,35-44,86.18421053,central,direct,0,15.0
+25551,2019,cf,Joint,pre,p3,l1,nopc,nob/c,306500,3.25,0.2713,6661.88,240,neg_amm,not_int,not_lpsm,678000.0,home,1U,5700.0,CIB,736,EXP,55-64,60.65891473,North,direct,0,10.0
+25467,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,246500,5.375,-0.0394,9783.36,300,not_neg,not_int,not_lpsm,518000.0,home,1U,10440.0,CRIF,836,CIB,45-54,77.87769784,North,direct,1,26.0
+25336,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,596500,4.0,1.2019,4943.75,240,not_neg,not_int,not_lpsm,158000.0,home,3U,8340.0,EXP,515,CIB,55-64,103.2945736,North,direct,0,61.0
+25063,2019,cf,Joint,nopre,p1,l1,nopc,b/c,516500,3.99,0.3345,6786.81,360,not_neg,not_int,not_lpsm,418000.0,home,3U,1140.0,EQUI,639,EXP,35-44,70.89665653,North,direct,0,45.0
+25252,2019,,Joint,nopre,p3,l2,nopc,nob/c,696500,5.25,-0.3777,12283.66,156,not_neg,not_int,lpsm,738000.0,home,2U,8220.0,CRIF,598,CIB,25-34,98.07692308,North,direct,0,19.0
+25791,2019,cf,Female,nopre,p4,l1,nopc,nob/c,306500,4.75,1.1501,3585.91,360,not_neg,not_int,not_lpsm,138000.0,home,2U,8220.0,CRIF,719,CIB,<25,74.64157706,south,direct,0,48.0
+25291,2019,,Sex Not Available,nopre,p3,l2,nopc,nob/c,1506500,5.375,-0.25,3705.5,360,not_neg,not_int,not_lpsm,518000.0,home,4U,9600.0,CRIF,861,EXP,25-34,52.46062992,south,direct,0,31.0
+25273,2019,ncf,Sex Not Available,pre,p3,l1,nopc,nob/c,536500,3.99,0.5887,4394.53,180,neg_amm,int_only,not_lpsm,248000.0,home,1U,1620.0,CIB,586,CIB,45-54,61.36363636,central,direct,0,59.0
+25848,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,246500,4.25,1.987,4173.65,108,neg_amm,not_int,not_lpsm,938000.0,home,2U,18720.0,CRIF,559,EXP,45-54,94.73244147,south,direct,0,57.0
+25083,2019,cf,Male,,p4,l1,nopc,nob/c,216500,2.99,0.5864,8815.36,348,not_neg,not_int,not_lpsm,268000.0,home,1U,11880.0,EQUI,706,CIB,55-64,81.98818898,North,direct,0,61.0
+25644,2019,cf,Joint,,p3,l1,nopc,nob/c,186500,4.99,0.2794,3987.13,120,not_neg,not_int,not_lpsm,148000.0,home,3U,8340.0,EQUI,703,CIB,35-44,74.44134078,North-East,direct,0,10.0
+25589,2019,ncf,Female,pre,p4,l1,opc,b/c,396500,4.75,1.1326,936.0,276,not_neg,not_int,not_lpsm,158000.0,home,1U,2100.0,EXP,572,EXP,45-54,77.23463687,North,direct,0,55.0
+25049,2019,,Sex Not Available,nopre,p3,l2,nopc,b/c,866500,4.5,0.0898,5937.5,360,not_neg,not_int,not_lpsm,2008000.0,home,2U,8340.0,CIB,712,EXP,35-44,99.39516129,North-East,direct,0,54.0
+25763,2019,,Sex Not Available,nopre,p4,l1,opc,nob/c,606500,4.375,0.5271,12435.2,180,not_neg,not_int,not_lpsm,308000.0,home,3U,7620.0,EXP,768,EXP,35-44,90.65349544,central,direct,0,30.0
+25748,2019,cf,Joint,nopre,p1,l1,nopc,b/c,186500,3.56,0.5851,6792.09,360,not_neg,not_int,lpsm,228000.0,home,1U,4980.0,EXP,527,EXP,45-54,85.55045872,North-East,direct,0,18.0
+24962,2019,cf,Joint,,p3,l1,nopc,nob/c,866500,4.0,-0.1484,5724.7,360,not_neg,not_int,not_lpsm,858000.0,home,1U,12060.0,CRIF,524,CIB,45-54,95.48710602,south,direct,0,60.0
+25560,2019,cf,Female,pre,p4,l1,nopc,nob/c,616500,3.99,-0.088,5650.0,180,not_neg,int_only,not_lpsm,2308000.0,home,1U,3360.0,CIB,837,EXP,>74,103.2945736,south,direct,0,47.0
+25584,2019,cf,Male,nopre,p4,l1,nopc,nob/c,586500,3.99,1.4613,512.6,276,not_neg,not_int,not_lpsm,558000.0,home,3U,14340.0,EXP,867,CIB,25-34,79.12979351,south,direct,1,38.0
+24996,2019,cf,Female,nopre,p3,l1,nopc,nob/c,706500,4.0,0.6536,3940.31,288,not_neg,not_int,lpsm,268000.0,home,1U,15240.0,EXP,723,EXP,35-44,55.69908815,North,direct,0,59.0
+25443,2019,cf,Male,pre,p3,l1,nopc,nob/c,316500,5.19,0.445,4341.0,360,neg_amm,not_int,not_lpsm,328000.0,home,3U,5940.0,EXP,851,EXP,45-54,76.00671141,North,direct,0,9.0
+25035,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,406500,3.7,0.3808,3996.87,240,not_neg,not_int,lpsm,158000.0,home,1U,2700.0,CIB,617,CIB,,90.42750929,North,direct,1,49.0
+25432,2019,cf,Female,pre,p4,l1,nopc,nob/c,566500,4.5,0.1061,13507.2,300,not_neg,not_int,not_lpsm,168000.0,home,1U,3420.0,CIB,831,CIB,<25,84.92647059,North,direct,0,26.0
+24936,2019,cf,Male,nopre,p2,l1,nopc,nob/c,676500,4.5,0.6439,3036.69,324,not_neg,not_int,not_lpsm,1308000.0,home,1U,2220.0,EXP,601,EXP,>74,63.69463869,North,direct,0,31.0
+25821,2019,cf,Sex Not Available,nopre,p1,l1,nopc,b/c,606500,3.25,0.9576,1990.0,312,not_neg,not_int,not_lpsm,718000.0,home,2U,4320.0,CRIF,720,CIB,45-54,89.71571906,south,direct,0,13.0
+25460,2019,cf,Female,nopre,p4,l1,nopc,nob/c,486500,4.25,0.6945,7305.0,144,not_neg,not_int,not_lpsm,278000.0,home,1U,3360.0,EQUI,559,CIB,65-74,65.68100358,North,direct,0,13.0
+25477,2019,cf,Female,nopre,p2,l1,nopc,b/c,236500,,0.2555,2665.52,360,not_neg,not_int,not_lpsm,878000.0,home,1U,14220.0,EXP,870,EXP,55-64,58.82633588,North,direct,0,57.0
+25104,2019,cf,Sex Not Available,,p4,l1,nopc,nob/c,516500,5.5,0.3523,4706.73,120,not_neg,int_only,not_lpsm,418000.0,home,1U,2520.0,CRIF,817,CIB,45-54,41.03860294,central,direct,0,43.0
+25072,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,726500,4.25,-0.189,5358.88,120,not_neg,not_int,not_lpsm,278000.0,home,1U,10800.0,CRIF,794,CIB,35-44,62.68564356,North,direct,0,30.0
+24978,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,346500,4.25,0.1267,6786.81,300,not_neg,int_only,not_lpsm,498000.0,home,1U,5640.0,EQUI,551,EXP,35-44,74.32634731,North,direct,0,27.0
+25881,2019,,Joint,nopre,p3,l1,nopc,nob/c,826500,3.875,1.034,84.0,360,not_neg,not_int,not_lpsm,1068000.0,home,4U,2580.0,EXP,527,CIB,35-44,41.7953668,North-East,direct,0,7.0
+25700,2019,cf,Joint,,p4,l1,nopc,nob/c,556500,3.75,-0.0713,2291.25,240,not_neg,not_int,not_lpsm,528000.0,home,1U,8400.0,CRIF,779,CIB,55-64,99.10714286,south,direct,0,19.0
+25245,2019,cf,Joint,pre,p2,l1,opc,nob/c,386500,3.625,0.5864,3520.2,312,not_neg,not_int,not_lpsm,198000.0,home,1U,32400.0,CRIF,885,CIB,35-44,54.17933131,North,direct,0,39.0
+25729,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,676500,3.75,-0.3023,8815.36,360,not_neg,not_int,not_lpsm,128000.0,home,1U,2820.0,CRIF,857,CIB,>74,42.71561772,south,direct,0,23.0
+25212,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,776500,4.625,0.2299,1063.16,324,neg_amm,not_int,not_lpsm,248000.0,home,1U,4200.0,EQUI,735,CIB,55-64,98.828125,south,direct,0,27.0
+25650,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,466500,3.625,0.5743,2590.0,360,neg_amm,not_int,not_lpsm,258000.0,home,3U,4140.0,CRIF,707,EXP,<25,74.543379,south,direct,0,6.0
+25324,2019,,Joint,nopre,p3,l1,nopc,nob/c,66500,3.7,0.3451,460.04,312,not_neg,not_int,lpsm,738000.0,home,1U,3900.0,CRIF,692,EXP,35-44,78.72168285,North,direct,0,46.0
+25627,2019,cf,Sex Not Available,nopre,p4,l1,opc,nob/c,986500,3.25,-0.0492,6052.0,360,not_neg,int_only,not_lpsm,1258000.0,home,3U,13860.0,EXP,567,EXP,65-74,90.04854369,south,direct,0,13.0
+25808,2019,,Sex Not Available,nopre,p3,l1,nopc,nob/c,76500,4.25,0.4254,4229.08,120,not_neg,not_int,not_lpsm,1948000.0,home,1U,14160.0,CIB,806,CIB,35-44,41.7953668,North,direct,1,17.0
+25824,2019,cf,Male,,p3,l1,nopc,nob/c,1486500,3.375,0.1427,5204.03,324,not_neg,int_only,not_lpsm,798000.0,home,1U,1980.0,CIB,611,EXP,25-34,84.43877551,North,direct,1,17.0
+25126,2019,cf,Sex Not Available,pre,p3,l1,opc,nob/c,426500,4.0,1.0231,4750.0,312,not_neg,not_int,lpsm,588000.0,home,1U,10440.0,EQUI,836,EXP,55-64,89.60755814,North,direct,1,23.0
+25583,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,276500,5.0,1.3638,8100.29,180,not_neg,not_int,not_lpsm,2608000.0,home,4U,15780.0,CIB,528,CIB,45-54,86.52597403,North,direct,1,46.0
+25225,2019,cf,Joint,nopre,p3,l1,opc,nob/c,96500,3.375,-0.689,5168.85,348,not_neg,not_int,not_lpsm,168000.0,home,1U,6300.0,CRIF,537,CIB,45-54,87.79069767,south,direct,0,19.0
+25814,2019,cf,Sex Not Available,pre,p1,l1,nopc,b/c,646500,,1.014,3725.18,360,not_neg,not_int,not_lpsm,698000.0,home,1U,13620.0,EQUI,682,CIB,>74,59.22818792,south,direct,0,30.0
+25861,2019,cf,Female,,p3,l1,nopc,nob/c,126500,4.75,0.1389,2617.25,324,not_neg,not_int,not_lpsm,498000.0,home,1U,6420.0,CIB,525,CIB,25-34,56.72043011,North,direct,1,36.0
+25194,2019,cf,Male,pre,p1,l2,nopc,nob/c,316500,5.625,0.322,1109.31,360,not_neg,not_int,lpsm,428000.0,home,4U,6360.0,CRIF,764,CIB,,52.56147541,North,direct,0,24.0
+25158,2019,cf,Sex Not Available,,p4,l1,opc,b/c,986500,3.7,0.9649,4285.11,96,not_neg,not_int,lpsm,548000.0,home,1U,13500.0,CRIF,752,CIB,55-64,81.98818898,North,direct,0,49.0
+25432,2019,ncf,Male,nopre,p3,l1,nopc,b/c,556500,3.7,0.5179,1308.29,120,not_neg,not_int,not_lpsm,158000.0,home,1U,9420.0,CRIF,504,EXP,25-34,23.77232143,central,direct,0,51.0
+25229,2019,cf,Female,nopre,p3,l2,nopc,nob/c,196500,5.375,0.6484,1685.78,96,neg_amm,not_int,not_lpsm,998000.0,home,1U,14580.0,EQUI,514,CIB,25-34,49.0942029,North,direct,0,24.0
+25782,2019,cf,Joint,nopre,p2,l1,opc,nob/c,826500,5.625,1.1129,2910.0,192,neg_amm,not_int,not_lpsm,178000.0,home,1U,4260.0,CIB,766,CIB,65-74,86.18421053,North,direct,0,30.0
+25799,2019,cf,Female,nopre,p2,l1,opc,nob/c,826500,3.775,1.3777,5379.95,144,not_neg,not_int,not_lpsm,408000.0,home,1U,13200.0,CIB,880,CIB,55-64,90.93309859,North,direct,0,13.0
+25334,2019,,Male,nopre,p4,l1,nopc,nob/c,236500,3.99,1.4331,939.2,348,not_neg,not_int,not_lpsm,78000.0,home,1U,7020.0,CRIF,883,EXP,35-44,71.22641509,central,direct,0,42.0
+25382,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,546500,5.5,0.266,5485.0,360,not_neg,not_int,not_lpsm,488000.0,home,4U,13560.0,EXP,563,EXP,55-64,99.7611465,North,direct,1,42.0
+25348,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,666500,2.875,-0.2959,4159.03,324,not_neg,not_int,not_lpsm,678000.0,home,4U,6240.0,EQUI,501,CIB,<25,19.1091954,North,direct,0,39.0
+25184,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,376500,3.375,1.0083,6245.0,192,not_neg,not_int,not_lpsm,88000.0,home,1U,3840.0,CRIF,719,CIB,45-54,77.23463687,south,direct,1,25.0
+25016,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,236500,,0.5743,6786.81,144,neg_amm,not_int,not_lpsm,568000.0,home,1U,3420.0,CRIF,887,CIB,55-64,73.93617021,North,direct,0,45.0
+25457,2019,cf,Male,nopre,p4,l1,nopc,nob/c,56500,3.25,0.5378,1645.03,240,not_neg,int_only,not_lpsm,978000.0,home,1U,7740.0,EXP,777,EXP,55-64,64.75694444,south,direct,0,49.0
+25282,2019,cf,Female,nopre,p2,l1,nopc,nob/c,1506500,4.75,-0.143,4275.0,192,not_neg,not_int,not_lpsm,168000.0,home,1U,6780.0,CRIF,755,EXP,35-44,56.00165563,North,direct,0,40.0
+25157,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,616500,4.75,0.327,460.87,192,not_neg,int_only,not_lpsm,978000.0,home,4U,22500.0,EQUI,553,EXP,,80.59133489,south,direct,0,48.0
+25737,2019,,Joint,pre,p2,l1,nopc,nob/c,666500,5.19,0.3873,4054.09,288,not_neg,not_int,not_lpsm,108000.0,home,1U,8340.0,CRIF,503,EXP,25-34,39.22413793,south,direct,1,20.0
+25191,2019,ncf,Sex Not Available,nopre,p1,l2,nopc,nob/c,206500,,1.3638,3900.0,240,not_neg,not_int,not_lpsm,918000.0,home,1U,10620.0,CIB,742,EXP,45-54,69.12460568,North,direct,1,48.0
+25789,2019,,Joint,nopre,p3,l1,nopc,nob/c,186500,4.125,0.4322,5344.5,276,neg_amm,not_int,not_lpsm,178000.0,home,1U,54300.0,CIB,738,CIB,<25,68.80530973,North,direct,0,21.0
+24928,2019,cf,Sex Not Available,nopre,p1,l1,nopc,b/c,406500,3.5,0.7018,5634.69,180,not_neg,not_int,not_lpsm,278000.0,home,1U,11460.0,EXP,648,EXP,65-74,52.51677852,North-East,direct,0,52.0
+25609,2019,cf,Female,nopre,p3,l1,nopc,nob/c,306500,4.56,0.5321,6720.0,240,not_neg,not_int,not_lpsm,528000.0,home,1U,1860.0,CIB,597,EXP,55-64,82.11805556,North,direct,0,37.0
+25769,2019,cf,Female,nopre,p2,l1,opc,nob/c,556500,3.625,0.812,11020.75,228,not_neg,not_int,not_lpsm,808000.0,home,2U,2580.0,EQUI,597,CIB,45-54,42.66975309,North,direct,0,28.0
+24920,2019,cf,Male,,p4,l1,nopc,b/c,656500,3.65,1.274,7928.75,300,not_neg,not_int,not_lpsm,538000.0,home,1U,3120.0,EXP,871,CIB,45-54,97.54273504,North-East,direct,0,35.0
+25245,2019,cf,Female,nopre,p2,l1,opc,nob/c,296500,,0.5528,4070.0,360,neg_amm,not_int,not_lpsm,938000.0,home,4U,5520.0,CRIF,621,EXP,,44.61722488,south,direct,0,32.0
+25741,2019,ncf,Sex Not Available,nopre,p4,l1,nopc,nob/c,466500,3.5,0.5378,1544.4,180,not_neg,not_int,not_lpsm,768000.0,home,1U,5400.0,CRIF,628,EXP,65-74,99.74489796,North,direct,1,26.0
+24951,2019,,Joint,nopre,p3,l1,opc,nob/c,446500,3.375,0.266,1685.78,192,not_neg,not_int,lpsm,388000.0,home,1U,9120.0,EXP,556,EXP,45-54,73.30508475,North,direct,1,19.0
+25618,2019,cf,Male,nopre,p4,l1,nopc,nob/c,266500,3.875,0.3374,1250.0,120,not_neg,not_int,not_lpsm,108000.0,home,3U,5820.0,CRIF,757,CIB,45-54,99.05063291,North-East,direct,0,11.0
+25531,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,626500,4.5,-0.3777,3178.02,192,not_neg,not_int,not_lpsm,1008000.0,home,3U,9720.0,CIB,831,EXP,45-54,79.20081967,south,direct,0,54.0
+25605,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,66500,2.75,-0.3485,7866.73,192,neg_amm,not_int,not_lpsm,2008000.0,home,1U,4200.0,EXP,743,EXP,25-34,86.94968553,North,direct,0,39.0
+25011,2019,,Sex Not Available,nopre,p3,l1,nopc,nob/c,96500,3.99,0.5378,906.97,120,not_neg,not_int,not_lpsm,758000.0,home,1U,12180.0,EXP,506,EXP,35-44,31.68380463,North,direct,0,56.0
+25866,2019,cf,Female,nopre,p1,l1,opc,b/c,466500,3.875,0.1574,3000.0,288,not_neg,not_int,lpsm,848000.0,home,1U,15780.0,EXP,797,EXP,<25,84.26640927,south,direct,1,58.0
+25401,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,186500,3.5,1.7709,16593.75,360,not_neg,not_int,lpsm,268000.0,home,1U,11220.0,EXP,777,CIB,55-64,82.30337079,North,direct,0,6.0
+25196,2019,cf,Male,pre,p4,l1,nopc,nob/c,386500,2.99,0.6699,3029.75,276,not_neg,not_int,not_lpsm,268000.0,home,1U,11220.0,CIB,732,CIB,>74,51.07020548,North,direct,1,10.0
+25211,2019,cf,Sex Not Available,,p1,l1,nopc,b/c,686500,5.125,0.6732,3792.82,348,not_neg,not_int,not_lpsm,408000.0,home,2U,3780.0,CIB,874,CIB,25-34,54.78603604,North,direct,1,57.0
+24957,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,556500,5.5,0.4919,6022.5,144,not_neg,not_int,lpsm,588000.0,home,1U,2340.0,CRIF,848,CIB,35-44,42.1875,North,direct,0,48.0
+25545,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,426500,4.99,-0.155,1027.03,156,not_neg,not_int,not_lpsm,178000.0,home,1U,13800.0,EQUI,836,CIB,45-54,87.74154589,North,direct,0,42.0
+25283,2019,cf,Sex Not Available,nopre,p3,l1,nopc,b/c,726500,3.875,0.1681,1538.76,324,not_neg,not_int,not_lpsm,868000.0,home,1U,3360.0,CRIF,500,EXP,>74,74.543379,south,direct,0,44.0
+25617,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,686500,3.75,0.1061,6034.95,336,not_neg,int_only,not_lpsm,598000.0,home,3U,9960.0,CIB,641,CIB,55-64,92.80821918,south,direct,0,23.0
+25871,2019,cf,Female,nopre,p3,l1,opc,b/c,776500,4.49,-0.1928,295.0,120,neg_amm,not_int,not_lpsm,678000.0,home,1U,3000.0,EXP,749,EXP,35-44,85.47297297,North,direct,1,38.0
+25649,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,136500,3.875,-0.2497,1063.91,120,not_neg,not_int,not_lpsm,2128000.0,home,1U,10800.0,EXP,900,CIB,55-64,66.40811456,south,direct,0,40.0
+25534,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,326500,4.75,1.3836,6090.0,336,not_neg,not_int,not_lpsm,368000.0,home,1U,1320.0,EXP,636,EXP,45-54,99.5923913,central,direct,1,42.0
+25771,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,696500,5.625,0.4192,1657.5,360,not_neg,not_int,not_lpsm,1158000.0,home,4U,4800.0,EQUI,639,CIB,,50.81168831,North,direct,0,41.0
+24954,2019,cf,Female,nopre,p4,l1,opc,nob/c,656500,4.0,0.3613,3000.0,336,not_neg,not_int,not_lpsm,78000.0,home,1U,1560.0,CRIF,814,EXP,35-44,95.70895522,south,direct,0,16.0
+25149,2019,cf,Female,nopre,p4,l1,nopc,nob/c,1226500,4.18,0.2154,2980.63,240,not_neg,not_int,not_lpsm,1028000.0,home,1U,3540.0,EQUI,744,CIB,<25,77.51572327,south,direct,0,18.0
+24987,2019,cf,Female,nopre,p3,l2,nopc,b/c,216500,3.5,-0.5844,4159.03,192,not_neg,not_int,not_lpsm,508000.0,home,1U,7800.0,EQUI,786,EXP,<25,33.83905013,south,direct,1,57.0
+25908,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,126500,4.125,0.6835,6792.09,360,not_neg,not_int,lpsm,888000.0,home,4U,14580.0,EXP,833,CIB,35-44,72.69647696,North-East,direct,0,33.0
+25406,2019,cf,Joint,nopre,p3,l1,opc,nob/c,186500,4.49,1.895,2476.72,276,neg_amm,not_int,not_lpsm,738000.0,home,1U,15180.0,EXP,876,CIB,65-74,67.51893939,central,direct,0,19.0
+25196,2019,,Male,pre,p3,l2,nopc,nob/c,146500,5.0,0.4232,953.07,180,not_neg,not_int,not_lpsm,1758000.0,home,1U,1680.0,CRIF,527,EXP,55-64,72.24919094,south,direct,0,41.0
+24916,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,816500,4.18,0.1267,2522.5,360,not_neg,int_only,not_lpsm,1008000.0,home,1U,9780.0,EXP,885,EXP,35-44,65.31862745,central,direct,0,13.0
+25680,2019,cf,Female,nopre,p4,l1,nopc,nob/c,636500,3.69,1.1254,5379.95,312,not_neg,int_only,not_lpsm,348000.0,home,3U,15780.0,EXP,641,EXP,65-74,59.44010417,North,direct,0,8.0
+25689,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,306500,3.875,0.5512,3931.25,288,not_neg,not_int,lpsm,808000.0,home,1U,7440.0,CRIF,714,CIB,25-34,63.84730539,North,direct,0,11.0
+25164,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,346500,3.125,0.7771,4454.0,276,not_neg,not_int,not_lpsm,,home,2U,3780.0,EQUI,524,CIB,,89.71571906,south,direct,0,41.0
+25511,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,686500,4.125,0.9347,1411.87,180,neg_amm,not_int,not_lpsm,628000.0,home,1U,14580.0,EXP,645,EXP,>74,78.84615385,North,direct,0,59.0
+25909,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,326500,5.5,1.3477,5806.43,300,neg_amm,not_int,not_lpsm,2008000.0,home,2U,4980.0,CIB,571,CIB,65-74,56.64893617,south,direct,0,49.0
+25570,2019,ncf,Female,nopre,p4,l1,nopc,b/c,526500,3.69,-0.689,2101.63,144,not_neg,not_int,not_lpsm,428000.0,home,1U,12480.0,EQUI,528,CIB,45-54,94.59798995,south,direct,1,41.0
+25536,2019,cf,Female,nopre,p3,l1,nopc,nob/c,176500,3.75,0.1971,795.0,288,not_neg,not_int,not_lpsm,918000.0,home,1U,2640.0,CRIF,871,CIB,<25,64.40520446,south,direct,1,49.0
+25889,2019,,Sex Not Available,nopre,p2,l1,nopc,nob/c,416500,5.25,0.1151,1772.02,360,not_neg,not_int,not_lpsm,538000.0,home,2U,8220.0,CIB,838,CIB,45-54,93.23899371,North,direct,0,41.0
+25259,2019,,Female,,p4,l1,nopc,nob/c,216500,4.625,0.3719,2818.75,360,not_neg,int_only,not_lpsm,678000.0,home,1U,13800.0,EXP,864,EXP,35-44,31.35696822,south,direct,0,48.0
+25464,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,276500,4.875,0.2525,5806.43,180,not_neg,not_int,not_lpsm,828000.0,home,1U,10080.0,CRIF,838,CIB,65-74,52.46062992,south,direct,1,45.0
+25035,2019,cf,Female,pre,p3,l1,opc,nob/c,56500,4.125,0.9229,2768.18,360,not_neg,not_int,not_lpsm,368000.0,home,1U,1140.0,EXP,658,EXP,35-44,89.52442159,central,direct,0,54.0
+24946,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,406500,4.25,0.5422,3024.13,108,not_neg,not_int,not_lpsm,2398000.0,home,1U,8700.0,CIB,546,EXP,45-54,49.55197133,south,direct,1,36.0
+25526,2019,cf,Male,,p2,l1,opc,b/c,616500,3.875,0.6601,360.12,300,not_neg,int_only,lpsm,1758000.0,home,4U,4140.0,EXP,587,CIB,55-64,94.73039216,North,direct,0,50.0
+25348,2019,cf,Female,nopre,p3,l1,nopc,nob/c,206500,4.18,0.3987,1080.37,228,not_neg,not_int,not_lpsm,438000.0,home,1U,4740.0,CIB,883,CIB,55-64,69.85432331,North,direct,0,45.0
+25912,2019,ncf,Female,,p3,l1,nopc,nob/c,566500,3.7,0.1937,4850.45,288,neg_amm,not_int,not_lpsm,388000.0,home,1U,12480.0,EQUI,892,CIB,45-54,35.75949367,North,direct,0,26.0
+25460,2019,ncf,Female,,p4,l2,nopc,nob/c,626500,3.7,,2932.5,300,not_neg,not_int,lpsm,198000.0,home,2U,12060.0,CRIF,693,EXP,,69.3768997,south,direct,0,55.0
+25030,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,1226500,4.5,0.293,9271.25,360,not_neg,not_int,not_lpsm,298000.0,home,1U,13140.0,CRIF,759,EXP,55-64,88.26530612,central,direct,1,40.0
+25885,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,536500,4.5,-0.1506,11957.75,276,not_neg,not_int,not_lpsm,398000.0,home,2U,6720.0,EXP,559,EXP,55-64,57.96568627,North,direct,0,9.0
+25703,2019,ncf,Joint,nopre,p4,l1,opc,nob/c,456500,3.875,1.4687,4750.0,312,not_neg,not_int,not_lpsm,1468000.0,home,3U,3780.0,EQUI,866,EXP,>74,78.97923875,south,direct,0,9.0
+25096,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,596500,4.5,1.1306,7250.0,360,not_neg,not_int,lpsm,238000.0,home,1U,22500.0,EXP,791,EXP,45-54,47.71341463,North,direct,0,45.0
+25367,2019,cf,Female,nopre,p3,l1,nopc,nob/c,286500,3.875,1.0016,5806.43,348,not_neg,not_int,not_lpsm,328000.0,home,1U,6720.0,EXP,735,EXP,<25,102.1907216,central,direct,1,45.0
+25506,2019,cf,Male,nopre,p3,l1,nopc,b/c,626500,3.49,1.4614,3312.5,144,neg_amm,not_int,not_lpsm,438000.0,home,1U,3780.0,EXP,871,CIB,35-44,86.13945578,North,direct,1,49.0
+25822,2019,cf,Joint,pre,p1,l1,nopc,nob/c,456500,4.125,0.6439,179.04,276,not_neg,not_int,lpsm,1538000.0,home,1U,2820.0,EXP,553,EXP,45-54,99.10714286,south,direct,0,44.0
+25423,2019,cf,Male,nopre,p3,l1,nopc,nob/c,116500,5.5,0.0236,2019.67,348,not_neg,not_int,not_lpsm,1468000.0,home,3U,3420.0,EQUI,804,CIB,65-74,96.21478873,North,direct,0,35.0
+24915,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,426500,4.75,1.0893,1778.62,360,not_neg,not_int,not_lpsm,518000.0,home,1U,12660.0,CRIF,857,CIB,45-54,89.22594142,south,direct,0,33.0
+25350,2019,cf,Male,nopre,p1,l1,nopc,b/c,776500,5.375,0.0859,2594.0,360,not_neg,not_int,not_lpsm,628000.0,home,1U,3300.0,CIB,624,EXP,55-64,93.17434211,North,direct,0,51.0
+25548,2019,,Male,nopre,p2,l1,nopc,nob/c,46500,4.25,0.0176,1410.34,120,not_neg,not_int,not_lpsm,618000.0,home,1U,12360.0,CRIF,546,CIB,35-44,51.99044586,central,direct,0,35.0
+25069,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,486500,4.5,0.0995,10512.5,240,not_neg,int_only,not_lpsm,288000.0,home,3U,9960.0,EQUI,620,CIB,45-54,87.84013605,North,direct,0,
+25737,2019,cf,Male,,p3,l1,nopc,nob/c,876500,4.0,1.8641,84.0,144,not_neg,not_int,not_lpsm,838000.0,home,1U,15540.0,EQUI,616,EXP,65-74,95.28443114,south,direct,0,58.0
+25217,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,536500,3.65,0.5145,5358.88,360,not_neg,not_int,not_lpsm,708000.0,home,1U,21000.0,EXP,873,EXP,35-44,66.40811456,central,direct,0,51.0
+25071,2019,cf,Male,nopre,p3,l1,nopc,nob/c,406500,3.625,0.7609,4150.0,276,not_neg,not_int,lpsm,458000.0,home,1U,5880.0,CIB,794,EXP,45-54,9.124472574,south,direct,0,56.0
+25148,2019,cf,Joint,nopre,p3,l1,nopc,b/c,586500,4.375,0.1085,2522.5,324,not_neg,not_int,not_lpsm,778000.0,home,1U,12060.0,CRIF,505,CIB,55-64,73.2300885,North-East,direct,1,57.0
+25047,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,906500,3.875,0.2961,6536.25,336,neg_amm,int_only,not_lpsm,608000.0,home,1U,6720.0,CRIF,894,CIB,55-64,69.83532934,south,direct,1,9.0
+25078,2019,cf,Female,nopre,p4,l2,nopc,nob/c,246500,5.125,-0.2979,5975.0,360,neg_amm,not_int,not_lpsm,348000.0,home,3U,11820.0,EQUI,715,CIB,35-44,85.95890411,central,direct,1,20.0
+25629,2019,cf,Joint,pre,p4,l1,nopc,nob/c,296500,3.125,0.5677,995.67,360,not_neg,not_int,not_lpsm,418000.0,home,1U,21000.0,CIB,599,EXP,55-64,93.53932584,North-East,direct,1,11.0
+25889,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,76500,4.99,-0.3049,3747.8,360,not_neg,not_int,lpsm,158000.0,home,1U,6240.0,CRIF,814,EXP,<25,78.6939314,North,direct,0,40.0
+24963,2019,,Joint,nopre,p1,l1,opc,nob/c,216500,5.25,0.2794,7628.9,276,not_neg,not_int,not_lpsm,388000.0,home,4U,11460.0,CRIF,678,EXP,35-44,102.1907216,south,direct,0,35.0
+25194,2019,ncf,Female,,p4,l1,nopc,nob/c,576500,,0.5102,485.55,108,not_neg,int_only,not_lpsm,358000.0,home,2U,0.0,CRIF,750,CIB,>74,52.46062992,North,direct,1,47.0
+25802,2019,cf,Joint,,p4,l2,opc,nob/c,626500,3.7,0.2531,84.0,336,not_neg,not_int,not_lpsm,658000.0,home,3U,4380.0,CIB,862,CIB,35-44,80.09259259,North-East,direct,0,13.0
+25082,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,286500,5.25,0.4387,3000.0,240,not_neg,not_int,not_lpsm,708000.0,home,1U,5280.0,CIB,721,CIB,55-64,74.32634731,south,direct,0,34.0
+25174,2019,cf,Joint,,p3,l1,nopc,b/c,136500,2.99,0.8896,4222.65,240,not_neg,not_int,lpsm,918000.0,home,1U,11520.0,CRIF,822,CIB,35-44,86.13945578,North,direct,1,19.0
+25131,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,776500,4.5,0.1484,2572.4,240,not_neg,int_only,not_lpsm,1298000.0,home,2U,12300.0,CRIF,804,EXP,>74,77.17391304,south,direct,0,30.0
+25502,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,616500,3.5,0.5587,1778.62,96,not_neg,not_int,not_lpsm,1508000.0,home,1U,7620.0,CRIF,745,EXP,45-54,81.47482014,south,direct,0,52.0
+25744,2019,cf,Male,nopre,p1,l1,nopc,nob/c,246500,3.25,0.8453,941.4,228,not_neg,not_int,not_lpsm,298000.0,home,1U,6180.0,CIB,666,CIB,35-44,94.85645933,south,direct,1,34.0
+25517,2019,cf,Sex Not Available,,p4,l1,nopc,nob/c,656500,5.125,0.3725,5033.28,360,not_neg,not_int,not_lpsm,228000.0,home,2U,11640.0,CIB,598,EXP,55-64,89.22594142,south,direct,0,9.0
+25836,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,166500,,0.6552,936.0,108,not_neg,not_int,lpsm,988000.0,home,1U,2580.0,EQUI,519,CIB,45-54,79.23387097,south,direct,0,52.0
+25483,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,586500,4.99,-0.1108,215.0,240,not_neg,not_int,not_lpsm,788000.0,home,1U,1320.0,CRIF,662,CIB,45-54,82.20524017,south,direct,0,23.0
+25080,2019,,Female,,p3,l2,nopc,nob/c,466500,4.75,0.9786,6022.5,108,not_neg,int_only,not_lpsm,1128000.0,home,1U,4260.0,EQUI,749,EXP,35-44,53.20512821,North,direct,0,44.0
+25248,2019,cf,Female,nopre,p1,l1,nopc,nob/c,616500,3.65,0.1681,5882.75,228,not_neg,not_int,not_lpsm,658000.0,home,1U,15240.0,CIB,863,EXP,65-74,86.37566138,North,direct,0,25.0
+25888,2019,cf,Joint,,p4,l1,nopc,nob/c,606500,3.625,0.7141,7095.46,96,not_neg,int_only,not_lpsm,388000.0,home,2U,5160.0,EXP,898,EXP,35-44,80.01519757,North,direct,0,60.0
+25843,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,176500,3.775,-0.2497,6095.0,360,not_neg,not_int,not_lpsm,308000.0,home,1U,3780.0,CIB,714,EXP,55-64,36.81133056,south,direct,1,
+25535,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,526500,3.25,0.8896,2231.25,156,not_neg,not_int,not_lpsm,418000.0,home,2U,3420.0,CIB,793,EXP,65-74,72.28682171,North,direct,0,40.0
+25013,2019,cf,Female,,p4,l1,nopc,nob/c,86500,,0.6574,209.0,180,not_neg,int_only,not_lpsm,318000.0,home,3U,8580.0,EXP,584,EXP,35-44,74.74937343,south,direct,0,5.0
+24982,2019,,Joint,nopre,p3,l1,nopc,nob/c,486500,3.875,0.1484,13507.2,180,not_neg,not_int,not_lpsm,448000.0,home,1U,23760.0,CIB,601,CIB,<25,74.70501475,North,direct,0,47.0
+25847,2019,cf,Joint,pre,p2,l1,opc,nob/c,66500,3.0,1.5589,941.4,108,neg_amm,not_int,not_lpsm,1108000.0,home,1U,13800.0,CRIF,737,CIB,55-64,48.85321101,North,direct,0,22.0
+25328,2019,,Sex Not Available,nopre,p3,l2,nopc,nob/c,826500,3.69,0.2927,2590.0,228,neg_amm,not_int,not_lpsm,218000.0,home,4U,6780.0,CRIF,715,CIB,65-74,80.03875969,south,direct,1,20.0
+25863,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,176500,3.5,0.2555,1900.0,324,not_neg,not_int,not_lpsm,308000.0,home,1U,8280.0,EXP,629,CIB,55-64,73.70689655,south,direct,0,42.0
+24986,2019,cf,Male,pre,p4,l1,nopc,nob/c,556500,4.0,0.0903,4943.75,288,not_neg,not_int,not_lpsm,338000.0,home,1U,11640.0,EXP,797,EXP,45-54,78.43915344,central,direct,0,35.0
+25361,2019,cf,Sex Not Available,nopre,p3,l1,nopc,b/c,536500,3.125,1.3206,4222.65,240,not_neg,not_int,not_lpsm,118000.0,home,1U,6840.0,CRIF,844,EXP,>74,81.9579288,North,direct,1,39.0
+25649,2019,cf,Joint,pre,p3,l1,opc,nob/c,496500,3.75,-0.3049,11957.75,192,neg_amm,not_int,not_lpsm,1228000.0,home,4U,7800.0,CRIF,565,EXP,55-64,80.57065217,North-East,direct,0,29.0
+25366,2019,cf,Sex Not Available,,p2,l1,nopc,b/c,216500,4.0,0.5859,1109.31,96,not_neg,not_int,not_lpsm,678000.0,home,1U,4800.0,EXP,639,CIB,25-34,49.55197133,North,direct,1,
+25684,2019,ncf,Female,nopre,p3,l1,nopc,nob/c,376500,,1.111,460.04,360,not_neg,not_int,not_lpsm,178000.0,home,3U,9960.0,EXP,730,CIB,35-44,98.828125,south,direct,0,36.0
+24987,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,286500,4.75,0.7995,11957.75,156,not_neg,not_int,lpsm,358000.0,home,1U,12960.0,EQUI,868,EXP,25-34,74.17883212,North,direct,1,29.0
+25904,2019,ncf,Joint,,p4,l1,opc,nob/c,586500,3.125,0.5022,4979.25,96,not_neg,not_int,not_lpsm,178000.0,home,1U,5340.0,EXP,817,CIB,,78.71621622,North,direct,1,44.0
+25498,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,296500,5.125,0.1583,6052.0,348,neg_amm,not_int,not_lpsm,538000.0,home,1U,5580.0,CRIF,760,CIB,,55.25700935,south,direct,0,57.0
+25469,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,76500,5.25,0.0562,5245.09,360,not_neg,not_int,not_lpsm,1308000.0,home,1U,10920.0,EXP,590,EXP,45-54,23.77232143,south,direct,0,51.0
+25676,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,96500,3.25,0.3584,9377.5,240,not_neg,int_only,not_lpsm,148000.0,home,4U,24060.0,EXP,782,EXP,65-74,87.13389121,south,direct,0,24.0
+25142,2019,cf,Female,nopre,p3,l1,nopc,nob/c,626500,4.125,0.2338,590.73,180,not_neg,not_int,not_lpsm,368000.0,home,1U,6420.0,CIB,804,CIB,25-34,95.36290323,North-East,direct,0,21.0
+25876,2019,,Joint,nopre,p4,l1,nopc,nob/c,146500,3.49,0.5636,1635.0,180,neg_amm,not_int,not_lpsm,258000.0,home,3U,6960.0,CRIF,653,CIB,25-34,59.67048711,south,direct,1,55.0
+25612,2019,cf,Joint,pre,p3,l1,nopc,nob/c,706500,3.75,0.322,215.0,120,not_neg,not_int,not_lpsm,98000.0,home,2U,10380.0,CIB,524,CIB,65-74,67.578125,south,direct,0,19.0
+25400,2019,cf,Female,,p1,l1,nopc,nob/c,536500,3.25,-0.2048,3620.0,180,not_neg,not_int,not_lpsm,398000.0,home,1U,7980.0,CIB,636,EXP,45-54,90.07177033,North,direct,0,
+25806,2019,cf,Joint,,p4,l1,nopc,nob/c,196500,3.65,0.0988,7146.0,360,not_neg,not_int,not_lpsm,408000.0,home,1U,5460.0,CIB,728,EXP,65-74,87.89370079,central,direct,0,18.0
+25853,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,46500,3.99,0.1387,6314.88,288,not_neg,not_int,not_lpsm,798000.0,home,1U,16680.0,CIB,594,CIB,45-54,74.23469388,south,direct,0,28.0
+25216,2019,cf,Female,,p4,l1,nopc,nob/c,406500,3.625,1.4675,3024.13,192,not_neg,not_int,lpsm,528000.0,home,4U,2280.0,CRIF,867,CIB,35-44,23.77232143,North,direct,0,44.0
+25733,2019,ncf,Female,pre,p3,l1,nopc,b/c,416500,4.875,-0.2,3792.82,180,not_neg,not_int,not_lpsm,298000.0,home,1U,6120.0,EXP,647,EXP,65-74,81.77966102,south,direct,0,43.0
+25129,2019,cf,Male,nopre,p3,l1,opc,nob/c,706500,3.99,-0.3777,12371.68,324,not_neg,not_int,not_lpsm,228000.0,home,1U,10080.0,CRIF,797,CIB,35-44,82.20524017,central,direct,0,61.0
+25432,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,396500,4.25,0.3836,358.78,228,not_neg,not_int,not_lpsm,808000.0,home,1U,1380.0,EQUI,508,CIB,45-54,92.94217687,North,direct,0,41.0
+25443,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,376500,3.875,1.711,7035.03,360,not_neg,int_only,not_lpsm,338000.0,home,4U,10980.0,EXP,727,CIB,>74,61.28762542,central,direct,1,13.0
+25721,2019,cf,Joint,nopre,p3,l1,nopc,b/c,286500,2.75,1.1129,5818.5,240,not_neg,not_int,not_lpsm,318000.0,home,1U,12600.0,EXP,684,CIB,<25,93.44512195,south,direct,0,27.0
+25608,2019,cf,Sex Not Available,pre,p3,l2,nopc,nob/c,156500,5.125,1.7709,9200.0,144,not_neg,int_only,not_lpsm,158000.0,home,1U,3240.0,CRIF,568,EXP,55-64,90.79341317,south,direct,0,60.0
+25190,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,326500,5.125,0.3313,2761.0,96,not_neg,not_int,not_lpsm,438000.0,home,1U,12420.0,CRIF,708,CIB,65-74,90.94827586,North-East,direct,0,49.0
+25708,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,136500,5.19,0.3915,6245.0,360,neg_amm,not_int,not_lpsm,258000.0,home,2U,12840.0,CIB,833,EXP,65-74,41.6460396,south,direct,0,6.0
+25316,2019,ncf,Joint,pre,p1,l1,nopc,nob/c,586500,4.5,-0.448,5301.38,120,not_neg,int_only,not_lpsm,648000.0,home,1U,10200.0,CRIF,570,CIB,>74,63.70320856,central,direct,0,60.0
+25540,2019,cf,Female,nopre,p1,l1,opc,nob/c,866500,,0.6871,2752.55,300,not_neg,int_only,not_lpsm,1168000.0,home,1U,10920.0,CIB,848,EXP,35-44,63.13694268,North-East,direct,0,40.0
+25582,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,406500,3.125,0.4597,3817.34,336,not_neg,not_int,not_lpsm,608000.0,home,1U,15240.0,EQUI,768,EXP,25-34,33.58585859,central,direct,0,31.0
+25013,2019,cf,Male,nopre,p3,l1,nopc,nob/c,876500,4.56,0.9649,11037.5,360,not_neg,not_int,not_lpsm,938000.0,home,1U,11340.0,CIB,720,CIB,65-74,64.73799127,North,direct,0,49.0
+25763,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,196500,4.75,-0.7794,12283.66,240,not_neg,not_int,not_lpsm,378000.0,home,2U,14160.0,CIB,551,CIB,35-44,80.03875969,south,direct,0,50.0
+25133,2019,,Joint,nopre,p4,l1,nopc,nob/c,276500,4.375,0.3725,2761.0,360,not_neg,not_int,lpsm,978000.0,home,3U,5520.0,EXP,588,EXP,35-44,76.1627907,North,direct,0,34.0
+25455,2019,cf,Joint,nopre,p1,l2,opc,nob/c,536500,3.625,0.6514,6252.81,120,not_neg,int_only,not_lpsm,628000.0,home,1U,49920.0,CRIF,668,CIB,45-54,41.7953668,North-East,direct,1,13.0
+25024,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,166500,3.25,0.6498,1308.29,324,not_neg,not_int,not_lpsm,258000.0,home,1U,16080.0,CRIF,864,EXP,>74,76.00671141,North-East,direct,0,19.0
+25076,2019,ncf,Sex Not Available,nopre,p2,l1,nopc,nob/c,266500,5.0,0.3793,6931.25,180,not_neg,not_int,not_lpsm,208000.0,home,3U,15240.0,EXP,536,EXP,65-74,56.29496403,North,direct,0,46.0
+25491,2019,cf,Male,nopre,p1,l1,nopc,nob/c,476500,5.125,0.012,5811.67,180,not_neg,not_int,not_lpsm,888000.0,home,4U,6720.0,CRIF,611,CIB,45-54,69.26523297,south,direct,0,39.0
+25355,2019,cf,Joint,nopre,p3,l1,nopc,b/c,76500,3.99,-0.1482,2838.9,108,not_neg,not_int,not_lpsm,768000.0,home,1U,10260.0,EXP,861,CIB,55-64,40.21883289,North-East,direct,0,55.0
+25106,2019,cf,Female,nopre,p4,l1,nopc,nob/c,486500,3.0,1.0893,13507.2,144,not_neg,not_int,not_lpsm,588000.0,home,1U,11520.0,EXP,875,EXP,,97.54273504,North,direct,0,31.0
+25608,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,66500,5.625,1.1792,3375.48,120,not_neg,not_int,not_lpsm,358000.0,home,1U,6120.0,EXP,641,CIB,,70.93301435,south,direct,0,57.0
+25863,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,866500,5.625,-0.168,12246.98,228,not_neg,not_int,not_lpsm,378000.0,home,1U,12960.0,CIB,888,CIB,55-64,60.65891473,North,direct,0,35.0
+25487,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,336500,3.99,0.3064,169.5,108,neg_amm,not_int,not_lpsm,608000.0,home,2U,13080.0,CRIF,733,CIB,25-34,83.67579909,North,direct,1,25.0
+25041,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,636500,3.625,0.042,5835.0,120,not_neg,int_only,not_lpsm,,home,4U,4140.0,CRIF,860,EXP,35-44,48.54312354,south,direct,0,20.0
+25880,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,196500,3.75,0.082,5675.0,156,not_neg,not_int,not_lpsm,128000.0,home,1U,5400.0,CRIF,626,CIB,,58.83152174,North-East,direct,0,30.0
+25386,2019,cf,Male,nopre,p1,l2,nopc,b/c,156500,4.125,0.6818,2291.25,336,not_neg,not_int,not_lpsm,178000.0,home,4U,10260.0,CRIF,833,CIB,25-34,41.03860294,North-East,direct,0,20.0
+25454,2019,cf,Male,nopre,p1,l1,nopc,nob/c,246500,5.19,0.0885,6935.77,300,not_neg,not_int,lpsm,1538000.0,home,1U,8340.0,CRIF,768,EXP,65-74,89.71571906,North,direct,0,40.0
+25158,2019,cf,Male,nopre,p3,l1,opc,nob/c,226500,3.49,0.756,4543.05,360,neg_amm,not_int,not_lpsm,868000.0,home,1U,5100.0,CIB,709,CIB,55-64,82.71812081,south,direct,0,32.0
+24982,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,496500,3.75,0.7581,1410.34,348,not_neg,not_int,not_lpsm,708000.0,home,1U,6060.0,CRIF,604,EXP,45-54,39.22413793,south,direct,0,21.0
+25395,2019,cf,Joint,pre,p3,l1,nopc,nob/c,266500,3.99,0.445,3731.69,360,not_neg,int_only,not_lpsm,228000.0,home,1U,5760.0,CRIF,717,EXP,25-34,85.47297297,south,direct,1,41.0
+25414,2019,cf,Male,pre,p3,l1,nopc,nob/c,326500,3.875,-0.8623,6252.81,360,not_neg,not_int,not_lpsm,658000.0,home,4U,4620.0,CIB,742,CIB,,89.02116402,south,direct,0,34.0
+25655,2019,cf,Female,,p4,l1,nopc,nob/c,676500,4.125,-0.2,906.97,336,not_neg,not_int,not_lpsm,598000.0,home,3U,14580.0,EXP,871,CIB,45-54,48.06701031,North-East,direct,0,45.0
+25881,2019,,Male,nopre,p3,l2,nopc,nob/c,176500,4.25,0.5083,2617.25,312,not_neg,not_int,not_lpsm,1538000.0,home,4U,14580.0,CIB,586,EXP,55-64,23.77232143,central,direct,0,13.0
+25553,2019,cf,Male,nopre,p4,l1,nopc,nob/c,1226500,3.69,1.0186,13964.19,192,not_neg,int_only,not_lpsm,268000.0,home,4U,6600.0,CIB,588,CIB,45-54,92.14015152,south,direct,0,12.0
+24976,2019,ncf,Male,nopre,p3,l1,nopc,nob/c,196500,3.125,0.4178,2428.15,96,not_neg,not_int,lpsm,3848000.0,home,4U,8340.0,EXP,759,CIB,65-74,83.26612903,south,direct,1,47.0
+24917,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,556500,3.56,-0.0601,1027.03,324,not_neg,not_int,not_lpsm,1508000.0,home,1U,5520.0,CRIF,797,CIB,65-74,64.05325444,south,direct,0,37.0
+25063,2019,cf,Female,nopre,p4,l1,nopc,nob/c,376500,5.5,1.1501,1644.21,180,not_neg,not_int,not_lpsm,,home,1U,13620.0,CIB,638,EXP,65-74,73.2300885,North-East,direct,0,35.0
+25366,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,426500,3.49,0.3766,906.97,348,not_neg,not_int,not_lpsm,398000.0,home,1U,27000.0,CRIF,557,EXP,55-64,71.95945946,North,direct,0,19.0
+25734,2019,cf,Joint,nopre,p1,l2,opc,nob/c,226500,3.5,0.5677,3561.22,240,not_neg,not_int,lpsm,538000.0,home,1U,7200.0,EXP,743,EXP,45-54,47.12171053,central,direct,0,15.0
+25829,2019,cf,Male,nopre,p4,l1,nopc,nob/c,456500,4.25,0.1084,2843.93,180,not_neg,not_int,not_lpsm,198000.0,home,1U,1620.0,CRIF,662,EXP,>74,81.9579288,south,direct,1,42.0
+25653,2019,,Female,nopre,p1,l1,nopc,b/c,416500,4.75,1.2132,6095.0,156,not_neg,not_int,not_lpsm,628000.0,home,2U,10200.0,EXP,801,CIB,35-44,96.7325228,North,direct,0,31.0
+25453,2019,cf,Male,nopre,p4,l2,opc,nob/c,126500,4.18,-0.689,4325.85,360,neg_amm,not_int,lpsm,698000.0,home,1U,9360.0,EXP,749,EXP,25-34,95.70895522,North-East,direct,0,35.0
+25294,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,216500,3.65,0.3239,5975.0,360,neg_amm,not_int,not_lpsm,78000.0,home,2U,3060.0,CIB,834,EXP,55-64,22.49034749,south,direct,1,8.0
+25674,2019,cf,Joint,pre,p4,l1,opc,nob/c,616500,4.625,0.925,3931.25,120,not_neg,int_only,not_lpsm,628000.0,home,1U,5520.0,CRIF,636,EXP,35-44,92.14015152,North,direct,0,31.0
+25637,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,386500,3.625,-0.2387,995.67,324,not_neg,not_int,not_lpsm,538000.0,home,4U,6720.0,CRIF,657,EXP,65-74,87.72189349,central,direct,0,33.0
+25694,2019,cf,Female,,p4,l1,nopc,nob/c,236500,4.125,1.3652,3612.0,228,not_neg,not_int,not_lpsm,558000.0,home,1U,6000.0,EQUI,868,CIB,35-44,48.76644737,North,direct,0,23.0
+25100,2019,cf,Joint,,p4,l2,nopc,nob/c,186500,3.69,-0.0225,6064.0,156,not_neg,not_int,not_lpsm,488000.0,home,4U,5220.0,EQUI,638,EXP,65-74,52.43732591,North,direct,1,53.0
+25550,2019,ncf,Sex Not Available,,p4,l1,nopc,nob/c,346500,4.375,0.232,2222.02,156,neg_amm,not_int,not_lpsm,798000.0,home,1U,1860.0,EQUI,815,CIB,25-34,52.69784173,North,direct,0,
+24951,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,486500,5.5,1.0805,6104.9,192,not_neg,not_int,not_lpsm,448000.0,home,3U,,EQUI,575,EXP,35-44,90.20700637,south,direct,0,5.0
+25044,2019,,Joint,pre,p3,l1,nopc,b/c,66500,5.25,-0.0582,3585.91,312,not_neg,not_int,not_lpsm,628000.0,home,1U,3840.0,CRIF,729,EXP,,63.53092784,south,direct,0,8.0
+25182,2019,cf,Male,nopre,p4,l1,opc,b/c,636500,3.69,0.5055,8714.2,156,not_neg,not_int,not_lpsm,258000.0,home,1U,2940.0,EQUI,533,CIB,25-34,85.92519685,south,direct,1,20.0
+24955,2019,cf,Male,,p3,l2,nopc,nob/c,236500,4.56,0.1484,5811.67,276,not_neg,not_int,not_lpsm,288000.0,home,2U,28440.0,CRIF,802,EXP,25-34,94.97663551,south,direct,0,61.0
+25880,2019,cf,Female,nopre,p3,l2,nopc,nob/c,86500,4.18,0.037,,312,not_neg,not_int,not_lpsm,448000.0,home,1U,4140.0,CRIF,797,CIB,25-34,75.93537415,North,direct,0,21.0
+25569,2019,cf,Joint,nopre,p3,l1,nopc,b/c,286500,4.125,0.5905,5637.5,144,not_neg,not_int,not_lpsm,1538000.0,home,1U,13620.0,EXP,537,CIB,>74,90.57017544,North,direct,0,6.0
+25660,2019,cf,Female,pre,p3,l1,opc,b/c,186500,5.125,-0.0124,4285.11,324,not_neg,not_int,not_lpsm,908000.0,home,2U,6900.0,CRIF,671,EXP,55-64,85.28708134,south,direct,0,
+25600,2019,cf,Male,pre,p4,l1,nopc,nob/c,506500,4.625,-0.0547,1061.59,360,not_neg,not_int,not_lpsm,218000.0,home,1U,22500.0,CRIF,541,CIB,45-54,59.22818792,North,direct,1,48.0
+25059,2019,cf,Female,nopre,p1,l1,nopc,b/c,676500,5.625,0.26,5072.5,156,neg_amm,not_int,not_lpsm,358000.0,home,1U,9120.0,CRIF,514,CIB,65-74,89.0625,North,direct,0,44.0
+25294,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,416500,4.25,-0.1642,7628.9,360,not_neg,not_int,not_lpsm,618000.0,home,3U,6360.0,CIB,590,EXP,35-44,106.2080537,central,direct,0,
+25422,2019,,Female,pre,p3,l1,opc,b/c,246500,4.99,1.987,3041.75,360,not_neg,not_int,lpsm,98000.0,home,1U,5880.0,CRIF,707,EXP,>74,65.93959732,south,direct,0,51.0
+25034,2019,,Male,nopre,p4,l1,nopc,b/c,426500,5.625,0.0945,7035.03,324,not_neg,not_int,not_lpsm,458000.0,home,4U,2820.0,EXP,720,CIB,65-74,70.7122093,south,direct,0,42.0
+25651,2019,cf,Male,nopre,p4,l1,nopc,nob/c,886500,4.625,0.6074,1481.59,324,not_neg,not_int,not_lpsm,388000.0,home,3U,4680.0,EXP,630,EXP,<25,79.56081081,North,direct,0,40.0
+25092,2019,cf,Male,nopre,p3,l1,nopc,b/c,416500,3.375,0.6514,5637.5,180,not_neg,not_int,not_lpsm,1128000.0,home,2U,10140.0,EQUI,651,EXP,65-74,86.78385417,North,direct,0,55.0
+25046,2019,cf,Male,nopre,p1,l1,nopc,nob/c,156500,4.5,0.2011,3952.93,360,not_neg,not_int,not_lpsm,818000.0,home,1U,15360.0,CIB,712,CIB,25-34,33.83905013,North,direct,0,42.0
+25274,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,796500,4.25,1.2598,4173.65,120,not_neg,not_int,not_lpsm,528000.0,home,1U,4920.0,CIB,611,EXP,35-44,89.66346154,south,direct,0,29.0
+25530,2019,ncf,Sex Not Available,nopre,p4,l1,opc,nob/c,446500,2.75,-0.113,8010.0,312,not_neg,not_int,lpsm,298000.0,home,2U,9360.0,EXP,847,EXP,35-44,68.29954955,south,direct,0,12.0
+25777,2019,,Male,nopre,p4,l2,nopc,nob/c,366500,3.49,0.5541,6252.81,144,not_neg,not_int,not_lpsm,388000.0,home,2U,14580.0,EXP,750,CIB,45-54,78.11653117,North,direct,0,22.0
+25369,2019,cf,Male,nopre,p1,l1,opc,nob/c,226500,4.56,0.3124,3036.69,240,not_neg,not_int,not_lpsm,368000.0,home,1U,1860.0,EQUI,735,CIB,55-64,67.04545455,south,direct,0,5.0
+25298,2019,cf,Male,nopre,p4,l1,opc,nob/c,606500,5.0,0.6732,5030.25,108,not_neg,not_int,lpsm,798000.0,home,2U,26100.0,EXP,536,CIB,25-34,79.76190476,North-East,direct,0,56.0
+25608,2019,,Male,nopre,p3,l1,nopc,nob/c,626500,4.49,0.3337,13016.46,180,not_neg,not_int,not_lpsm,548000.0,home,1U,2640.0,EQUI,674,CIB,,58.13609467,North-East,direct,1,36.0
+25222,2019,,Joint,nopre,p3,l1,nopc,nob/c,436500,3.125,1.014,7200.0,360,not_neg,not_int,not_lpsm,508000.0,home,1U,2640.0,CRIF,547,EXP,45-54,48.06701031,North,direct,1,56.0
+25677,2019,cf,Female,nopre,p4,l1,nopc,nob/c,426500,3.5,0.7174,2280.0,336,not_neg,not_int,not_lpsm,318000.0,home,1U,9960.0,CRIF,732,CIB,<25,90.13761468,south,direct,0,45.0
+25748,2019,cf,Joint,pre,p4,l1,nopc,nob/c,136500,3.99,0.6514,6695.0,288,not_neg,not_int,lpsm,848000.0,home,1U,8100.0,EXP,591,EXP,45-54,69.95798319,North-East,direct,0,60.0
+25038,2019,,Joint,nopre,p4,l1,nopc,b/c,536500,4.375,1.0226,14702.0,180,not_neg,not_int,not_lpsm,1758000.0,home,2U,9360.0,EXP,676,EXP,35-44,39.68160377,North,direct,1,25.0
+25486,2019,cf,Male,nopre,p3,l1,nopc,b/c,436500,,0.605,4790.0,360,not_neg,not_int,not_lpsm,468000.0,home,1U,12000.0,CRIF,502,CIB,35-44,102.9513889,south,direct,0,45.0
+25795,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,76500,3.99,0.6601,5806.43,360,neg_amm,not_int,not_lpsm,848000.0,home,1U,7680.0,EXP,784,EXP,45-54,96.1409396,central,direct,0,24.0
+25524,2019,cf,Female,nopre,p3,l1,nopc,b/c,516500,3.0,0.8943,3437.5,228,not_neg,not_int,not_lpsm,1048000.0,home,2U,3300.0,CIB,896,CIB,45-54,72.82934132,North,direct,0,13.0
+25638,2019,cf,Male,nopre,p3,l1,opc,nob/c,726500,3.75,0.1563,2750.0,360,not_neg,not_int,lpsm,668000.0,home,2U,15780.0,CRIF,733,EXP,35-44,54.17933131,south,direct,0,31.0
+24997,2019,cf,Female,pre,p3,l1,opc,nob/c,556500,3.49,1.4614,757.9,228,neg_amm,int_only,not_lpsm,718000.0,home,4U,11340.0,CRIF,506,CIB,45-54,73.93617021,North-East,direct,1,22.0
+25573,2019,cf,Female,nopre,p3,l1,nopc,b/c,166500,4.125,1.1269,3066.96,276,not_neg,not_int,not_lpsm,1138000.0,home,1U,13140.0,EXP,702,CIB,55-64,2.81374502,North,direct,0,25.0
+25538,2019,cf,Sex Not Available,pre,p4,l1,opc,nob/c,416500,2.75,0.6699,6052.0,240,not_neg,int_only,lpsm,808000.0,home,3U,18420.0,CRIF,509,EXP,<25,96.7325228,North,direct,0,13.0
+25683,2019,cf,Joint,nopre,p4,l2,nopc,b/c,816500,4.25,0.5193,3900.0,288,not_neg,not_int,lpsm,128000.0,home,1U,15240.0,CRIF,812,EXP,55-64,99.24242424,North,direct,0,11.0
+25362,2019,cf,Male,nopre,p4,l1,nopc,nob/c,276500,3.75,1.0246,797.77,228,not_neg,not_int,not_lpsm,808000.0,home,1U,30180.0,CRIF,741,CIB,25-34,85.47297297,North-East,direct,0,6.0
+25102,2019,,Female,,p3,l1,nopc,nob/c,296500,3.25,0.2928,5379.95,324,not_neg,not_int,not_lpsm,698000.0,home,1U,5700.0,CIB,721,EXP,<25,71.70138889,south,direct,0,56.0
+25837,2019,cf,Male,nopre,p3,l1,opc,nob/c,296500,5.625,1.111,12800.0,156,neg_amm,not_int,not_lpsm,378000.0,home,1U,28440.0,EXP,674,CIB,35-44,90.13761468,North,direct,0,42.0
+25659,2019,cf,Joint,pre,p3,l1,nopc,nob/c,246500,5.625,-0.0685,358.78,144,not_neg,not_int,not_lpsm,3848000.0,home,2U,11520.0,CRIF,561,CIB,,71.95945946,south,direct,0,33.0
+25135,2019,cf,Joint,nopre,p3,l1,opc,nob/c,566500,4.875,0.0677,5245.09,360,not_neg,not_int,not_lpsm,138000.0,home,1U,3660.0,CRIF,589,CIB,<25,75.08802817,central,direct,0,15.0
+25851,2019,cf,Female,nopre,p3,l1,nopc,nob/c,66500,3.0,-0.3049,5882.75,192,not_neg,int_only,not_lpsm,898000.0,home,1U,4620.0,CRIF,709,CIB,65-74,81.98818898,south,direct,0,21.0
+25078,2019,cf,Sex Not Available,nopre,p1,l1,nopc,b/c,986500,3.375,-0.058,1150.0,192,neg_amm,not_int,not_lpsm,468000.0,home,4U,12300.0,CIB,871,CIB,55-64,60.65891473,North,direct,0,17.0
+25265,2019,cf,Male,nopre,p1,l1,nopc,b/c,286500,4.5,-0.0191,3910.0,228,not_neg,not_int,not_lpsm,388000.0,home,3U,14160.0,EXP,550,EXP,65-74,50.30940594,south,direct,0,26.0
+25731,2019,ncf,Sex Not Available,pre,p2,l1,nopc,nob/c,166500,4.25,0.1151,3720.0,336,not_neg,not_int,lpsm,568000.0,home,4U,15780.0,EXP,506,EXP,25-34,65.39665971,North,direct,0,36.0
+25115,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,126500,5.5,0.2684,8100.29,108,not_neg,int_only,not_lpsm,488000.0,home,3U,3660.0,EQUI,660,EXP,45-54,89.71571906,central,direct,1,27.0
+25448,2019,,Sex Not Available,nopre,p4,l2,nopc,nob/c,146500,4.375,0.7771,5806.43,156,not_neg,not_int,not_lpsm,988000.0,home,1U,1260.0,EQUI,709,EXP,<25,65.73129252,North,direct,0,23.0
+25775,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,46500,3.25,0.4192,12371.68,360,not_neg,not_int,not_lpsm,908000.0,home,1U,32400.0,CIB,818,CIB,>74,87.74154589,North,direct,0,24.0
+24992,2019,cf,Female,pre,p1,l1,opc,nob/c,66500,,1.3638,5033.28,228,not_neg,int_only,not_lpsm,928000.0,home,1U,5820.0,EXP,527,EXP,25-34,90.39634146,North,direct,0,59.0
+25026,2019,cf,Joint,nopre,p3,l1,nopc,b/c,606500,4.49,-0.297,3905.9,312,not_neg,int_only,not_lpsm,558000.0,home,1U,14220.0,CRIF,645,EXP,55-64,75.48543689,south,direct,1,20.0
+25024,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,26500,2.99,0.347,3218.75,276,neg_amm,not_int,not_lpsm,228000.0,home,2U,2760.0,CRIF,702,EXP,35-44,71.2628866,North,direct,0,40.0
+25515,2019,ncf,Sex Not Available,,p3,l1,nopc,nob/c,296500,,1.2132,5344.0,360,not_neg,not_int,not_lpsm,1228000.0,home,2U,11100.0,CIB,524,EXP,65-74,41.1437247,North,direct,0,20.0
+25872,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,526500,3.875,0.3345,370.63,348,not_neg,not_int,not_lpsm,608000.0,home,2U,10140.0,CRIF,624,CIB,55-64,49.0942029,North,direct,0,44.0
+25196,2019,,Female,nopre,p3,l1,nopc,nob/c,586500,5.125,0.7609,2752.55,288,not_neg,not_int,not_lpsm,408000.0,home,4U,32400.0,CIB,831,EXP,55-64,88.75545852,south,direct,0,17.0
+25185,2019,cf,Sex Not Available,pre,p1,l1,opc,nob/c,526500,3.75,1.5589,13611.13,300,not_neg,not_int,not_lpsm,588000.0,home,1U,5580.0,CIB,582,EXP,,41.58653846,south,direct,0,27.0
+25531,2019,cf,Female,nopre,p2,l1,opc,nob/c,536500,,0.5851,1109.31,324,not_neg,not_int,lpsm,748000.0,home,1U,9180.0,EXP,794,EXP,45-54,94.05444126,North,direct,0,17.0
+25424,2019,cf,Male,pre,p1,l1,nopc,b/c,866500,3.775,1.3652,757.9,312,not_neg,not_int,not_lpsm,688000.0,home,2U,7080.0,CRIF,508,CIB,35-44,55.53613054,south,direct,0,46.0
+25509,2019,cf,Female,nopre,p4,l1,opc,b/c,236500,,-0.053,4852.75,324,not_neg,not_int,lpsm,958000.0,home,2U,13080.0,CIB,794,EXP,,46.80656934,North,direct,0,51.0
+25108,2019,ncf,Sex Not Available,,p3,l1,nopc,nob/c,646500,5.75,-0.143,590.73,360,not_neg,not_int,not_lpsm,398000.0,home,1U,1320.0,EQUI,714,EXP,55-64,96.7325228,south,direct,0,32.0
+25498,2019,cf,Male,,p1,l1,nopc,nob/c,196500,3.125,0.1197,6052.0,348,not_neg,not_int,not_lpsm,798000.0,home,1U,11400.0,CIB,832,CIB,35-44,92.26618705,south,direct,1,40.0
+24947,2019,ncf,Joint,nopre,p2,l1,nopc,nob/c,86500,3.875,-0.8623,2882.81,336,not_neg,not_int,not_lpsm,608000.0,home,4U,2880.0,EQUI,727,EXP,55-64,56.72043011,North,direct,0,40.0
+25881,2019,,Male,nopre,p4,l1,nopc,nob/c,336500,4.99,0.4413,3686.8,360,not_neg,not_int,not_lpsm,608000.0,home,1U,16380.0,EXP,620,EXP,55-64,87.72189349,North,direct,0,58.0
+25530,2019,cf,Joint,pre,p4,l1,nopc,b/c,636500,2.75,0.3218,5955.0,360,not_neg,not_int,not_lpsm,868000.0,home,1U,1440.0,CRIF,793,CIB,55-64,97.37442922,North,direct,0,47.0
+25190,2019,cf,Male,nopre,p3,l1,nopc,nob/c,466500,3.75,0.144,2915.0,300,not_neg,not_int,not_lpsm,948000.0,home,1U,9180.0,CRIF,866,CIB,35-44,60.69682152,North,direct,0,14.0
+25208,2019,ncf,Female,,p4,l1,nopc,nob/c,436500,3.5,0.5541,209.0,360,not_neg,not_int,not_lpsm,768000.0,home,1U,32400.0,CRIF,549,EXP,55-64,85.07194245,North,direct,0,22.0
+25077,2019,cf,Male,nopre,p1,l1,nopc,b/c,706500,4.56,0.7443,526.68,120,not_neg,not_int,lpsm,958000.0,home,1U,2220.0,EXP,592,EXP,45-54,82.56302521,south,direct,0,22.0
+25022,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,206500,5.125,-0.0267,3075.0,300,not_neg,not_int,not_lpsm,88000.0,home,1U,3000.0,EQUI,782,CIB,>74,99.74489796,North,direct,0,45.0
+25670,2019,ncf,Female,pre,p3,l1,nopc,nob/c,616500,4.25,-0.0027,6875.07,144,not_neg,not_int,not_lpsm,208000.0,home,1U,5880.0,CRIF,866,CIB,35-44,92.53472222,North,direct,0,20.0
+25357,2019,cf,Female,nopre,p3,l1,nopc,b/c,406500,3.69,0.5055,3465.0,120,not_neg,not_int,not_lpsm,878000.0,home,1U,4620.0,CRIF,634,EXP,35-44,80.56318681,central,direct,0,24.0
+24976,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,76500,4.125,0.0715,3890.58,312,not_neg,not_int,not_lpsm,688000.0,home,1U,3840.0,CIB,678,CIB,45-54,58.63486842,North,direct,0,59.0
+25284,2019,cf,Female,pre,p3,l1,nopc,nob/c,256500,2.99,-0.2774,762.4,180,not_neg,not_int,not_lpsm,408000.0,home,1U,71220.0,EXP,502,CIB,45-54,86.52597403,North,direct,0,48.0
+24963,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,676500,4.5,1.2351,4229.08,240,not_neg,int_only,not_lpsm,438000.0,home,1U,19620.0,EXP,807,EXP,35-44,99.51298701,North,direct,1,42.0
+25137,2019,cf,Joint,nopre,p1,l2,nopc,nob/c,116500,3.99,0.0938,660.62,324,not_neg,not_int,lpsm,68000.0,home,1U,2340.0,EQUI,571,EXP,55-64,72.24919094,North,direct,0,53.0
+24920,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,1506500,3.5,0.5462,13611.13,240,not_neg,not_int,not_lpsm,1268000.0,home,1U,11880.0,CRIF,672,EXP,,84.42028986,North,direct,0,61.0
+25620,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,906500,4.75,0.9155,3985.81,120,not_neg,not_int,not_lpsm,298000.0,home,1U,7080.0,CIB,685,EXP,35-44,79.12979351,North,direct,1,28.0
+25102,2019,cf,Joint,pre,p2,l1,opc,nob/c,536500,4.25,0.9364,1929.74,276,not_neg,not_int,not_lpsm,2008000.0,home,1U,27000.0,CIB,657,EXP,>74,86.13945578,North,direct,0,45.0
+24962,2019,cf,Male,nopre,p2,l1,nopc,b/c,276500,3.375,0.5677,1911.16,240,not_neg,not_int,not_lpsm,458000.0,home,1U,2880.0,EXP,862,EXP,45-54,72.0734127,North,direct,0,53.0
+25127,2019,cf,Male,nopre,p4,l1,nopc,nob/c,576500,3.99,0.5893,146.41,96,not_neg,not_int,not_lpsm,738000.0,home,1U,4380.0,CRIF,597,CIB,45-54,45.40190736,south,direct,0,33.0
+25512,2019,cf,Male,pre,p3,l1,nopc,nob/c,166500,,-0.2774,8500.0,360,neg_amm,int_only,not_lpsm,648000.0,home,4U,3840.0,CRIF,641,EXP,45-54,78.62149533,south,direct,0,61.0
+25224,2019,cf,Female,nopre,p2,l1,nopc,nob/c,606500,5.19,-0.1555,762.4,276,not_neg,int_only,not_lpsm,278000.0,home,1U,10200.0,EXP,900,EXP,25-34,23.77232143,south,direct,1,26.0
+25474,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,556500,3.875,0.9229,6437.5,360,not_neg,not_int,not_lpsm,258000.0,home,3U,21000.0,EXP,724,EXP,35-44,59.95575221,south,direct,0,53.0
+25348,2019,cf,Sex Not Available,,p1,l1,nopc,nob/c,246500,4.625,0.5887,9618.75,360,not_neg,not_int,not_lpsm,158000.0,home,1U,12960.0,EXP,651,EXP,<25,55.51470588,central,direct,0,34.0
+25829,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,106500,3.75,0.7168,3720.0,300,neg_amm,not_int,not_lpsm,898000.0,home,2U,5580.0,CRIF,575,CIB,55-64,96.49390244,North-East,direct,0,31.0
+25302,2019,ncf,Male,nopre,p1,l1,nopc,nob/c,256500,4.375,1.4909,1552.63,312,neg_amm,not_int,not_lpsm,448000.0,home,1U,7500.0,CRIF,882,CIB,65-74,90.39634146,south,direct,0,36.0
+25029,2019,cf,Female,nopre,p4,l1,nopc,nob/c,406500,3.49,0.4484,11037.5,96,not_neg,not_int,not_lpsm,298000.0,home,1U,16200.0,EXP,702,CIB,<25,59.765625,North-East,direct,0,21.0
+25827,2019,cf,Joint,pre,p1,l1,nopc,nob/c,436500,4.99,-0.3485,8572.68,300,not_neg,int_only,not_lpsm,108000.0,home,1U,10080.0,CIB,877,EXP,45-54,92.7852349,North-East,direct,0,55.0
+25380,2019,cf,Female,nopre,p3,l1,opc,nob/c,606500,4.375,0.5365,5937.5,300,not_neg,not_int,not_lpsm,948000.0,home,1U,15360.0,EXP,814,CIB,55-64,96.49390244,south,direct,0,54.0
+25704,2019,ncf,Male,nopre,p3,l1,nopc,nob/c,226500,3.0,0.3808,3731.69,288,neg_amm,not_int,not_lpsm,728000.0,home,1U,1740.0,CIB,783,CIB,55-64,49.55197133,south,direct,0,41.0
+25875,2019,cf,Male,nopre,p3,l2,nopc,nob/c,506500,3.49,-0.5052,1385.04,360,not_neg,not_int,not_lpsm,318000.0,home,1U,11820.0,CRIF,850,EXP,,44.04761905,south,direct,1,43.0
+25261,2019,cf,Male,nopre,p1,l1,nopc,nob/c,126500,,0.2859,3.61,240,not_neg,not_int,not_lpsm,808000.0,home,1U,9720.0,CRIF,865,CIB,>74,46.06918239,North-East,direct,0,40.0
+25445,2019,,Sex Not Available,,p1,l1,nopc,nob/c,446500,4.75,0.0023,460.87,360,not_neg,int_only,not_lpsm,528000.0,home,1U,2880.0,EXP,545,EXP,45-54,95.54263566,central,direct,0,49.0
+25128,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,566500,3.99,0.1492,936.0,360,not_neg,not_int,not_lpsm,388000.0,home,2U,840.0,EXP,634,CIB,35-44,80.01519757,south,direct,0,20.0
+25278,2019,cf,Joint,,p3,l1,opc,b/c,216500,3.99,0.325,16593.75,300,not_neg,not_int,not_lpsm,728000.0,home,2U,11460.0,CRIF,769,EXP,45-54,51.3185654,North,direct,0,23.0
+25780,2019,cf,Male,nopre,p4,l1,nopc,b/c,316500,3.25,0.4562,3709.03,300,not_neg,not_int,lpsm,68000.0,home,1U,14760.0,EXP,526,CIB,55-64,69.29530201,south,direct,0,18.0
+24998,2019,cf,Sex Not Available,,p4,l2,nopc,nob/c,186500,5.375,0.9612,2476.72,180,not_neg,not_int,not_lpsm,678000.0,home,1U,4620.0,CIB,769,CIB,65-74,89.24802111,North-East,direct,0,16.0
+25523,2019,ncf,Sex Not Available,nopre,p2,l1,nopc,nob/c,716500,3.5,-0.297,1036.21,240,not_neg,not_int,lpsm,238000.0,home,1U,2760.0,CIB,856,CIB,35-44,90.57017544,North,direct,0,34.0
+25587,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,316500,3.375,0.6498,4728.5,276,not_neg,not_int,not_lpsm,738000.0,home,1U,10800.0,CRIF,537,EXP,45-54,71.32107023,south,direct,0,29.0
+25527,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,146500,4.99,0.3124,7118.48,120,not_neg,not_int,not_lpsm,878000.0,home,1U,15840.0,CRIF,557,EXP,65-74,85.92519685,North,direct,0,60.0
+25051,2019,,Female,nopre,p2,l1,nopc,nob/c,486500,2.75,0.8157,6869.63,108,not_neg,not_int,lpsm,318000.0,home,2U,13800.0,CRIF,800,EXP,65-74,44.04761905,North,direct,0,50.0
+25210,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,606500,3.65,-0.1498,3820.0,180,not_neg,not_int,lpsm,958000.0,home,1U,12540.0,EXP,584,CIB,35-44,48.85321101,south,direct,0,
+25364,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,406500,5.75,-0.0225,3777.88,108,neg_amm,not_int,not_lpsm,148000.0,home,1U,840.0,CIB,808,CIB,35-44,94.59798995,central,direct,0,15.0
+25076,2019,cf,Joint,,p4,l1,opc,nob/c,826500,5.125,0.2828,2839.0,156,not_neg,not_int,not_lpsm,578000.0,home,4U,3840.0,CIB,587,EXP,35-44,50.30940594,south,direct,1,32.0
+25065,2019,cf,Joint,nopre,p1,l1,nopc,b/c,306500,5.19,-0.1789,4412.33,96,not_neg,not_int,not_lpsm,808000.0,home,3U,39300.0,CRIF,756,EXP,55-64,78.71621622,North-East,direct,0,26.0
+24919,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,226500,4.99,-0.1973,5168.85,336,not_neg,not_int,not_lpsm,548000.0,home,1U,10020.0,CRIF,710,CIB,<25,42.66975309,central,direct,0,40.0
+25525,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,196500,3.0,0.2448,12246.98,240,not_neg,not_int,not_lpsm,338000.0,home,2U,12960.0,EQUI,678,EXP,35-44,97.79411765,south,direct,0,42.0
+25571,2019,,Joint,nopre,p2,l2,nopc,nob/c,126500,3.99,0.1492,4497.05,276,not_neg,not_int,not_lpsm,268000.0,home,2U,7140.0,CIB,579,EXP,35-44,52.42456897,south,direct,1,15.0
+25376,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,586500,3.75,0.1492,7347.81,360,not_neg,not_int,not_lpsm,1018000.0,home,2U,54300.0,CRIF,775,EXP,35-44,60.69682152,North-East,direct,0,49.0
+25902,2019,cf,Sex Not Available,nopre,p2,l2,nopc,nob/c,446500,3.99,1.0065,4241.88,348,not_neg,int_only,lpsm,678000.0,home,1U,7860.0,EXP,671,CIB,65-74,99.10714286,North,direct,0,52.0
+25251,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,666500,4.75,1.034,5831.95,360,not_neg,not_int,not_lpsm,168000.0,home,4U,10800.0,CIB,764,CIB,<25,87.13389121,North,direct,0,31.0
+25719,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,236500,3.0,0.4852,12500.0,276,not_neg,not_int,not_lpsm,1298000.0,home,1U,10260.0,CRIF,530,EXP,45-54,75.06868132,central,direct,1,32.0
+24929,2019,cf,Male,pre,p4,l1,nopc,nob/c,496500,3.7,0.5636,346.68,288,not_neg,not_int,not_lpsm,648000.0,home,1U,13500.0,EXP,570,CIB,65-74,78.76569038,North,direct,0,59.0
+25219,2019,ncf,Joint,nopre,p1,l1,nopc,b/c,186500,3.0,-0.0311,4325.85,300,not_neg,int_only,lpsm,568000.0,home,1U,3480.0,CRIF,556,EXP,25-34,22.49034749,North,direct,0,51.0
+25912,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,496500,4.0,0.0514,7005.0,312,not_neg,int_only,not_lpsm,838000.0,home,3U,5940.0,EQUI,619,EXP,65-74,32.04607046,North-East,direct,0,46.0
+25245,2019,cf,Male,,p3,l1,nopc,nob/c,696500,4.625,1.1129,1401.13,300,not_neg,int_only,not_lpsm,318000.0,home,1U,2640.0,EQUI,861,CIB,25-34,69.97716895,North,direct,0,31.0
+24916,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,166500,3.99,0.5512,32.1,240,not_neg,not_int,not_lpsm,238000.0,home,1U,16740.0,CIB,756,CIB,<25,64.75694444,North,direct,0,39.0
+25781,2019,cf,Joint,nopre,p4,l1,opc,nob/c,446500,4.625,0.5055,7265.8,324,not_neg,not_int,not_lpsm,2308000.0,home,1U,13860.0,EXP,593,CIB,65-74,56.00165563,south,direct,0,10.0
+25599,2019,,Joint,nopre,p4,l1,nopc,b/c,276500,5.125,0.4438,7928.75,276,not_neg,int_only,not_lpsm,358000.0,home,1U,11340.0,EQUI,888,CIB,35-44,80.70934256,North,direct,0,9.0
+25166,2019,cf,Male,nopre,p2,l1,nopc,nob/c,226500,3.775,0.1084,7118.48,156,not_neg,not_int,not_lpsm,588000.0,home,1U,6780.0,EXP,881,CIB,25-34,85.07194245,North-East,direct,0,36.0
+24919,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,226500,,-0.0958,3149.5,276,not_neg,not_int,not_lpsm,388000.0,home,1U,2820.0,EXP,831,EXP,35-44,85.95890411,North,direct,0,20.0
+25743,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,216500,3.7,-0.5844,6261.1,240,not_neg,not_int,not_lpsm,448000.0,home,1U,13500.0,CRIF,690,CIB,25-34,76.78571429,south,direct,0,37.0
+25641,2019,cf,Male,nopre,p3,l1,nopc,nob/c,206500,4.5,0.7517,5245.09,348,not_neg,not_int,lpsm,638000.0,home,1U,1560.0,CRIF,898,CIB,55-64,94.73039216,North,direct,0,41.0
+25040,2019,cf,Female,nopre,p3,l1,nopc,nob/c,586500,3.49,0.544,776.37,360,not_neg,not_int,lpsm,398000.0,home,1U,13380.0,EXP,877,EXP,>74,73.15989848,North-East,direct,1,50.0
+25274,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,306500,,0.3915,1225.0,360,not_neg,not_int,lpsm,678000.0,home,3U,8220.0,CIB,630,EXP,>74,74.23469388,North-East,direct,0,58.0
+25319,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,286500,3.5,1.0684,6536.25,288,not_neg,int_only,not_lpsm,748000.0,home,4U,3780.0,EXP,544,CIB,65-74,97.11055276,south,direct,0,57.0
+24973,2019,cf,Male,nopre,p3,l1,nopc,nob/c,86500,5.375,0.4818,90.03,276,not_neg,not_int,not_lpsm,,home,1U,10440.0,EXP,900,EXP,45-54,73.15989848,North,direct,0,21.0
+25577,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,556500,2.875,0.0258,3777.88,192,not_neg,not_int,not_lpsm,1948000.0,home,1U,24060.0,CRIF,785,CIB,>74,103.2945736,North,direct,0,45.0
+25331,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,b/c,476500,4.5,1.3009,2614.0,360,not_neg,not_int,not_lpsm,688000.0,home,4U,2640.0,CRIF,642,EXP,45-54,65.18138801,North,direct,0,26.0
+25235,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,386500,4.49,0.3188,1929.74,108,not_neg,not_int,not_lpsm,178000.0,home,1U,10800.0,EXP,742,CIB,25-34,58.36614173,south,direct,0,52.0
+25547,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,376500,4.75,-0.0155,6549.46,360,not_neg,not_int,not_lpsm,1168000.0,home,1U,14160.0,CRIF,544,EXP,35-44,99.64953271,North,direct,0,13.0
+24980,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,376500,5.625,-0.0503,6720.0,96,not_neg,not_int,not_lpsm,188000.0,home,4U,17640.0,EXP,662,EXP,25-34,78.22580645,North,direct,0,45.0
+25802,2019,cf,Male,,p1,l1,nopc,nob/c,236500,5.125,1.7709,2163.66,228,neg_amm,not_int,not_lpsm,438000.0,home,2U,3720.0,CRIF,574,EXP,35-44,67.69406393,south,direct,0,42.0
+25023,2019,cf,Female,nopre,p4,l1,nopc,nob/c,336500,3.5,-0.6287,6547.5,180,not_neg,int_only,not_lpsm,318000.0,home,1U,7500.0,EQUI,875,EXP,55-64,48.54312354,North,direct,0,18.0
+25034,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,216500,,0.1681,4241.88,348,not_neg,not_int,not_lpsm,1108000.0,home,1U,1860.0,CRIF,545,CIB,>74,32.67590618,North,direct,0,54.0
+24953,2019,cf,Joint,nopre,p2,l2,nopc,nob/c,536500,3.99,-0.0746,8059.0,360,not_neg,not_int,not_lpsm,568000.0,home,4U,11460.0,EXP,612,EXP,25-34,37.21294363,North-East,direct,0,35.0
+25129,2019,cf,Joint,nopre,p3,l2,nopc,nob/c,546500,4.125,0.4281,6245.0,144,not_neg,not_int,not_lpsm,178000.0,home,2U,11340.0,EXP,860,CIB,55-64,67.51893939,central,direct,0,41.0
+25195,2019,ncf,Female,nopre,p1,l1,nopc,nob/c,486500,5.19,-0.698,3334.84,324,not_neg,not_int,not_lpsm,2008000.0,home,2U,2640.0,EXP,676,CIB,35-44,83.26612903,North,direct,0,11.0
+25417,2019,ncf,Joint,nopre,p3,l2,nopc,nob/c,266500,5.19,-0.202,6370.0,228,not_neg,int_only,not_lpsm,158000.0,home,4U,17340.0,EXP,597,EXP,55-64,46.06918239,North,direct,0,59.0
+24937,2019,cf,Female,,p4,l2,nopc,nob/c,316500,4.125,1.1688,4115.0,276,not_neg,not_int,not_lpsm,738000.0,home,1U,14820.0,CRIF,588,EXP,35-44,49.71526196,central,direct,0,49.0
+25805,2019,cf,Joint,nopre,p1,l1,opc,nob/c,476500,3.875,0.3673,3931.25,156,not_neg,not_int,lpsm,768000.0,home,2U,10200.0,CIB,803,EXP,,70.83333333,North,direct,0,39.0
+25769,2019,cf,Female,pre,p3,l1,nopc,b/c,626500,4.625,1.2674,267.35,300,not_neg,not_int,not_lpsm,748000.0,home,3U,9300.0,CRIF,863,EXP,,62.68564356,south,direct,0,11.0
+25688,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,496500,4.75,1.4234,3334.84,360,neg_amm,int_only,not_lpsm,2308000.0,home,4U,6000.0,EXP,757,CIB,65-74,98.01038062,south,direct,1,42.0
+25835,2019,cf,Female,nopre,p3,l1,opc,nob/c,56500,3.99,-0.053,358.78,240,not_neg,not_int,not_lpsm,458000.0,home,1U,18240.0,CIB,522,CIB,35-44,99.44029851,south,direct,0,18.0
+24952,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,296500,4.375,1.3538,1900.0,360,not_neg,not_int,not_lpsm,168000.0,home,3U,6960.0,CIB,584,EXP,>74,53.20512821,south,direct,0,43.0
+25014,2019,cf,Sex Not Available,pre,p4,l1,opc,nob/c,256500,3.875,0.5491,6720.0,288,neg_amm,not_int,not_lpsm,148000.0,home,2U,27000.0,CRIF,724,EXP,>74,48.50835322,North,direct,0,49.0
+25128,2019,cf,Sex Not Available,nopre,p4,l1,opc,nob/c,826500,4.49,0.1563,995.67,300,not_neg,not_int,not_lpsm,388000.0,home,1U,6480.0,EXP,811,CIB,45-54,78.97923875,south,direct,1,34.0
+25309,2019,ncf,Female,pre,p3,l1,opc,nob/c,356500,5.375,0.9356,3931.25,300,neg_amm,not_int,not_lpsm,408000.0,home,3U,9720.0,EQUI,775,EXP,,69.25872093,North,direct,1,50.0
+25024,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,556500,5.0,1.2019,3747.8,360,not_neg,not_int,not_lpsm,758000.0,home,1U,10500.0,CRIF,639,EXP,35-44,94.95614035,North,direct,0,20.0
+24913,2019,cf,Joint,nopre,p4,l1,nopc,b/c,166500,4.625,0.5933,146.41,240,not_neg,not_int,not_lpsm,208000.0,home,4U,19620.0,CRIF,796,CIB,35-44,14.72691808,North-East,direct,0,38.0
+25143,2019,,Sex Not Available,,p4,l1,opc,b/c,676500,2.875,0.1438,4950.0,348,neg_amm,not_int,not_lpsm,358000.0,home,2U,11340.0,CIB,620,CIB,45-54,90.20700637,North,direct,0,55.0
+25180,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,276500,3.5,0.8083,526.68,144,not_neg,int_only,not_lpsm,168000.0,home,1U,2940.0,CIB,802,CIB,25-34,86.76470588,North,direct,0,
+25308,2019,cf,Joint,nopre,p3,l1,nopc,b/c,486500,5.19,0.0023,1134.02,180,not_neg,int_only,not_lpsm,888000.0,home,1U,1980.0,CRIF,505,CIB,35-44,59.83146067,North-East,direct,0,30.0
+24943,2019,,Sex Not Available,nopre,p1,l1,nopc,nob/c,396500,4.25,0.6648,710.51,228,not_neg,not_int,not_lpsm,3408000.0,home,2U,26100.0,CRIF,645,EXP,45-54,35.3219697,North,direct,0,44.0
+24925,2019,cf,Joint,nopre,p4,l1,opc,nob/c,386500,4.18,0.6468,4866.2,276,not_neg,not_int,not_lpsm,138000.0,home,2U,9180.0,EXP,736,CIB,45-54,94.95614035,North,direct,0,20.0
+25208,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,626500,4.25,0.4232,16087.19,120,not_neg,not_int,not_lpsm,668000.0,home,1U,6840.0,CIB,618,CIB,35-44,58.97277228,North,direct,0,5.0
+25507,2019,cf,Joint,nopre,p4,l1,opc,nob/c,866500,3.875,0.0859,6172.13,276,not_neg,not_int,not_lpsm,178000.0,home,3U,10440.0,CRIF,762,EXP,25-34,36.81133056,North,direct,1,42.0
+25511,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,686500,5.19,-0.1583,3720.0,300,not_neg,not_int,not_lpsm,478000.0,home,1U,4680.0,CRIF,894,EXP,45-54,93.44512195,North,direct,1,16.0
+25355,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,286500,3.875,-0.3063,5637.5,360,not_neg,not_int,not_lpsm,148000.0,home,2U,3360.0,EXP,636,EXP,65-74,81.80473373,south,direct,1,13.0
+25211,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,466500,4.0,1.0852,7136.49,156,not_neg,not_int,not_lpsm,658000.0,home,1U,10800.0,CIB,607,EXP,65-74,89.52442159,North,direct,0,37.0
+25463,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,676500,3.125,1.2674,250.0,360,not_neg,not_int,not_lpsm,358000.0,home,1U,7740.0,CRIF,699,CIB,35-44,56.88325991,North,direct,0,9.0
+24963,2019,,Joint,nopre,p4,l1,nopc,nob/c,536500,5.625,0.0759,13430.0,300,not_neg,not_int,not_lpsm,358000.0,home,3U,12480.0,CRIF,715,CIB,,57.75039746,south,direct,0,31.0
+25253,2019,cf,Female,,p3,l1,nopc,nob/c,386500,3.49,-0.1642,4341.98,180,not_neg,not_int,not_lpsm,318000.0,home,1U,2400.0,CRIF,607,EXP,35-44,84.42028986,south,direct,0,52.0
+25564,2019,,Joint,nopre,p3,l1,nopc,b/c,816500,3.375,-0.5876,2882.81,156,not_neg,not_int,not_lpsm,788000.0,home,1U,6000.0,CIB,611,EXP,45-54,87.92134831,North,direct,0,15.0
+25578,2019,cf,Sex Not Available,,p3,l1,opc,nob/c,986500,5.5,0.3337,710.51,276,not_neg,not_int,lpsm,768000.0,home,1U,22500.0,EXP,713,EXP,55-64,65.31862745,North,direct,0,58.0
+25292,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,536500,,-0.689,1600.38,144,not_neg,not_int,not_lpsm,588000.0,home,1U,8700.0,CRIF,845,CIB,55-64,80.03875969,south,direct,1,23.0
+25606,2019,cf,Joint,pre,p3,l1,opc,b/c,156500,4.75,1.2132,2995.0,240,not_neg,not_int,not_lpsm,718000.0,home,4U,3360.0,EXP,636,EXP,45-54,67.04545455,North,direct,0,43.0
+25039,2019,cf,Joint,nopre,p4,l1,opc,b/c,826500,3.7,1.4342,3608.63,156,not_neg,int_only,not_lpsm,628000.0,home,1U,3300.0,EXP,844,CIB,35-44,94.85645933,south,direct,0,15.0
+25311,2019,,Sex Not Available,nopre,p1,l1,nopc,nob/c,1416500,2.99,0.3731,8840.0,180,not_neg,not_int,not_lpsm,668000.0,home,3U,7200.0,CIB,836,CIB,25-34,83.63453815,North,direct,0,35.0
+25648,2019,cf,Joint,,p4,l1,nopc,nob/c,646500,2.875,0.2805,123.61,180,not_neg,not_int,not_lpsm,158000.0,home,1U,6720.0,EXP,616,EXP,45-54,67.13709677,North-East,direct,0,14.0
+25136,2019,cf,Female,nopre,p4,l1,opc,b/c,186500,,0.479,7347.81,336,neg_amm,not_int,lpsm,358000.0,home,2U,16680.0,CIB,785,CIB,,67.40506329,North,direct,0,6.0
+25170,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,796500,4.0,1.3172,662.44,180,not_neg,not_int,not_lpsm,1508000.0,home,1U,4140.0,EQUI,851,EXP,45-54,78.67483296,south,direct,1,30.0
+24978,2019,cf,Joint,,p3,l1,nopc,nob/c,1416500,5.19,0.7997,4625.0,360,not_neg,int_only,not_lpsm,148000.0,home,1U,10080.0,EXP,899,EXP,25-34,68.80530973,North,direct,0,25.0
+24978,2019,cf,Male,pre,p2,l1,nopc,nob/c,166500,4.625,0.3481,90.03,360,not_neg,not_int,not_lpsm,638000.0,home,4U,13860.0,CRIF,758,EXP,25-34,64.75694444,central,direct,1,
+25809,2019,cf,Female,pre,p1,l2,nopc,nob/c,216500,3.625,1.1306,4454.0,360,not_neg,not_int,not_lpsm,708000.0,home,1U,6600.0,EXP,743,EXP,65-74,81.35451505,central,direct,1,56.0
+25535,2019,,Sex Not Available,pre,p3,l1,nopc,b/c,606500,4.125,-0.6041,6370.0,108,not_neg,not_int,not_lpsm,1298000.0,home,2U,16020.0,EQUI,591,CIB,35-44,99.64114833,North,direct,0,24.0
+25626,2019,,Sex Not Available,nopre,p3,l1,nopc,nob/c,306500,4.125,0.0236,8010.0,336,not_neg,not_int,not_lpsm,658000.0,home,1U,13200.0,EQUI,875,CIB,55-64,56.29496403,south,direct,0,32.0
+25849,2019,cf,Male,nopre,p1,l1,nopc,b/c,416500,4.5,0.3492,2329.8,300,not_neg,not_int,not_lpsm,788000.0,home,1U,8580.0,EXP,547,EXP,65-74,99.61340206,North,direct,0,26.0
+25317,2019,ncf,Male,pre,p3,l1,nopc,nob/c,256500,4.5,0.2927,941.4,180,not_neg,not_int,not_lpsm,598000.0,home,1U,8640.0,EXP,557,EXP,55-64,65.625,North,direct,0,45.0
+25901,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,146500,4.375,1.4234,4412.33,300,not_neg,not_int,not_lpsm,438000.0,home,4U,5340.0,CIB,739,EXP,25-34,72.69647696,south,direct,1,59.0
+24995,2019,ncf,Female,nopre,p1,l1,nopc,nob/c,716500,3.99,0.3555,1600.38,312,neg_amm,not_int,not_lpsm,1228000.0,home,1U,12540.0,CRIF,767,CIB,55-64,87.22570533,North-East,direct,0,34.0
+25493,2019,cf,Sex Not Available,nopre,p2,l2,nopc,nob/c,426500,4.625,0.9356,1778.62,240,not_neg,not_int,not_lpsm,558000.0,home,1U,11220.0,CRIF,784,EXP,45-54,69.27570093,North,direct,0,45.0
+24980,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,466500,4.99,1.2777,4000.0,360,not_neg,not_int,not_lpsm,288000.0,home,2U,10020.0,EXP,683,CIB,25-34,87.07627119,North,direct,0,44.0
+24943,2019,,Sex Not Available,,p4,l1,nopc,nob/c,156500,4.375,0.1574,978.0,300,not_neg,not_int,not_lpsm,168000.0,home,1U,2640.0,CIB,847,EXP,55-64,99.4966443,North,direct,0,26.0
+25394,2019,,Sex Not Available,pre,p3,l1,nopc,nob/c,26500,,-0.1498,2522.5,192,not_neg,not_int,not_lpsm,128000.0,home,1U,9060.0,EXP,571,EXP,<25,54.78603604,south,direct,0,42.0
+25832,2019,ncf,Female,nopre,p1,l1,nopc,nob/c,626500,3.49,1.0714,2940.31,240,not_neg,not_int,not_lpsm,1948000.0,home,1U,8580.0,CRIF,802,CIB,45-54,74.45652174,south,direct,1,49.0
+25190,2019,ncf,Sex Not Available,pre,p3,l1,nopc,nob/c,886500,4.375,0.6694,5033.28,360,not_neg,int_only,not_lpsm,478000.0,home,1U,7740.0,CRIF,605,EXP,,44.61722488,North,direct,0,61.0
+25539,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,566500,5.5,0.3337,4663.95,180,not_neg,not_int,not_lpsm,638000.0,home,1U,4800.0,CIB,882,EXP,55-64,57.76553106,North-East,direct,0,47.0
+25593,2019,,Male,,p4,l2,nopc,nob/c,1376500,,0.4919,1644.21,360,neg_amm,not_int,not_lpsm,838000.0,home,3U,12360.0,EQUI,868,CIB,45-54,51.5470297,south,direct,1,42.0
+25708,2019,,Joint,,p2,l1,nopc,nob/c,586500,5.19,0.2606,5764.2,288,not_neg,not_int,not_lpsm,738000.0,home,1U,54300.0,EQUI,727,CIB,35-44,79.45402299,North,direct,0,34.0
+25842,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,776500,3.875,1.5493,1330.09,180,neg_amm,int_only,not_lpsm,748000.0,home,4U,19020.0,CRIF,644,CIB,25-34,41.58653846,south,direct,0,6.0
+25460,2019,cf,Female,nopre,p3,l1,nopc,nob/c,776500,3.375,-0.2418,1036.21,228,not_neg,not_int,lpsm,818000.0,home,1U,6180.0,CRIF,520,EXP,35-44,64.75694444,south,direct,0,48.0
+25796,2019,ncf,Sex Not Available,nopre,p4,l1,opc,nob/c,316500,3.875,1.3009,4866.2,300,not_neg,not_int,not_lpsm,868000.0,home,1U,6060.0,CRIF,796,CIB,25-34,50.55803571,North,direct,0,24.0
+25021,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,486500,4.99,0.1438,6034.95,360,not_neg,int_only,lpsm,828000.0,home,3U,16680.0,CRIF,852,CIB,65-74,93.1547619,south,direct,1,20.0
+25799,2019,cf,Male,nopre,p4,l2,nopc,b/c,516500,3.0,0.8289,3294.2,312,not_neg,not_int,lpsm,1468000.0,home,3U,9120.0,CIB,794,EXP,25-34,86.93181818,central,direct,0,37.0
+25550,2019,ncf,Sex Not Available,nopre,p4,l2,nopc,nob/c,586500,3.0,0.3664,3022.0,228,neg_amm,not_int,not_lpsm,618000.0,home,3U,15840.0,EXP,713,EXP,55-64,20.15570934,south,direct,0,7.0
+25333,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,226500,3.625,-0.4929,978.0,336,not_neg,int_only,lpsm,688000.0,home,4U,2820.0,CRIF,867,EXP,>74,79.23387097,North,direct,0,
+25291,2019,cf,Female,nopre,p4,l2,nopc,nob/c,716500,4.875,0.0708,5437.5,312,not_neg,not_int,not_lpsm,2608000.0,home,4U,3900.0,EXP,785,EXP,35-44,69.17177914,North,direct,0,45.0
+25373,2019,,Female,nopre,p3,l1,nopc,nob/c,676500,3.125,0.005,1342.02,276,not_neg,not_int,not_lpsm,558000.0,home,1U,12540.0,CRIF,863,CIB,35-44,53.66108787,south,direct,0,44.0
+25299,2019,cf,Female,nopre,p2,l1,nopc,nob/c,1376500,2.99,0.012,2590.0,336,not_neg,int_only,not_lpsm,378000.0,home,1U,2220.0,CIB,593,EXP,25-34,79.76190476,south,direct,1,30.0
+25885,2019,ncf,Joint,nopre,p3,l1,nopc,b/c,616500,3.75,-0.3326,4852.75,108,not_neg,not_int,lpsm,188000.0,home,1U,8940.0,CRIF,798,EXP,55-64,59.44010417,North,direct,0,22.0
+25868,2019,cf,Male,nopre,p3,l1,nopc,nob/c,626500,3.625,1.224,11957.75,336,neg_amm,not_int,not_lpsm,838000.0,home,1U,7680.0,CRIF,759,CIB,45-54,67.578125,central,direct,0,59.0
+25699,2019,cf,Joint,pre,p4,l1,nopc,b/c,56500,5.25,-0.6203,2940.31,120,not_neg,not_int,not_lpsm,578000.0,home,1U,16080.0,CIB,514,CIB,35-44,60.65891473,south,direct,0,55.0
+24951,2019,cf,Male,nopre,p4,l1,nopc,nob/c,336500,3.625,1.1688,995.0,360,neg_amm,not_int,not_lpsm,1258000.0,home,1U,3360.0,CIB,865,CIB,25-34,75.12254902,North,direct,0,21.0
+24993,2019,cf,Joint,,p4,l1,nopc,nob/c,256500,4.49,0.2084,631.06,300,not_neg,int_only,lpsm,538000.0,home,1U,12300.0,CRIF,590,CIB,45-54,78.62149533,south,direct,1,51.0
+25841,2019,cf,Joint,,p3,l1,nopc,b/c,46500,4.375,-0.448,2471.85,192,not_neg,not_int,not_lpsm,1158000.0,home,2U,8700.0,EXP,811,EXP,25-34,57.4602122,North,direct,0,34.0
+25381,2019,ncf,Joint,nopre,p3,l1,opc,nob/c,256500,4.25,0.1673,3560.0,312,not_neg,not_int,not_lpsm,158000.0,home,3U,14580.0,CIB,654,EXP,35-44,45.40190736,south,direct,0,22.0
+25326,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,416500,3.7,0.5148,6252.81,180,not_neg,not_int,not_lpsm,238000.0,home,3U,3240.0,EXP,735,EXP,35-44,39.32160804,North,direct,0,34.0
+25791,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,586500,4.125,0.1085,3301.0,276,not_neg,int_only,lpsm,138000.0,home,3U,9360.0,CRIF,894,EXP,55-64,78.64583333,North,direct,0,55.0
+25062,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,226500,3.5,0.3281,2476.72,180,not_neg,not_int,not_lpsm,648000.0,home,1U,16680.0,EXP,861,EXP,35-44,80.01101322,North,direct,0,5.0
+25398,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,486500,2.99,-0.0582,1544.4,180,not_neg,not_int,not_lpsm,418000.0,home,4U,7500.0,CIB,612,EXP,65-74,61.28762542,North,direct,1,6.0
+25709,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,536500,3.375,1.3777,4663.95,348,not_neg,not_int,not_lpsm,388000.0,home,1U,5820.0,EXP,752,EXP,25-34,65.49145299,North,direct,0,18.0
+25237,2019,ncf,Sex Not Available,nopre,p1,l1,opc,nob/c,546500,3.875,0.9691,1890.0,300,not_neg,not_int,not_lpsm,118000.0,home,1U,1920.0,CRIF,737,CIB,45-54,86.52597403,south,direct,0,55.0
+25603,2019,cf,Male,nopre,p3,l2,nopc,nob/c,866500,,0.6403,1984.7,360,not_neg,int_only,not_lpsm,3408000.0,home,1U,16560.0,CRIF,525,EXP,55-64,66.40811456,North,direct,0,28.0
+25065,2019,,Male,pre,p3,l1,opc,nob/c,396500,4.56,-0.3455,795.0,108,not_neg,int_only,not_lpsm,138000.0,home,4U,14880.0,EXP,570,CIB,25-34,39.22413793,central,direct,0,43.0
+25247,2019,cf,Joint,nopre,p4,l2,nopc,b/c,456500,5.19,-0.0713,6095.0,180,neg_amm,not_int,not_lpsm,458000.0,home,1U,10080.0,CRIF,722,CIB,<25,72.10365854,North-East,direct,0,59.0
+25735,2019,cf,Sex Not Available,pre,p3,l1,nopc,b/c,426500,4.375,0.4341,5250.0,360,not_neg,not_int,not_lpsm,1258000.0,home,1U,11520.0,EXP,626,CIB,35-44,63.70320856,North,direct,0,27.0
+25770,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,76500,5.625,0.5642,4850.45,108,not_neg,not_int,not_lpsm,458000.0,home,1U,7080.0,CRIF,743,EXP,35-44,39.93123772,south,direct,0,48.0
+25569,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,226500,4.25,1.1445,3910.0,348,not_neg,not_int,lpsm,158000.0,home,4U,2700.0,CRIF,726,EXP,45-54,82.82122905,North,direct,0,40.0
+24938,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,146500,5.75,1.3172,5166.3,276,neg_amm,not_int,not_lpsm,1268000.0,home,1U,5700.0,EQUI,570,CIB,>74,55.79896907,south,direct,0,14.0
+25372,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,326500,3.0,0.6439,10305.45,360,not_neg,not_int,not_lpsm,238000.0,home,1U,3660.0,EXP,567,EXP,35-44,71.32107023,North,direct,0,55.0
+25467,2019,cf,Male,nopre,p2,l1,nopc,nob/c,706500,3.875,0.4736,2131.24,240,not_neg,not_int,not_lpsm,1028000.0,home,1U,54300.0,CRIF,804,EXP,35-44,82.07964602,south,direct,0,30.0
+25590,2019,cf,Sex Not Available,pre,p3,l1,nopc,nob/c,526500,3.625,-0.0225,1027.03,300,not_neg,not_int,lpsm,878000.0,home,2U,13620.0,EXP,870,EXP,45-54,50.30940594,south,direct,1,43.0
+25491,2019,,Male,nopre,p4,l1,nopc,nob/c,536500,4.75,-0.4881,13611.13,360,not_neg,not_int,lpsm,1948000.0,home,3U,6900.0,CIB,608,EXP,35-44,93.23899371,North,direct,0,50.0
+25475,2019,ncf,Male,,p3,l1,opc,nob/c,676500,3.875,0.6558,2421.0,336,not_neg,not_int,not_lpsm,238000.0,home,4U,11640.0,EQUI,845,EXP,55-64,96.7325228,North,direct,1,13.0
+25600,2019,ncf,Sex Not Available,nopre,p3,l2,nopc,nob/c,506500,,0.7659,6245.0,192,not_neg,not_int,not_lpsm,508000.0,home,1U,1440.0,CIB,883,EXP,25-34,74.543379,North,direct,1,23.0
+25605,2019,cf,Sex Not Available,nopre,p4,l1,nopc,b/c,86500,,-0.3485,5937.5,156,not_neg,not_int,lpsm,688000.0,home,1U,7860.0,EXP,701,EXP,,46.91901408,south,direct,0,32.0
+25341,2019,ncf,Male,nopre,p1,l1,nopc,nob/c,486500,3.875,0.3642,516.96,144,not_neg,not_int,lpsm,88000.0,home,1U,4680.0,CRIF,805,EXP,35-44,63.03088803,North-East,direct,0,44.0
+25879,2019,cf,Joint,nopre,p1,l1,nopc,nob/c,156500,5.375,0.925,1027.03,240,not_neg,not_int,not_lpsm,738000.0,home,1U,3480.0,EXP,862,CIB,55-64,92.22972973,North,direct,0,30.0
+25649,2019,cf,Female,nopre,p4,l2,nopc,nob/c,86500,4.75,0.3337,1749.5,324,not_neg,not_int,not_lpsm,1158000.0,home,1U,2700.0,EXP,837,CIB,>74,93.53932584,North,direct,0,40.0
+25569,2019,,Sex Not Available,nopre,p3,l1,nopc,b/c,776500,3.775,-0.1789,2378.13,360,not_neg,not_int,not_lpsm,888000.0,home,1U,6780.0,CRIF,674,CIB,55-64,33.58585859,south,direct,0,59.0
+24995,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,336500,2.99,0.6732,7000.0,348,not_neg,not_int,not_lpsm,1948000.0,home,3U,15360.0,EXP,676,CIB,65-74,74.64157706,North-East,direct,0,42.0
+25588,2019,cf,Female,nopre,p1,l1,nopc,nob/c,546500,3.5,-0.3286,625.63,180,not_neg,not_int,not_lpsm,348000.0,home,4U,7080.0,CIB,704,EXP,35-44,51.39109698,south,direct,0,31.0
+25681,2019,cf,Sex Not Available,nopre,p1,l1,opc,nob/c,26500,3.375,0.5528,3931.25,108,not_neg,not_int,not_lpsm,2608000.0,home,1U,3540.0,EQUI,644,EXP,55-64,39.22413793,North,direct,0,47.0
+25673,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,416500,3.49,1.3774,2658.42,348,not_neg,not_int,not_lpsm,3408000.0,home,1U,12240.0,CIB,572,CIB,55-64,73.47161572,North,direct,0,59.0
+25484,2019,ncf,Sex Not Available,nopre,p1,l1,nopc,nob/c,706500,3.375,1.4069,7005.0,336,not_neg,not_int,not_lpsm,558000.0,home,1U,3120.0,EQUI,890,CIB,45-54,66.10824742,south,direct,0,32.0
+25845,2019,cf,Sex Not Available,pre,p1,l2,opc,b/c,576500,3.875,0.1084,5379.95,324,neg_amm,int_only,not_lpsm,1168000.0,home,2U,9420.0,CRIF,721,CIB,55-64,67.578125,south,direct,1,36.0
+25469,2019,cf,Female,nopre,p4,l1,nopc,nob/c,346500,4.0,1.0618,1790.25,360,not_neg,not_int,not_lpsm,1158000.0,home,1U,11400.0,EQUI,686,EXP,55-64,66.93925234,North,direct,0,31.0
+25295,2019,cf,Male,nopre,p3,l1,nopc,nob/c,866500,,0.4597,8079.2,144,not_neg,int_only,not_lpsm,668000.0,home,4U,5580.0,EXP,675,EXP,35-44,49.10071942,south,direct,0,43.0
+25562,2019,cf,Male,nopre,p4,l1,nopc,nob/c,166500,5.125,0.1674,2665.52,300,not_neg,not_int,not_lpsm,628000.0,home,1U,8040.0,CRIF,811,EXP,25-34,68.95886889,North,direct,1,31.0
+25521,2019,ncf,Sex Not Available,,p3,l1,nopc,b/c,826500,3.75,-0.151,6370.0,312,neg_amm,not_int,lpsm,288000.0,home,1U,9120.0,CRIF,689,CIB,,74.74937343,south,direct,0,50.0
+25655,2019,ncf,Male,nopre,p1,l1,nopc,nob/c,326500,2.875,1.3051,14690.09,336,not_neg,not_int,lpsm,468000.0,home,4U,6900.0,CRIF,540,EXP,>74,90.30373832,North,direct,1,25.0
+25062,2019,ncf,Female,nopre,p3,l1,nopc,nob/c,536500,3.25,0.2589,7347.81,144,not_neg,not_int,lpsm,308000.0,home,3U,2880.0,EXP,769,EXP,,69.27570093,south,direct,1,61.0
+25788,2019,cf,Sex Not Available,,p4,l1,nopc,nob/c,516500,2.875,0.9403,1070.0,192,not_neg,not_int,not_lpsm,,home,1U,8760.0,EQUI,539,EXP,45-54,98.91304348,North,direct,1,45.0
+25762,2019,cf,Joint,nopre,p4,l1,opc,nob/c,1376500,3.49,1.0893,2187.35,324,not_neg,not_int,lpsm,1758000.0,home,4U,3840.0,EQUI,850,EXP,35-44,78.64583333,south,direct,1,39.0
+25099,2019,,Sex Not Available,,p4,l1,nopc,nob/c,476500,3.25,0.7084,6265.95,240,not_neg,not_int,not_lpsm,458000.0,home,2U,12480.0,CRIF,559,EXP,55-64,41.03860294,North,direct,0,49.0
+25632,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,286500,4.375,1.0431,7254.1,144,not_neg,not_int,not_lpsm,198000.0,home,1U,2340.0,CRIF,889,EXP,55-64,71.70138889,south,direct,0,
+25103,2019,cf,Sex Not Available,nopre,p1,l1,nopc,nob/c,466500,5.19,0.0898,5245.09,276,not_neg,not_int,not_lpsm,768000.0,home,1U,6120.0,EQUI,807,CIB,55-64,45.4735376,south,direct,0,
+25490,2019,cf,Joint,nopre,p3,l1,nopc,b/c,276500,3.125,1.1248,1660.0,360,not_neg,not_int,not_lpsm,678000.0,home,1U,1920.0,CIB,567,EXP,65-74,87.13389121,North,direct,0,40.0
+24990,2019,ncf,Sex Not Available,nopre,p3,l2,opc,nob/c,136500,,1.0231,1929.74,108,not_neg,not_int,not_lpsm,188000.0,home,2U,15840.0,CIB,744,EXP,55-64,72.69647696,south,direct,1,38.0
+25165,2019,ncf,Sex Not Available,pre,p1,l1,nopc,nob/c,146500,4.375,0.3056,4441.0,312,not_neg,not_int,lpsm,788000.0,home,1U,2040.0,EXP,773,EXP,65-74,63.39285714,North,direct,1,8.0
+25443,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,396500,5.375,0.005,995.0,120,not_neg,not_int,not_lpsm,838000.0,home,2U,19020.0,CIB,880,CIB,55-64,36.77884615,south,direct,0,35.0
+25883,2019,,Female,pre,p4,l1,opc,nob/c,526500,5.0,1.0714,1538.76,240,not_neg,not_int,not_lpsm,568000.0,home,1U,8040.0,CRIF,769,EXP,<25,70.89665653,south,direct,0,56.0
+25738,2019,,Male,pre,p4,l1,nopc,nob/c,716500,4.99,0.5887,3725.18,192,not_neg,not_int,not_lpsm,688000.0,home,2U,13800.0,EQUI,691,EXP,35-44,87.22570533,central,direct,0,19.0
+25841,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,276500,5.125,0.252,179.04,360,not_neg,not_int,not_lpsm,98000.0,home,1U,,EQUI,703,CIB,65-74,33.58585859,south,direct,0,32.0
+25218,2019,ncf,Sex Not Available,nopre,p2,l2,nopc,nob/c,356500,2.99,-0.4881,2222.02,288,not_neg,not_int,not_lpsm,478000.0,home,1U,4260.0,EXP,818,CIB,25-34,72.48953975,central,direct,0,50.0
+25742,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,216500,4.125,0.0454,5245.09,360,neg_amm,not_int,not_lpsm,238000.0,home,3U,6540.0,CRIF,759,EXP,55-64,91.66666667,south,direct,0,44.0
+25016,2019,cf,Female,nopre,p1,l1,nopc,nob/c,276500,2.75,0.2606,2171.25,156,not_neg,not_int,lpsm,1228000.0,home,1U,14880.0,CRIF,682,EXP,55-64,70.32871972,North-East,direct,0,38.0
+25614,2019,cf,Joint,pre,p1,l1,nopc,nob/c,366500,,0.252,4222.65,276,neg_amm,not_int,not_lpsm,368000.0,home,1U,2280.0,EXP,863,EXP,35-44,63.55421687,North-East,direct,0,16.0
+25158,2019,cf,Male,nopre,p3,l1,nopc,nob/c,196500,2.75,1.3271,346.68,180,not_neg,not_int,lpsm,728000.0,home,1U,11460.0,CIB,835,EXP,35-44,2.81374502,south,direct,0,
+25579,2019,cf,Sex Not Available,nopre,p4,l2,nopc,nob/c,886500,5.375,-0.0746,3952.93,180,not_neg,not_int,not_lpsm,1128000.0,home,1U,9000.0,EXP,526,EXP,35-44,88.26530612,south,direct,0,54.0
+25020,2019,cf,Male,nopre,p3,l1,nopc,nob/c,46500,5.19,1.4168,4720.0,324,not_neg,not_int,not_lpsm,78000.0,home,1U,71220.0,EXP,615,CIB,>74,46.91901408,North,direct,0,49.0
+25571,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,26500,3.5,0.3673,6931.25,156,not_neg,not_int,not_lpsm,298000.0,home,1U,14640.0,CIB,780,EXP,25-34,60.6292517,North-East,direct,0,49.0
+25467,2019,cf,Female,,p3,l2,nopc,nob/c,266500,3.5,0.3719,4653.09,192,not_neg,int_only,not_lpsm,1088000.0,home,1U,13560.0,CRIF,520,CIB,55-64,59.80801336,North,direct,1,30.0
+24968,2019,cf,Male,nopre,p3,l1,nopc,nob/c,196500,4.99,0.7581,2931.87,336,not_neg,not_int,not_lpsm,878000.0,home,1U,7920.0,CIB,544,CIB,35-44,27.14471404,south,direct,0,26.0
+25099,2019,ncf,Sex Not Available,nopre,p3,l1,nopc,nob/c,326500,,1.4687,1605.37,300,not_neg,not_int,not_lpsm,988000.0,home,1U,3420.0,EXP,734,CIB,35-44,51.5470297,North,direct,1,17.0
+24926,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,576500,5.625,0.34,1936.8,228,not_neg,int_only,not_lpsm,1298000.0,home,2U,10860.0,EXP,708,EXP,>74,50.93283582,North,direct,0,28.0
+25739,2019,cf,Male,pre,p2,l2,nopc,nob/c,376500,3.75,0.479,1787.19,228,not_neg,not_int,not_lpsm,1758000.0,home,2U,6120.0,CIB,818,EXP,25-34,79.23387097,North,direct,0,16.0
+25223,2019,,Joint,nopre,p1,l1,nopc,nob/c,196500,5.125,0.3337,2752.55,240,not_neg,not_int,not_lpsm,928000.0,home,1U,9840.0,CRIF,519,EXP,65-74,68.8547486,south,direct,0,19.0
+25835,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,176500,3.75,0.7491,2647.61,324,not_neg,not_int,not_lpsm,248000.0,home,3U,4140.0,CRIF,780,CIB,45-54,79.20081967,south,direct,0,17.0
+25825,2019,ncf,Sex Not Available,,p3,l2,nopc,nob/c,586500,2.75,0.0897,90.03,156,neg_amm,not_int,not_lpsm,598000.0,home,1U,21000.0,CRIF,826,EXP,65-74,38.01369863,North-East,direct,0,20.0
+25335,2019,cf,Male,nopre,p3,l1,nopc,nob/c,306500,3.25,1.1445,5975.0,300,neg_amm,int_only,lpsm,338000.0,home,3U,19620.0,EXP,726,EXP,45-54,67.28723404,south,direct,0,22.0
+24997,2019,cf,Sex Not Available,nopre,p2,l1,nopc,b/c,106500,3.56,0.0368,1845.0,276,not_neg,not_int,not_lpsm,268000.0,home,1U,78120.0,EXP,503,CIB,<25,67.51893939,North-East,direct,0,39.0
+25408,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,206500,4.375,-0.698,590.73,240,neg_amm,int_only,not_lpsm,328000.0,home,1U,7020.0,CIB,673,EXP,65-74,58.83152174,south,direct,0,47.0
+25503,2019,cf,Male,pre,p4,l1,nopc,nob/c,266500,5.75,1.0471,2733.44,324,neg_amm,not_int,not_lpsm,98000.0,home,1U,,CIB,570,CIB,45-54,81.9579288,south,direct,1,21.0
+25411,2019,cf,Joint,nopre,p4,l2,nopc,nob/c,506500,3.99,0.9347,7484.38,360,not_neg,not_int,not_lpsm,158000.0,home,4U,18240.0,CRIF,589,EXP,45-54,80.40540541,North,direct,1,7.0
+24998,2019,,Joint,nopre,p4,l1,nopc,nob/c,176500,2.875,-0.2048,3012.5,180,not_neg,not_int,not_lpsm,248000.0,home,1U,16740.0,CRIF,809,EXP,45-54,89.0625,south,direct,0,53.0
+24983,2019,cf,Joint,nopre,p3,l2,nopc,nob/c,726500,5.125,1.274,1254.66,108,not_neg,not_int,lpsm,2398000.0,home,3U,5160.0,CIB,769,CIB,65-74,34.13608563,North,direct,0,
+25086,2019,cf,Joint,nopre,p3,l1,nopc,b/c,306500,3.25,0.5462,6090.0,348,not_neg,not_int,not_lpsm,88000.0,home,1U,2700.0,CIB,729,CIB,55-64,99.52830189,central,direct,0,9.0
+25169,2019,ncf,Sex Not Available,pre,p4,l1,nopc,b/c,256500,3.625,1.2991,2054.53,348,not_neg,int_only,not_lpsm,998000.0,home,1U,3300.0,CRIF,890,EXP,25-34,96.49390244,south,direct,0,
+25596,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,306500,4.125,0.1222,1150.0,180,not_neg,not_int,not_lpsm,498000.0,home,1U,15240.0,EXP,715,CIB,35-44,54.78603604,south,direct,0,7.0
+25852,2019,cf,Female,nopre,p4,l1,nopc,nob/c,396500,,1.3328,2800.0,156,neg_amm,int_only,not_lpsm,758000.0,home,3U,12000.0,CIB,818,EXP,<25,56.00961538,south,direct,1,23.0
+25280,2019,cf,Male,nopre,p2,l1,nopc,b/c,96500,4.75,-0.1484,3432.4,348,not_neg,int_only,not_lpsm,1508000.0,home,1U,10500.0,EXP,734,CIB,35-44,92.72151899,North,direct,0,42.0
+25251,2019,cf,Male,nopre,p3,l1,nopc,nob/c,316500,4.125,0.081,3698.0,276,not_neg,not_int,not_lpsm,2128000.0,home,4U,9360.0,EQUI,578,EXP,,82.03517588,North,direct,0,8.0
+25643,2019,cf,Male,,p3,l1,opc,nob/c,416500,3.0,0.6165,3265.0,156,neg_amm,not_int,lpsm,628000.0,home,3U,7560.0,CIB,713,CIB,25-34,57.75547445,North,direct,1,40.0
+25349,2019,,Sex Not Available,,p3,l1,nopc,nob/c,206500,2.99,-0.1498,7000.0,156,not_neg,not_int,not_lpsm,778000.0,home,1U,8460.0,CRIF,571,EXP,45-54,90.13761468,North,direct,0,5.0
+25689,2019,ncf,Joint,nopre,p1,l2,nopc,nob/c,616500,3.625,0.7443,5030.25,96,not_neg,not_int,not_lpsm,128000.0,home,1U,5460.0,CIB,677,EXP,35-44,80.0245098,North,direct,0,17.0
+25186,2019,cf,Female,pre,p3,l2,nopc,nob/c,626500,,-0.0503,6022.5,180,not_neg,not_int,not_lpsm,1298000.0,home,1U,5580.0,CRIF,761,EXP,55-64,39.68160377,south,direct,0,59.0
+25562,2019,cf,Sex Not Available,nopre,p3,l1,nopc,nob/c,576500,4.875,0.5422,,180,not_neg,not_int,not_lpsm,1468000.0,home,1U,32400.0,CRIF,624,EXP,65-74,80.66037736,North,direct,0,20.0
+25270,2019,ncf,Male,,p4,l2,nopc,nob/c,286500,5.19,1.1194,1342.02,336,neg_amm,not_int,not_lpsm,168000.0,home,4U,30180.0,CIB,838,CIB,>74,35.49578059,North,direct,0,26.0
+25812,2019,cf,Joint,pre,p4,l2,nopc,nob/c,256500,4.0,0.768,1605.37,360,not_neg,not_int,not_lpsm,98000.0,home,1U,12660.0,EXP,596,CIB,25-34,90.04854369,south,direct,0,
+25457,2019,cf,Female,nopre,p1,l2,nopc,nob/c,646500,3.125,-0.3409,4044.53,228,not_neg,int_only,not_lpsm,438000.0,home,1U,12240.0,CIB,722,EXP,25-34,99.64953271,North-East,direct,0,25.0
+25661,2019,cf,Joint,,p4,l1,nopc,nob/c,626500,4.375,-0.3485,2222.02,120,not_neg,not_int,not_lpsm,918000.0,home,1U,8100.0,EQUI,746,EXP,35-44,35.3219697,North,direct,0,59.0
+25720,2019,cf,Sex Not Available,nopre,p3,l2,nopc,nob/c,276500,4.99,-0.4373,8500.0,180,not_neg,not_int,lpsm,1338000.0,home,1U,5760.0,EXP,512,EXP,65-74,36.77884615,central,direct,1,55.0
+25632,2019,cf,Joint,,p3,l1,nopc,nob/c,606500,3.875,0.4985,3155.0,240,neg_amm,not_int,not_lpsm,928000.0,home,4U,8760.0,CRIF,807,EXP,45-54,77.05223881,south,direct,0,46.0
+25556,2019,cf,Joint,nopre,p3,l1,opc,nob/c,236500,3.5,-0.0027,,240,not_neg,not_int,not_lpsm,298000.0,home,1U,4140.0,EXP,888,EXP,45-54,99.64953271,south,direct,0,31.0
+25112,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,236500,3.5,0.9368,4771.47,336,not_neg,not_int,not_lpsm,878000.0,home,1U,19020.0,EXP,743,CIB,45-54,89.4295302,south,direct,0,59.0
+24979,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,546500,4.56,0.3808,2614.0,312,not_neg,int_only,not_lpsm,138000.0,home,1U,10140.0,EXP,809,EXP,55-64,70.93301435,central,direct,1,7.0
+25182,2019,,Sex Not Available,nopre,p4,l1,nopc,nob/c,286500,4.75,-0.0501,4669.89,360,not_neg,int_only,not_lpsm,318000.0,home,1U,1740.0,CRIF,658,CIB,55-64,85.59027778,south,direct,0,58.0
+25601,2019,,Joint,pre,p3,l1,nopc,nob/c,476500,4.75,0.1387,209.0,192,not_neg,not_int,not_lpsm,108000.0,home,1U,9600.0,EQUI,594,CIB,>74,55.17751479,central,direct,0,
+25775,2019,cf,Male,nopre,p1,l1,nopc,nob/c,206500,4.56,0.1267,3230.05,300,not_neg,not_int,not_lpsm,118000.0,home,2U,2520.0,EXP,572,EXP,45-54,69.27570093,North,direct,0,5.0
+25488,2019,cf,Female,pre,p3,l2,opc,nob/c,506500,4.56,-0.5876,3294.2,288,not_neg,not_int,not_lpsm,1758000.0,home,1U,2940.0,EXP,619,CIB,55-64,85.59027778,south,direct,0,50.0
+25549,2019,cf,Joint,,p3,l1,nopc,nob/c,576500,3.875,0.3481,6052.0,144,not_neg,not_int,lpsm,448000.0,home,3U,12600.0,EXP,563,CIB,65-74,52.11864407,North,direct,0,39.0
+25068,2019,cf,Joint,nopre,p3,l1,nopc,nob/c,406500,3.625,0.1502,1958.35,108,not_neg,int_only,not_lpsm,178000.0,home,1U,9120.0,CRIF,866,EXP,65-74,62.30314961,North,direct,0,51.0
+25728,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,356500,3.125,0.1484,1134.37,276,not_neg,not_int,not_lpsm,818000.0,home,1U,3480.0,EXP,662,CIB,35-44,56.00961538,south,direct,0,50.0
+24936,2019,cf,Sex Not Available,nopre,p3,l1,opc,nob/c,166500,3.875,-0.0995,4062.58,360,not_neg,not_int,lpsm,528000.0,home,1U,9180.0,EXP,656,CIB,35-44,74.03846154,North,direct,0,
+25011,2019,cf,Male,nopre,p3,l1,nopc,b/c,346500,4.0,1.0065,786.33,324,not_neg,not_int,not_lpsm,228000.0,home,3U,2640.0,CRIF,740,EXP,55-64,69.17177914,North,direct,0,56.0
+25192,2019,cf,Male,pre,p1,l1,nopc,nob/c,226500,4.125,0.7084,850.0,240,not_neg,not_int,not_lpsm,888000.0,home,1U,7560.0,CRIF,677,CIB,55-64,54.62962963,North,direct,0,21.0
+25555,2019,ncf,Joint,nopre,p4,l1,nopc,nob/c,306500,3.7,0.4818,8840.0,228,neg_amm,not_int,not_lpsm,958000.0,home,1U,7560.0,CRIF,883,CIB,55-64,47.71341463,North,direct,0,43.0
+25043,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,236500,4.99,-0.2418,8087.5,180,not_neg,not_int,not_lpsm,1308000.0,home,2U,6540.0,CIB,723,CIB,35-44,36.81133056,North-East,direct,0,53.0
+25840,2019,cf,Male,nopre,p1,l1,nopc,b/c,246500,3.375,0.4847,4979.25,96,not_neg,int_only,not_lpsm,878000.0,home,2U,15180.0,EXP,716,CIB,35-44,75.88757396,south,direct,1,57.0
+25398,2019,,Sex Not Available,pre,p4,l1,nopc,b/c,106500,3.875,-0.3326,8100.29,276,neg_amm,not_int,not_lpsm,188000.0,home,1U,19800.0,CIB,520,EXP,45-54,69.01294498,North,direct,0,15.0
+25072,2019,ncf,Male,nopre,p4,l1,nopc,nob/c,146500,3.875,1.8342,1790.0,180,not_neg,not_int,not_lpsm,998000.0,home,1U,5700.0,CIB,803,EXP,55-64,89.77272727,south,direct,0,9.0
+25246,2019,ncf,Sex Not Available,nopre,p2,l1,nopc,nob/c,796500,,0.0897,6869.63,276,not_neg,not_int,not_lpsm,798000.0,home,1U,10140.0,EXP,831,CIB,35-44,67.62820513,south,direct,0,34.0
+25875,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,536500,3.375,-0.367,5806.43,240,not_neg,int_only,not_lpsm,1008000.0,home,1U,6840.0,EXP,584,CIB,25-34,72.24919094,North-East,direct,0,31.0
+25775,2019,cf,Sex Not Available,pre,p3,l1,opc,nob/c,726500,3.875,1.2197,3066.96,108,neg_amm,not_int,lpsm,288000.0,home,4U,8040.0,CRIF,812,CIB,<25,55.51470588,south,direct,0,28.0
+25100,2019,,Male,,p4,l1,nopc,nob/c,986500,5.625,1.111,1544.4,276,not_neg,not_int,not_lpsm,208000.0,home,1U,2820.0,CRIF,543,CIB,55-64,80.09259259,North,direct,1,49.0
+25211,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,166500,3.25,0.5083,209.0,240,neg_amm,not_int,lpsm,1228000.0,home,4U,6060.0,CRIF,789,CIB,55-64,48.16176471,south,direct,0,21.0
+25148,2019,ncf,Joint,nopre,p3,l1,nopc,nob/c,226500,3.99,0.2054,4720.0,180,not_neg,not_int,not_lpsm,958000.0,home,2U,5280.0,CRIF,546,EXP,45-54,82.99256506,North,direct,1,50.0
+24978,2019,,Sex Not Available,nopre,p4,l2,nopc,nob/c,286500,3.69,0.252,3900.0,360,not_neg,not_int,not_lpsm,2008000.0,home,1U,8280.0,EQUI,694,CIB,45-54,59.67048711,North,direct,1,33.0
+25653,2019,cf,Joint,,p3,l1,nopc,nob/c,26500,3.7,1.2197,995.67,360,not_neg,not_int,not_lpsm,498000.0,home,1U,11100.0,CRIF,622,CIB,35-44,94.85645933,North,direct,0,30.0
+25874,2019,cf,Male,pre,p4,l1,opc,nob/c,246500,3.875,1.3552,7265.8,360,not_neg,not_int,not_lpsm,368000.0,home,1U,3180.0,EQUI,807,CIB,>74,42.71561772,North-East,direct,0,44.0
+25739,2019,ncf,Sex Not Available,nopre,p3,l2,nopc,nob/c,256500,4.56,0.0301,84.0,180,not_neg,int_only,not_lpsm,648000.0,home,1U,3420.0,EQUI,653,EXP,55-64,73.24879227,North,direct,0,23.0
+25052,2019,cf,Female,nopre,p1,l1,nopc,nob/c,446500,4.25,-0.0225,3777.88,336,not_neg,not_int,not_lpsm,248000.0,home,1U,12420.0,EXP,528,EXP,>74,96.49390244,North,direct,0,40.0
+25908,2019,cf,Male,nopre,p3,l1,opc,nob/c,466500,5.5,0.7193,4701.56,348,not_neg,not_int,not_lpsm,818000.0,home,2U,13200.0,CIB,724,EXP,25-34,84.85130112,south,direct,0,40.0
+25122,2019,cf,Sex Not Available,,p3,l1,opc,nob/c,96500,4.375,1.7709,1928.39,300,not_neg,not_int,not_lpsm,538000.0,home,2U,4140.0,EXP,798,CIB,45-54,90.57017544,south,direct,0,6.0
+24951,2019,cf,Joint,nopre,p2,l1,opc,nob/c,626500,4.25,0.2672,1605.37,348,not_neg,not_int,not_lpsm,518000.0,home,1U,78120.0,CRIF,737,EXP,35-44,68.12267658,North-East,direct,0,37.0
+25381,2019,,Joint,nopre,p3,l1,nopc,nob/c,986500,,0.5905,1722.89,360,not_neg,int_only,not_lpsm,2008000.0,home,1U,15540.0,EXP,520,EXP,>74,92.22972973,south,direct,0,18.0
+25781,2019,cf,Sex Not Available,,p3,l1,nopc,nob/c,256500,2.75,0.322,5760.0,324,not_neg,not_int,not_lpsm,758000.0,home,1U,9660.0,EQUI,740,CIB,45-54,98.98648649,North,direct,0,50.0
+25223,2019,ncf,Female,nopre,p4,l1,nopc,nob/c,686500,3.775,0.9229,3731.69,360,not_neg,not_int,not_lpsm,418000.0,home,1U,3240.0,EQUI,858,CIB,45-54,93.44512195,North,direct,0,49.0
+25821,2019,cf,Male,pre,p2,l1,nopc,nob/c,626500,,1.0186,6314.88,180,not_neg,not_int,not_lpsm,528000.0,home,4U,2520.0,EQUI,654,EXP,45-54,17.23300971,south,direct,1,15.0
+25871,2019,cf,Male,nopre,p4,l1,nopc,nob/c,256500,4.49,-0.8685,14300.25,240,not_neg,not_int,not_lpsm,528000.0,home,1U,2880.0,EXP,849,EXP,25-34,55.79896907,North,direct,1,
+25495,2019,,Male,nopre,p1,l1,nopc,nob/c,116500,5.625,0.3188,5379.95,300,not_neg,not_int,not_lpsm,788000.0,home,1U,4680.0,CRIF,726,EXP,35-44,82.71812081,central,direct,0,58.0
+24993,2019,cf,Sex Not Available,nopre,p4,l1,nopc,nob/c,346500,2.75,1.153,6332.73,156,not_neg,not_int,not_lpsm,908000.0,home,3U,11640.0,EXP,692,CIB,45-54,63.29787234,North,direct,0,22.0
+25100,2019,,Male,nopre,p1,l2,nopc,nob/c,26500,4.56,0.3056,2768.18,360,not_neg,int_only,not_lpsm,208000.0,home,4U,2700.0,EXP,534,EXP,35-44,97.73622047,North,direct,0,26.0
+25645,2019,cf,Joint,nopre,p2,l1,nopc,nob/c,336500,4.625,0.5528,4486.63,240,not_neg,not_int,not_lpsm,358000.0,home,1U,7980.0,CRIF,716,EXP,35-44,38.01369863,North,direct,1,42.0
+25683,2019,cf,Joint,,p1,l1,nopc,b/c,1506500,3.625,-0.1822,425.0,360,not_neg,not_int,not_lpsm,398000.0,home,1U,8880.0,CRIF,900,CIB,25-34,69.80633803,south,direct,0,15.0
+25821,2019,cf,Sex Not Available,pre,p4,l1,nopc,nob/c,866500,3.625,0.3218,7200.0,360,neg_amm,not_int,lpsm,178000.0,home,1U,9180.0,CRIF,630,CIB,55-64,58.02752294,south,direct,1,36.0
+25872,2019,cf,Male,nopre,p4,l1,nopc,nob/c,126500,3.875,1.0898,1660.0,108,not_neg,not_int,lpsm,208000.0,home,4U,3180.0,EXP,722,EXP,25-34,96.7325228,North,direct,1,59.0
+25743,2019,cf,Joint,pre,p3,l1,nopc,nob/c,256500,4.49,0.1427,9465.73,156,not_neg,not_int,not_lpsm,758000.0,home,4U,5760.0,CIB,541,CIB,45-54,80.01792115,south,direct,1,11.0
+25172,2019,cf,Female,nopre,p3,l1,nopc,nob/c,866500,2.75,0.6868,2468.75,156,not_neg,not_int,lpsm,268000.0,home,4U,18720.0,CIB,729,CIB,65-74,84.09090909,central,direct,1,19.0
+25230,2019,cf,Female,nopre,p3,l1,opc,nob/c,296500,3.56,-0.0529,5000.0,144,not_neg,int_only,not_lpsm,178000.0,home,4U,10980.0,CIB,884,EXP,65-74,86.52597403,North,direct,0,8.0
+24994,2019,cf,Female,nopre,p3,l1,nopc,nob/c,156500,2.99,0.6732,1401.13,312,not_neg,not_int,not_lpsm,628000.0,home,2U,14760.0,CRIF,787,CIB,35-44,111.0465116,central,direct,0,
+25467,2019,cf,Female,nopre,p1,l1,nopc,nob/c,56500,4.625,0.325,1080.37,180,neg_amm,not_int,not_lpsm,1538000.0,home,1U,5100.0,CRIF,682,EXP,65-74,98.91304348,central,direct,0,43.0
+25118,2019,ncf,Female,pre,p3,l1,nopc,nob/c,776500,4.75,0.4484,4706.73,180,not_neg,not_int,not_lpsm,218000.0,home,1U,12300.0,CRIF,749,CIB,,31.97115385,central,direct,0,26.0
+25748,2019,ncf,Male,nopre,p1,l1,nopc,nob/c,396500,4.25,0.323,4866.2,288,not_neg,not_int,not_lpsm,168000.0,home,1U,2760.0,EXP,684,CIB,>74,14.72691808,North,direct,1,10.0
+25130,2019,cf,Female,nopre,p1,l2,nopc,nob/c,276500,3.25,-0.6588,2280.0,348,not_neg,int_only,lpsm,518000.0,home,4U,13560.0,CRIF,825,EXP,55-64,54.42913386,North,direct,0,60.0
+25709,2019,cf,Joint,nopre,p4,l1,nopc,nob/c,66500,4.18,1.0648,2590.4,336,not_neg,not_int,not_lpsm,248000.0,home,1U,4980.0,CIB,600,EXP,45-54,56.72043011,south,direct,0,19.0
+25202,2019,cf,Male,,p3,l1,nopc,nob/c,196500,3.875,0.5343,8112.5,360,not_neg,not_int,lpsm,1308000.0,home,4U,1980.0,EXP,875,CIB,55-64,41.1437247,North,direct,1,29.0
+25190,2019,cf,Sex Not Available,nopre,p2,l1,nopc,nob/c,386500,4.625,0.3218,3029.75,156,not_neg,not_int,lpsm,918000.0,home,1U,7500.0,EXP,536,EXP,55-64,71.06741573,central,direct,0,48.0
